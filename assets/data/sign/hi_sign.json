@@ -1,0 +1,330 @@
+[
+  {
+    "sign": "रुकें",
+    "icon": "stop.png"
+  },
+  {
+    "sign": "बाईं ओर रहें",
+    "icon": "Keep_left.png"
+  },
+  {
+    "sign": "मार्ग दें",
+    "icon": "give_way.png"
+  },
+  {
+    "sign": "प्रवेश निषेध",
+    "icon": "no_entry.png"
+  },
+  {
+    "sign": "दाएँ तीव्र मोड़",
+    "icon": "sharp_curve_to_the_right.png"
+  },
+  {
+    "sign": "पैदल पार मार्ग",
+    "icon": "Pedestrain_crossing.png"
+  },
+  {
+    "sign": "दाएँ पार्किंग की अनुमति है",
+    "icon": "parking_on_the_right_allowed.png"
+  },
+  {
+    "sign": "यू-टर्न निषेध",
+    "icon": "u_turn_prohibited.png"
+  },
+  {
+    "sign": "हॉर्न बजाना मना है",
+    "icon": "horn_prohibited.png"
+  },
+  {
+    "sign": "संकरे पुल से पहले",
+    "icon": "narrow_bridge_ahead.png"
+  },
+  {
+    "sign": "गति प्रतिबंध समाप्त",
+    "icon": "end_of_speed_restriction.png"
+  },
+  {
+    "sign": "संकरी सड़क आगे",
+    "icon": "narrow_road_ahead.png"
+  },
+  {
+    "sign": "संरक्षित रेलवे क्रॉसिंग",
+    "icon": "level_crossing_guarded.png"
+  },
+  {
+    "sign": "ओवरटेक करना मना है",
+    "icon": "overtaking_prohibited.png"
+  },
+  {
+    "sign": "क्रॉस रोड आगे",
+    "icon": "cross_road_ahead.png"
+  },
+  {
+    "sign": "सीधे जाएँ या बाएं मुड़ें (अनिवार्य)",
+    "icon": "compulsory_go_ahead_or_turn_left.png"
+  },
+  {
+    "sign": "हॉर्न बजाना अनिवार्य",
+    "icon": "sound_horn_compulsory.png"
+  },
+  {
+    "sign": "सामने दाईं ओर सड़क",
+    "icon": "road_to_the_right_in_front.png"
+  },
+  {
+    "sign": "रुकना या पार्किंग मना है",
+    "icon": "no_stopping_or_parking.png"
+  },
+  {
+    "sign": "केवल आगे जाना अनिवार्य",
+    "icon": "compulsory_ahead_only.png"
+  },
+  {
+    "sign": "सभी मोटर वाहन निषिद्ध",
+    "icon": "all_motor_vehicles_prohibited.png"
+  },
+  {
+    "sign": "ट्रक निषिद्ध",
+    "icon": "trucks_prohibited.png"
+  },
+  {
+    "sign": "बैलगाड़ी निषिद्ध",
+    "icon": "bullock_cart_prohibited.png"
+  },
+  {
+    "sign": "पैदल यात्री निषिद्ध",
+    "icon": "pedestrians_prohibited.png"
+  },
+  {
+    "sign": "बाएँ मुड़ना मना है",
+    "icon": "left_turn_prohibited.png"
+  },
+  {
+    "sign": "गति सीमा 50 किमी/घं. से अधिक नहीं",
+    "icon": "drive_the_vehicle_not_exceeding_50_km.png"
+  },
+  {
+    "sign": "आगे जाएँ या दाईं ओर मुड़ें (अनिवार्य)",
+    "icon": "compulsory_ahead_or_turn_right.png"
+  },
+  {
+    "sign": "धीरे चलें और सावधानी से आगे बढ़ें",
+    "icon": "show_down_and_proceed_with_caution.png"
+  },
+  {
+    "sign": "बाएं ओर मोड़",
+    "icon": "left_hand_curve.png"
+  },
+  {
+    "sign": "दायां तीखा मोड़",
+    "icon": "right_hair_pin_bend.png"
+  },
+  {
+    "sign": "बायां तीखा मोड़",
+    "icon": "left_hair_pin_bend.png"
+  },
+  {
+    "sign": "दायां उल्टा मोड़",
+    "icon": "right_reverse_bend.png"
+  },
+  {
+    "sign": "बायां उल्टा मोड़",
+    "icon": "left_reverse_bend.png"
+  },
+  {
+    "sign": "वाई-जंक्शन",
+    "icon": "y_inter_section.png"
+  },
+  {
+    "sign": "धुरी भार सीमा",
+    "icon": "axle_load_limit.png"
+  },
+  {
+    "sign": "दाईं ओर मोड़ना अनिवार्य",
+    "icon": "compulsory_turn_right_ahead.png"
+  },
+  {
+    "sign": "राउंडअबाउट",
+    "icon": "road_about.png"
+  },
+  {
+    "sign": "खतरनाक गड्ढा",
+    "icon": "dangerous_dip.png"
+  },
+  {
+    "sign": "दाएं वाई-जंक्शन",
+    "icon": "y_inter_scetion_right.png"
+  },
+  {
+    "sign": "बाएं वाई-जंक्शन",
+    "icon": "y_inter_scetion_left.png"
+  },
+  {
+    "sign": "फिसलन भरी सड़क",
+    "icon": "slippery_road.png"
+  },
+  {
+    "sign": "ढीली बजरी",
+    "icon": "loose_gravel.png"
+  },
+  {
+    "sign": "साइकिल क्रॉसिंग",
+    "icon": "cycle_crossing.png"
+  },
+  {
+    "sign": "सड़क पर जानवरों की संभावना",
+    "icon": "possibility_animal_on_the_road.png"
+  },
+  {
+    "sign": "स्कूल आगे है",
+    "icon": "school_ahead.png"
+  },
+  {
+    "sign": "सड़क कार्य प्रगति पर",
+    "icon": "men_at_work.png"
+  },
+  {
+    "sign": "गिरते हुए पत्थर",
+    "icon": "falling_roacks.png"
+  },
+  {
+    "sign": "हल्का नाश्ता आगे",
+    "icon": "light_refreshment_ahead.png"
+  },
+  {
+    "sign": "तेज चढ़ाई",
+    "icon": "steep_ascend.png"
+  },
+  {
+    "sign": "तेज ढलान",
+    "icon": "steep_deascend.png"
+  },
+  {
+    "sign": "सड़क आगे चौड़ी होती है",
+    "icon": "road_widens_ahead.png"
+  },
+  {
+    "sign": "मध्यम विभाजन में अंतराल",
+    "icon": "gap_in_median.png"
+  },
+  {
+    "sign": "उबड़-खाबड़ सड़क या स्पीड ब्रेकर",
+    "icon": "hump_or_rough_road.png"
+  },
+  {
+    "sign": "बाधा आगे",
+    "icon": "barrier_ahead.png"
+  },
+  {
+    "sign": "साइड रोड से प्रवेश नहीं",
+    "icon": "no_through_side_road.png"
+  },
+  {
+    "sign": "फेरी सेवा",
+    "icon": "ferry.png"
+  },
+  {
+    "sign": "दोनों ओर पार्किंग",
+    "icon": "parking_both_sides.png"
+  },
+  {
+    "sign": "पार्किंग स्थल - स्कूटर और मोटरसाइकिल",
+    "icon": "parking_lot_scooters_motor_cycle.png"
+  },
+  {
+    "sign": "पार्किंग स्थल - ऑटो रिक्शा",
+    "icon": "parking_lot_auto_rickashwa.png"
+  },
+  {
+    "sign": "पार्किंग स्थल - टैक्सी",
+    "icon": "parking_lot_taxis.png"
+  },
+  {
+    "sign": "पेट्रोल पंप",
+    "icon": "petrol_pump.png"
+  },
+  {
+    "sign": "सावधानी से लेन बदलें",
+    "icon": "change_the_line_with_caution.png"
+  },
+  {
+    "sign": "दाईं ओर मुड़ने का संकेत",
+    "icon": "intends_turn_right.png"
+  },
+  {
+    "sign": "बाईं ओर मुड़ने का संकेत",
+    "icon": "intends_turn_left.png"
+  },
+  {
+    "sign": "गति धीमी करने का संकेत",
+    "icon": "intends_slow_down_the_vehicle.png"
+  },
+  {
+    "sign": "वाहन रोकने का संकेत",
+    "icon": "intends_stop_the_vehicle.png"
+  },
+  {
+    "sign": "पीछे से वाहन को निकलने दें",
+    "icon": "allow__pass_the_vehicle_from_behind.png"
+  },
+  {
+    "sign": "आवश्यकतानुसार ट्रैक बदलें",
+    "icon": "can_change_track_if_required.png"
+  },
+  {
+    "sign": "नो पार्किंग",
+    "icon": "no_parking.png"
+  },
+  {
+    "sign": "बाईं ओर मुड़ना अनिवार्य",
+    "icon": "compulsory_turn_left.png"
+  },
+  {
+    "sign": "अस्पताल",
+    "icon": "hospital.png"
+  },
+  {
+    "sign": "दाईं ओर मुड़ना अनिवार्य",
+    "icon": "compulsory_turn_right.png"
+  },
+  {
+    "sign": "दोनों दिशा में प्रतिबंधित",
+    "icon": "prohibited_both_direction.png"
+  },
+  {
+    "sign": "मुख्य सड़क आगे",
+    "icon": "major_road_ahead.png"
+  },
+  {
+    "sign": "संरक्षित रेलवे क्रॉसिंग",
+    "icon": "guarded_railway_crossing.png"
+  },
+  {
+    "sign": "आराम स्थल",
+    "icon": "resting_place.png"
+  },
+  {
+    "sign": "रास्ता बंद",
+    "icon": "no_through_road.png"
+  },
+  {
+    "sign": "एकतरफा रास्ता",
+    "icon": "on_way_sign.png"
+  },
+  {
+    "sign": "पीली रेखा पार करना मना है",
+    "icon": "crossing_yellow_line_prohibited.png"
+  },
+  {
+    "sign": "दाईं ओर मुड़ना मना है",
+    "icon": "right_turn_prohibited.png"
+  },
+  {
+    "sign": "बाईं ओर साइड रोड",
+    "icon": "side_road_left.png"
+  },
+  {
+    "sign": "विकर्ण चौराहा",
+    "icon": "staggered_intersections.png"
+  }
+]

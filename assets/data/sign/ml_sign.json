@@ -1,0 +1,330 @@
+[
+   {
+    "sign": "നിർത്തുക",
+    "icon": "stop.png"
+   },
+   {
+    "sign": "ഇടത്തേക്ക് പോകുക",
+    "icon": "Keep_left.png"
+   },
+    {
+    "sign": "വഴി കൊടുക്കുക",
+    "icon": "give_way.png"
+   },
+    {
+    "sign": "പ്രവേശനമില്ല",
+    "icon": "no_entry.png"
+   },
+    {
+    "sign": "വലത്തേക്ക് കുത്തനെയുള്ള വളവ്",
+    "icon": "sharp_curve_to_the_right.png"
+   },
+  {
+    "sign": "കാൽനട ക്രോസിംഗ്",
+    "icon": "Pedestrain_crossing.png"
+   },
+    {
+    "sign": "വലതുവശത്ത് പാർക്കിംഗ് അനുവദനീയമാണ്",
+    "icon": "parking_on_the_right_allowed.png"
+   },
+    {
+    "sign": "യു-ടേൺ നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "u_turn_prohibited.png"
+   },
+    {
+    "sign": "ഹോൺ നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "horn_prohibited.png"
+   },
+    {
+    "sign": "മുന്നിൽ ഇടുങ്ങിയ പാലം",
+    "icon": "narrow_bridge_ahead.png"
+   },
+  {
+    "sign": "വേഗത നിയന്ത്രണം അവസാനിക്കുന്നു",
+    "icon": "end_of_speed_restriction.png"
+   },
+    {
+    "sign": "മുന്നിൽ ഇടുങ്ങിയ റോഡ്",
+    "icon": "narrow_road_ahead.png"
+   },
+    {
+    "sign": "കാവലുള്ള ലെവൽ ക്രോസിംഗ്",
+    "icon": "level_crossing_guarded.png"
+   },
+  {
+    "sign": "മുന്നോട്ട് പോകുന്നത് നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "overtaking_prohibited.png"
+   },
+  {
+    "sign": "മുന്നിൽ ക്രോസ് റോഡ്",
+    "icon": "cross_road_ahead.png"
+   },
+    {
+    "sign": "നേരെ പോകുക അല്ലെങ്കിൽ ഇടത്തേക്ക് തിരിയുക (നിർബന്ധം)",
+    "icon": "compulsory_go_ahead_or_turn_left.png"
+   },
+  {
+    "sign": "ഹോൺ അടിക്കുന്നത് നിർബന്ധം",
+    "icon": "sound_horn_compulsory.png"
+   },
+    {
+    "sign": "മുന്നിൽ വലതുവശത്തുള്ള റോഡ്",
+    "icon": "road_to_the_right_in_front.png"
+   },
+    {
+    "sign": "നിർത്തരുത് അല്ലെങ്കിൽ പാർക്ക് ചെയ്യരുത്",
+    "icon": "no_stopping_or_parking.png"
+   },
+    {
+    "sign": "നേരെ മാത്രം (നിർബന്ധം)",
+    "icon": "compulsory_ahead_only.png"
+   },
+    {
+    "sign": "എല്ലാ മോട്ടോർ വാഹനങ്ങളും നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "all_motor_vehicles_prohibited.png"
+   },
+  {
+    "sign": "ട്രക്കുകൾ നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "trucks_prohibited.png"
+   },
+    {
+    "sign": "കാളവണ്ടി നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "bullock_cart_prohibited.png"
+   },
+    {
+    "sign": "കാൽനടയാത്രക്കാർ നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "pedestrians_prohibited.png"
+   },
+    {
+    "sign": "ഇടത്തേക്ക് തിരിയുന്നത് നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "left_turn_prohibited.png"
+   },
+    {
+    "sign": "വാഹനം 0 km/hr കവിയരുത്",
+    "icon": "drive_the_vehicle_not_exceeding_50_km.png"
+   },
+    {
+    "sign": "നേരെ പോകുക അല്ലെങ്കിൽ വലത്തേക്ക് തിരിയുക (നിർബന്ധം)",
+    "icon": "compulsory_ahead_or_turn_right.png"
+   },
+    {
+    "sign": "വേഗത കുറച്ച് ശ്രദ്ധയോടെ മുന്നോട്ട് പോകുക",
+    "icon": "show_down_and_proceed_with_caution.png"
+   },
+    {
+    "sign": "ഇടത് കൈ വളവ്",
+    "icon": "left_hand_curve.png"
+   },
+    {
+    "sign": "വലത് ഹെയർ പിൻ വളവ്",
+    "icon": "right_hair_pin_bend.png"
+   },
+    {
+    "sign": "ഇടത് ഹെയർ പിൻ വളവ്",
+    "icon": "left_hair_pin_bend.png"
+   },
+    {
+    "sign": "വലത് റിവേഴ്സ് വളവ്",
+    "icon": "right_reverse_bend.png"
+   },
+    {
+    "sign": "ഇടത് റിവേഴ്സ് വളവ്",
+    "icon": "left_reverse_bend.png"
+   },
+    {
+    "sign": "വൈ-ഇന്റർസെക്ഷൻ",
+    "icon": "y_inter_section.png"
+   },
+    {
+    "sign": "ആക്സിൽ ലോഡ് പരിധി",
+    "icon": "axle_load_limit.png"
+   },
+  {
+    "sign": "മുന്നിൽ വലത്തേക്ക് തിരിയുക (നിർബന്ധം)",
+    "icon": "compulsory_turn_right_ahead.png"
+   },
+    {
+    "sign": "റൗണ്ട് എബൗട്ട്",
+    "icon": "road_about.png"
+   },
+    {
+    "sign": "അപകടകരമായ താഴ്ച",
+    "icon": "dangerous_dip.png"
+   },
+    {
+    "sign": "വൈ-ഇന്റർസെക്ഷൻ വലത്",
+    "icon": "y_inter_scetion_right.png"
+   },
+    {
+    "sign": "വൈ-ഇന്റർസെക്ഷൻ ഇടത്",
+    "icon": "y_inter_scetion_left.png"
+   },
+	{
+    "sign": "വഴുക്കുന്ന റോഡ്",
+    "icon": "slippery_road.png"
+   },
+   {
+    "sign": "ചരൽക്കല്ലുകൾ",
+    "icon": "loose_gravel.png"
+   },
+   {
+    "sign": "സൈക്കിൾ ക്രോസിംഗ്",
+    "icon": "cycle_crossing.png"
+   },
+   {
+    "sign": "റോഡിൽ മൃഗങ്ങളെ കാണാൻ സാധ്യതയുണ്ട്",
+    "icon": "possibility_animal_on_the_road.png"
+   },
+   {
+    "sign": "മുന്നിൽ സ്കൂൾ",
+    "icon": "school_ahead.png"
+   },
+   {
+    "sign": "ജോലിയിലുള്ള ആളുകൾ",
+    "icon": "men_at_work.png"
+   },
+  {
+    "sign": "പാറകൾ വീഴുന്നു",
+    "icon": "falling_roacks.png"
+   },
+  {
+    "sign": "മുന്നിൽ ലഘുഭക്ഷണം",
+    "icon": "light_refreshment_ahead.png"
+   },
+  {
+    "sign": "കുത്തനെയുള്ള കയറ്റം",
+    "icon": "steep_ascend.png"
+   },
+  {
+    "sign": "കുത്തനെയുള്ള ഇറക്കം",
+    "icon": "steep_deascend.png"
+   },
+  {
+    "sign": "മുന്നിൽ റോഡ് വീതിയേറിയതാകുന്നു",
+    "icon": "road_widens_ahead.png"
+   },
+   {
+    "sign": "മധ്യഭാഗത്ത് വിടവ്",
+    "icon": "gap_in_median.png"
+   },
+  {
+    "sign": "ഹമ്പ് അല്ലെങ്കിൽ കുണ്ടും കുഴിയുമുള്ള റോഡ്",
+    "icon": "hump_or_rough_road.png"
+   },
+   {
+    "sign": "മുന്നിൽ ബാരിയർ",
+    "icon": "barrier_ahead.png"
+   },
+  {
+    "sign": "സൈഡ് റോഡിലൂടെ പ്രവേശനമില്ല",
+    "icon": "no_through_side_road.png"
+   },
+  {
+    "sign": "ഫെറി",
+    "icon": "ferry.png"
+   },
+  {
+    "sign": "ഇരുവശത്തും പാർക്കിംഗ്",
+    "icon": "parking_both_sides.png"
+   },
+  {
+    "sign": "പാർക്കിംഗ് സ്ഥലം - സ്കൂട്ടറുകളും മോട്ടോർ സൈക്കിളുകളും",
+    "icon": "parking_lot_scooters_motor_cycle.png"
+   },
+  {
+    "sign": "പാർക്കിംഗ് സ്ഥലം - ഓട്ടോറിക്ഷകൾ",
+    "icon": "parking_lot_auto_rickashwa.png"
+   },
+   {
+    "sign": "പാർക്കിംഗ് സ്ഥലം - ടാക്സികൾ",
+    "icon": "parking_lot_taxis.png"
+   },
+  {
+    "sign": "പെട്രോൾ പമ്പ്",
+    "icon": "petrol_pump.png"
+   },
+  {
+    "sign": "ശ്രദ്ധയോടെ ലൈൻ മാറ്റുക",
+    "icon": "change_the_line_with_caution.png"
+   },
+   {
+    "sign": "വലത്തേക്ക് തിരിയാൻ ഉദ്ദേശിക്കുന്നു",
+    "icon": "intends_turn_right.png"
+   },
+   {
+    "sign": "ഇടത്തേക്ക് തിരിയാൻ ഉദ്ദേശിക്കുന്നു",
+    "icon": "intends_turn_left.png"
+   },
+   {
+    "sign": "വാഹനം വേഗത കുറയ്ക്കാൻ ഉദ്ദേശിക്കുന്നു",
+    "icon": "intends_slow_down_the_vehicle.png"
+   },
+   {
+    "sign": "വാഹനം നിർത്താൻ ഉദ്ദേശിക്കുന്നു",
+    "icon": "intends_stop_the_vehicle.png"
+   },
+  {
+    "sign": "പിന്നിൽ നിന്ന് വാഹനത്തെ കടന്നുപോകാൻ അനുവദിക്കുക",
+    "icon": "allow__pass_the_vehicle_from_behind.png"
+   },
+  {
+    "sign": "ആവശ്യമെങ്കിൽ ട്രാക്ക് മാറ്റാവുന്നതാണ്",
+    "icon": "can_change_track_if_required.png"
+   },
+   {
+    "sign": "നോ പാർക്കിംഗ്",
+    "icon": "no_parking.png"
+   },
+  {
+    "sign": "നിർബന്ധമായും ഇടത്തേക്ക് തിരിയുക",
+    "icon": "compulsory_turn_left.png"
+   },
+   {
+    "sign": "ആശുപത്രി",
+    "icon": "hospital.png"
+   },
+  {
+    "sign": "നിർബന്ധമായും വലത്തേക്ക് തിരിയുക",
+    "icon": "compulsory_turn_right.png"
+   },
+   {
+    "sign": "ഇരുദിശകളിലും നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "prohibited_both_direction.png"
+   },
+  {
+    "sign": "മുന്നിൽ പ്രധാന റോഡ്",
+    "icon": "major_road_ahead.png"
+   },
+  {
+    "sign": "കാവലുള്ള റെയിൽവേ ക്രോസിംഗ്",
+    "icon": "guarded_railway_crossing.png"
+   },
+  {
+    "sign": "വിശ്രമസ്ഥലം",
+    "icon": "resting_place.png"
+   },
+  {
+    "sign": "തുടർച്ചയായ റോഡ് ഇല്ല",
+    "icon": "no_through_road.png"
+   },
+  {
+    "sign": "വൺ-വേ സൈൻ",
+    "icon": "on_way_sign.png"
+   },
+  {
+    "sign": "മഞ്ഞ വര കടക്കുന്നത് നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "crossing_yellow_line_prohibited.png"
+   },
+  {
+    "sign": "വലത്തേക്ക് തിരിയുന്നത് നിരോധിച്ചിരിക്കുന്നു",
+    "icon": "right_turn_prohibited.png"
+  },
+  {
+    "sign": "സൈഡ് റോഡ് ഇടത്",
+    "icon": "side_road_left.png"
+  },
+  {
+    "sign": "സ്റ്റാഗേർഡ് ഇന്റർസെക്ഷനുകൾ",
+    "icon": "staggered_intersections.png"
+  }
+]

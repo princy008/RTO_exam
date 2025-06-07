@@ -1,0 +1,330 @@
+[
+   {
+    "sign": "நிறுத்து",
+    "icon": "stop.png"
+   },
+   {
+    "sign": "இடதுபுறம் செல்லவும்",
+    "icon": "Keep_left.png"
+   },
+    {
+    "sign": "வழி விடு",
+    "icon": "give_way.png"
+   },
+    {
+    "sign": "நுழைவு இல்லை",
+    "icon": "no_entry.png"
+   },
+    {
+    "sign": "வலதுபுறம் கூர்மையான வளைவு",
+    "icon": "sharp_curve_to_the_right.png"
+   },
+  {
+    "sign": "பாதசாரி கடக்கும் இடம்",
+    "icon": "Pedestrain_crossing.png"
+   },
+    {
+    "sign": "வலதுபுறம் வாகன நிறுத்தம் அனுமதிக்கப்பட்டுள்ளது",
+    "icon": "parking_on_the_right_allowed.png"
+   },
+    {
+    "sign": "யூ-டர்ன் தடைசெய்யப்பட்டுள்ளது",
+    "icon": "u_turn_prohibited.png"
+   },
+    {
+    "sign": "ஹாரன் அடிக்க தடை",
+    "icon": "horn_prohibited.png"
+   },
+    {
+    "sign": "முன்னால் குறுகிய பாலம்",
+    "icon": "narrow_bridge_ahead.png"
+   },
+  {
+    "sign": "வேகக் கட்டுப்பாடு முடிவு",
+    "icon": "end_of_speed_restriction.png"
+   },
+    {
+    "sign": "முன்னால் குறுகிய சாலை",
+    "icon": "narrow_road_ahead.png"
+   },
+    {
+    "sign": "காவல் கொண்ட லெவல் கிராசிங்",
+    "icon": "level_crossing_guarded.png"
+   },
+  {
+    "sign": "முந்திச் செல்ல தடை",
+    "icon": "overtaking_prohibited.png"
+   },
+  {
+    "sign": "முன்னால் குறுக்கு சாலை",
+    "icon": "cross_road_ahead.png"
+   },
+    {
+    "sign": "நேராகச் செல்லவும் அல்லது இடதுபுறம் திரும்பவும் (கட்டாய)",
+    "icon": "compulsory_go_ahead_or_turn_left.png"
+   },
+  {
+    "sign": "ஹாரன் கட்டாயம்",
+    "icon": "sound_horn_compulsory.png"
+   },
+    {
+    "sign": "முன்னால் வலதுபுறம் சாலை",
+    "icon": "road_to_the_right_in_front.png"
+   },
+    {
+    "sign": "நிறுத்தவோ அல்லது பார்க்கிங் செய்யவோ கூடாது",
+    "icon": "no_stopping_or_parking.png"
+   },
+    {
+    "sign": "நேராகச் செல்லவும் (கட்டாய)",
+    "icon": "compulsory_ahead_only.png"
+   },
+    {
+    "sign": "அனைத்து மோட்டார் வாகனங்களும் தடைசெய்யப்பட்டுள்ளன",
+    "icon": "all_motor_vehicles_prohibited.png"
+   },
+  {
+    "sign": "டிரக்குகள் தடைசெய்யப்பட்டுள்ளன",
+    "icon": "trucks_prohibited.png"
+   },
+    {
+    "sign": "மாட்டு வண்டி தடைசெய்யப்பட்டுள்ளது",
+    "icon": "bullock_cart_prohibited.png"
+   },
+    {
+    "sign": "பாதசாரிகள் தடைசெய்யப்பட்டுள்ளனர்",
+    "icon": "pedestrians_prohibited.png"
+   },
+    {
+    "sign": "இடதுபுறம் திரும்ப தடை",
+    "icon": "left_turn_prohibited.png"
+   },
+    {
+    "sign": "வாகனம் 0 கிமீ/மணிக்கு மேல் செல்லக்கூடாது",
+    "icon": "drive_the_vehicle_not_exceeding_50_km.png"
+   },
+    {
+    "sign": "நேராகச் செல்லவும் அல்லது வலதுபுறம் திரும்பவும் (கட்டாய)",
+    "icon": "compulsory_ahead_or_turn_right.png"
+   },
+    {
+    "sign": "வேகத்தைக் குறைத்து கவனமாகச் செல்லவும்",
+    "icon": "show_down_and_proceed_with_caution.png"
+   },
+    {
+    "sign": "இடதுபுற வளைவு",
+    "icon": "left_hand_curve.png"
+   },
+    {
+    "sign": "வலது ஹேர் பின் வளைவு",
+    "icon": "right_hair_pin_bend.png"
+   },
+    {
+    "sign": "இடது ஹேர் பின் வளைவு",
+    "icon": "left_hair_pin_bend.png"
+   },
+    {
+    "sign": "வலது தலைகீழ் வளைவு",
+    "icon": "right_reverse_bend.png"
+   },
+    {
+    "sign": "இடது தலைகீழ் வளைவு",
+    "icon": "left_reverse_bend.png"
+   },
+    {
+    "sign": "ஒய்-சந்திப்பு",
+    "icon": "y_inter_section.png"
+   },
+    {
+    "sign": "அச்சு சுமை வரம்பு",
+    "icon": "axle_load_limit.png"
+   },
+  {
+    "sign": "முன்னால் வலதுபுறம் கட்டாயத் திருப்பம்",
+    "icon": "compulsory_turn_right_ahead.png"
+   },
+    {
+    "sign": "சுற்றுவட்டப் பாதை",
+    "icon": "road_about.png"
+   },
+    {
+    "sign": "ஆபத்தான பள்ளம்",
+    "icon": "dangerous_dip.png"
+   },
+    {
+    "sign": "ஒய்-சந்திப்பு வலது",
+    "icon": "y_inter_scetion_right.png"
+   },
+    {
+    "sign": "ஒய்-சந்திப்பு இடது",
+    "icon": "y_inter_scetion_left.png"
+   },
+	{
+    "sign": "வழுக்கும் சாலை",
+    "icon": "slippery_road.png"
+   },
+   {
+    "sign": "கல்லும் மண்ணும் கலந்த சாலை",
+    "icon": "loose_gravel.png"
+   },
+   {
+    "sign": "சைக்கிள் கடக்கும் இடம்",
+    "icon": "cycle_crossing.png"
+   },
+   {
+    "sign": "சாலையில் விலங்குகள் வர வாய்ப்பு",
+    "icon": "possibility_animal_on_the_road.png"
+   },
+   {
+    "sign": "முன்னால் பள்ளி",
+    "icon": "school_ahead.png"
+   },
+   {
+    "sign": "வேலையில் உள்ளவர்கள்",
+    "icon": "men_at_work.png"
+   },
+  {
+    "sign": "பாறைகள் விழுகின்றன",
+    "icon": "falling_roacks.png"
+   },
+  {
+    "sign": "முன்னால் சிற்றுண்டிச் சாலை",
+    "icon": "light_refreshment_ahead.png"
+   },
+  {
+    "sign": "கடும் ஏற்றம்",
+    "icon": "steep_ascend.png"
+   },
+  {
+    "sign": "கடும் இறக்கம்",
+    "icon": "steep_deascend.png"
+   },
+  {
+    "sign": "முன்னால் சாலை அகலமாகிறது",
+    "icon": "road_widens_ahead.png"
+   },
+   {
+    "sign": "மையத்தில் இடைவெளி",
+    "icon": "gap_in_median.png"
+   },
+  {
+    "sign": "மேடு அல்லது கரடுமுரடான சாலை",
+    "icon": "hump_or_rough_road.png"
+   },
+   {
+    "sign": "முன்னால் தடுப்பு",
+    "icon": "barrier_ahead.png"
+   },
+  {
+    "sign": "பக்க சாலை இல்லை",
+    "icon": "no_through_side_road.png"
+   },
+  {
+    "sign": "படகுத் துறை",
+    "icon": "ferry.png"
+   },
+  {
+    "sign": "இருபுறமும் வாகன நிறுத்தம்",
+    "icon": "parking_both_sides.png"
+   },
+  {
+    "sign": "வாகன நிறுத்தம் - ஸ்கூட்டர்கள் மற்றும் மோட்டார் சைக்கிள்கள்",
+    "icon": "parking_lot_scooters_motor_cycle.png"
+   },
+  {
+    "sign": "வாகன நிறுத்தம் - ஆட்டோ ரிக்‌ஷாக்கள்",
+    "icon": "parking_lot_auto_rickashwa.png"
+   },
+   {
+    "sign": "வாகன நிறுத்தம் - டாக்சிகள்",
+    "icon": "parking_lot_taxis.png"
+   },
+  {
+    "sign": "பெட்ரோல் பம்ப்",
+    "icon": "petrol_pump.png"
+   },
+  {
+    "sign": "கவனமாகப் பாதை மாற்றவும்",
+    "icon": "change_the_line_with_caution.png"
+   },
+   {
+    "sign": "வலதுபுறம் திரும்ப எண்ணம்",
+    "icon": "intends_turn_right.png"
+   },
+   {
+    "sign": "இடதுபுறம் திரும்ப எண்ணம்",
+    "icon": "intends_turn_left.png"
+   },
+   {
+    "sign": "வாகனத்தை மெதுவாக்க எண்ணம்",
+    "icon": "intends_slow_down_the_vehicle.png"
+   },
+   {
+    "sign": "வாகனத்தை நிறுத்த எண்ணம்",
+    "icon": "intends_stop_the_vehicle.png"
+   },
+  {
+    "sign": "பின்னால் இருந்து வாகனத்தை கடக்க அனுமதிக்கவும்",
+    "icon": "allow__pass_the_vehicle_from_behind.png"
+   },
+  {
+    "sign": "தேவைப்பட்டால் பாதை மாற்றலாம்",
+    "icon": "can_change_track_if_required.png"
+   },
+   {
+    "sign": "வாகன நிறுத்தம் இல்லை",
+    "icon": "no_parking.png"
+   },
+  {
+    "sign": "கட்டாயமாக இடதுபுறம் திரும்பவும்",
+    "icon": "compulsory_turn_left.png"
+   },
+   {
+    "sign": "மருத்துவமனை",
+    "icon": "hospital.png"
+   },
+  {
+    "sign": "கட்டாயமாக வலதுபுறம் திரும்பவும்",
+    "icon": "compulsory_turn_right.png"
+   },
+   {
+    "sign": "இரு திசைகளிலும் தடை",
+    "icon": "prohibited_both_direction.png"
+   },
+  {
+    "sign": "முன்னால் முக்கிய சாலை",
+    "icon": "major_road_ahead.png"
+   },
+  {
+    "sign": "காவல் கொண்ட ரயில்வே கடப்பு",
+    "icon": "guarded_railway_crossing.png"
+   },
+  {
+    "sign": "ஓய்வெடுக்கும் இடம்",
+    "icon": "resting_place.png"
+   },
+  {
+    "sign": "நேரடிச் சாலை இல்லை",
+    "icon": "no_through_road.png"
+   },
+  {
+    "sign": "ஒரு வழிப் பாதை அடையாளம்",
+    "icon": "on_way_sign.png"
+   },
+  {
+    "sign": "மஞ்சள் கோட்டைத் தாண்டுவது தடைசெய்யப்பட்டுள்ளது",
+    "icon": "crossing_yellow_line_prohibited.png"
+   },
+  {
+    "sign": "வலதுபுறம் திரும்ப தடை",
+    "icon": "right_turn_prohibited.png"
+  },
+  {
+    "sign": "பக்க சாலை இடது",
+    "icon": "side_road_left.png"
+  },
+  {
+    "sign": "ஒழுங்கற்ற சந்திப்புகள்",
+    "icon": "staggered_intersections.png"
+  }
+]

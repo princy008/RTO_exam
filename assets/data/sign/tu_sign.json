@@ -1,0 +1,330 @@
+[
+  {
+    "sign": "ఆపు",
+    "icon": "stop.png"
+  },
+  {
+    "sign": "ఎడమవైపు ఉంచండి",
+    "icon": "Keep_left.png"
+  },
+  {
+    "sign": "దారి ఇవ్వండి",
+    "icon": "give_way.png"
+  },
+  {
+    "sign": "ప్రవేశం లేదు",
+    "icon": "no_entry.png"
+  },
+  {
+    "sign": "కుడివైపు షార్ప్ కర్వ్",
+    "icon": "sharp_curve_to_the_right.png"
+  },
+  {
+    "sign": "పాదచారుల క్రాసింగ్",
+    "icon": "Pedestrain_crossing.png"
+  },
+  {
+    "sign": "కుడివైపు పార్కింగ్ అనుమతించబడింది",
+    "icon": "parking_on_the_right_allowed.png"
+  },
+  {
+    "sign": "యూ-టర్న్ నిషేధించబడింది",
+    "icon": "u_turn_prohibited.png"
+  },
+  {
+    "sign": "హారన్ నిషేధించబడింది",
+    "icon": "horn_prohibited.png"
+  },
+  {
+    "sign": "ముందు ఇరుకైన వంతెన",
+    "icon": "narrow_bridge_ahead.png"
+  },
+  {
+    "sign": "వేగ పరిమితి ముగింపు",
+    "icon": "end_of_speed_restriction.png"
+  },
+  {
+    "sign": "ముందు ఇరుకైన రహదారి",
+    "icon": "narrow_road_ahead.png"
+  },
+  {
+    "sign": "లెవల్ క్రాసింగ్ రక్షితం",
+    "icon": "level_crossing_guarded.png"
+  },
+  {
+    "sign": "ఓవర్‌టేకింగ్ నిషేధించబడింది",
+    "icon": "overtaking_prohibited.png"
+  },
+  {
+    "sign": "ముందు క్రాస్ రోడ్",
+    "icon": "cross_road_ahead.png"
+  },
+  {
+    "sign": "తప్పనిసరిగా ముందుకు వెళ్లండి లేదా ఎడమవైపు తిరగండి",
+    "icon": "compulsory_go_ahead_or_turn_left.png"
+  },
+  {
+    "sign": "హారన్ మోగించడం తప్పనిసరి",
+    "icon": "sound_horn_compulsory.png"
+  },
+  {
+    "sign": "ముందు కుడివైపు రహదారి",
+    "icon": "road_to_the_right_in_front.png"
+  },
+  {
+    "sign": "నిలపడం లేదా పార్కింగ్ లేదు",
+    "icon": "no_stopping_or_parking.png"
+  },
+  {
+    "sign": "తప్పనిసరిగా ముందుకు మాత్రమే",
+    "icon": "compulsory_ahead_only.png"
+  },
+  {
+    "sign": "అన్ని మోటారు వాహనాలు నిషేధించబడ్డాయి",
+    "icon": "all_motor_vehicles_prohibited.png"
+  },
+  {
+    "sign": "ట్రక్కులు నిషేధించబడ్డాయి",
+    "icon": "trucks_prohibited.png"
+  },
+  {
+    "sign": "ఎడ్ల బండి నిషేధించబడింది",
+    "icon": "bullock_cart_prohibited.png"
+  },
+  {
+    "sign": "పాదచారుల నిషేధం",
+    "icon": "pedestrians_prohibited.png"
+  },
+  {
+    "sign": "ఎడమ మలుపు నిషేధించబడింది",
+    "icon": "left_turn_prohibited.png"
+  },
+  {
+    "sign": "వాహనాన్ని 0 కిమీ/గం మించకుండా నడపండి",
+    "icon": "drive_the_vehicle_not_exceeding_50_km.png"
+  },
+  {
+    "sign": "తప్పనిసరిగా ముందుకు లేదా కుడివైపు తిరగండి",
+    "icon": "compulsory_ahead_or_turn_right.png"
+  },
+  {
+    "sign": "నెమ్మదిగా వెళ్లి జాగ్రత్తగా కొనసాగండి",
+    "icon": "show_down_and_proceed_with_caution.png"
+  },
+  {
+    "sign": "ఎడమ చేతి వంపు",
+    "icon": "left_hand_curve.png"
+  },
+  {
+    "sign": "కుడి హెయిర్ పిన్ మలుపు",
+    "icon": "right_hair_pin_bend.png"
+  },
+  {
+    "sign": "ఎడమ హెయిర్ పిన్ మలుపు",
+    "icon": "left_hair_pin_bend.png"
+  },
+  {
+    "sign": "కుడి రివర్స్ మలుపు",
+    "icon": "right_reverse_bend.png"
+  },
+  {
+    "sign": "ఎడమ రివర్స్ మలుపు",
+    "icon": "left_reverse_bend.png"
+  },
+  {
+    "sign": "వై-ఇంటర్‌సెక్షన్",
+    "icon": "y_inter_section.png"
+  },
+  {
+    "sign": "యాక్సిల్ లోడ్ పరిమితి",
+    "icon": "axle_load_limit.png"
+  },
+  {
+    "sign": "తప్పనిసరిగా కుడివైపు తిరగండి",
+    "icon": "compulsory_turn_right_ahead.png"
+  },
+  {
+    "sign": "రౌండ్ అబౌట్",
+    "icon": "road_about.png"
+  },
+  {
+    "sign": "ప్రమాదకరమైన డిప్",
+    "icon": "dangerous_dip.png"
+  },
+  {
+    "sign": "వై-ఇంటర్‌సెక్షన్ కుడి",
+    "icon": "y_inter_scetion_right.png"
+  },
+  {
+    "sign": "వై-ఇంటర్‌సెక్షన్ ఎడమ",
+    "icon": "y_inter_scetion_left.png"
+  },
+  {
+    "sign": "జారే రహదారి",
+    "icon": "slippery_road.png"
+  },
+  {
+    "sign": "వదులుగా ఉన్న కంకర",
+    "icon": "loose_gravel.png"
+  },
+  {
+    "sign": "సైకిల్ క్రాసింగ్",
+    "icon": "cycle_crossing.png"
+  },
+  {
+    "sign": "రహదారిపై జంతువులు ఉండే అవకాశం",
+    "icon": "possibility_animal_on_the_road.png"
+  },
+  {
+    "sign": "ముందు పాఠశాల",
+    "icon": "school_ahead.png"
+  },
+  {
+    "sign": "పనిలో ఉన్న మనుషులు",
+    "icon": "men_at_work.png"
+  },
+  {
+    "sign": "రాళ్లు పడుతున్నాయి",
+    "icon": "falling_roacks.png"
+  },
+  {
+    "sign": "ముందు తేలికపాటి స్నాక్స్",
+    "icon": "light_refreshment_ahead.png"
+  },
+  {
+    "sign": "నిటారుగా ఎక్కడం",
+    "icon": "steep_ascend.png"
+  },
+  {
+    "sign": "నిటారుగా దిగడం",
+    "icon": "steep_deascend.png"
+  },
+  {
+    "sign": "ముందు రహదారి విస్తరిస్తుంది",
+    "icon": "road_widens_ahead.png"
+  },
+  {
+    "sign": "మీడియన్‌లో ఖాళీ",
+    "icon": "gap_in_median.png"
+  },
+  {
+    "sign": "గుట్ట లేదా కఠినమైన రహదారి",
+    "icon": "hump_or_rough_road.png"
+  },
+  {
+    "sign": "ముందు అడ్డంకి",
+    "icon": "barrier_ahead.png"
+  },
+  {
+    "sign": "పక్క రహదారి లేదు",
+    "icon": "no_through_side_road.png"
+  },
+  {
+    "sign": "ఫెర్రీ",
+    "icon": "ferry.png"
+  },
+  {
+    "sign": "రెండు వైపులా పార్కింగ్",
+    "icon": "parking_both_sides.png"
+  },
+  {
+    "sign": "పార్కింగ్ స్థలం - స్కూటర్లు మరియు మోటార్ సైకిల్",
+    "icon": "parking_lot_scooters_motor_cycle.png"
+  },
+  {
+    "sign": "పార్కింగ్ స్థలం - ఆటో రిక్షాలు",
+    "icon": "parking_lot_auto_rickashwa.png"
+  },
+  {
+    "sign": "పార్కింగ్ స్థలం - టాక్సీలు",
+    "icon": "parking_lot_taxis.png"
+  },
+  {
+    "sign": "పెట్రోల్ పంపు",
+    "icon": "petrol_pump.png"
+  },
+  {
+    "sign": "జాగ్రత్తగా లైన్ మార్చండి",
+    "icon": "change_the_line_with_caution.png"
+  },
+  {
+    "sign": "కుడివైపు తిరగడానికి ఉద్దేశించబడింది",
+    "icon": "intends_turn_right.png"
+  },
+  {
+    "sign": "ఎడమవైపు తిరగడానికి ఉద్దేశించబడింది",
+    "icon": "intends_turn_left.png"
+  },
+  {
+    "sign": "వాహనం నెమ్మదిగా చేయడానికి ఉద్దేశించబడింది",
+    "icon": "intends_slow_down_the_vehicle.png"
+  },
+  {
+    "sign": "వాహనాన్ని ఆపడానికి ఉద్దేశించబడింది",
+    "icon": "intends_stop_the_vehicle.png"
+  },
+  {
+    "sign": "వెనుక నుండి వాహనాన్ని వెళ్ళనివ్వండి",
+    "icon": "allow__pass_the_vehicle_from_behind.png"
+  },
+  {
+    "sign": "అవసరమైతే ట్రాక్ మార్చవచ్చు",
+    "icon": "can_change_track_if_required.png"
+  },
+  {
+    "sign": "పార్కింగ్ లేదు",
+    "icon": "no_parking.png"
+  },
+  {
+    "sign": "తప్పనిసరిగా ఎడమవైపు తిరగండి",
+    "icon": "compulsory_turn_left.png"
+  },
+  {
+    "sign": "ఆసుపత్రి",
+    "icon": "hospital.png"
+  },
+  {
+    "sign": "తప్పనిసరిగా కుడివైపు తిరగండి",
+    "icon": "compulsory_turn_right.png"
+  },
+  {
+    "sign": "రెండు దిశలలో నిషేధించబడింది",
+    "icon": "prohibited_both_direction.png"
+  },
+  {
+    "sign": "ముందు ప్రధాన రహదారి",
+    "icon": "major_road_ahead.png"
+  },
+  {
+    "sign": "రక్షిత రైల్వే క్రాసింగ్",
+    "icon": "guarded_railway_crossing.png"
+  },
+  {
+    "sign": "విశ్రాంతి స్థలం",
+    "icon": "resting_place.png"
+  },
+  {
+    "sign": "రహదారి లేదు",
+    "icon": "no_through_road.png"
+  },
+  {
+    "sign": "ఒక-మార్గం సూచన",
+    "icon": "on_way_sign.png"
+  },
+  {
+    "sign": "పసుపు గీతను దాటడం నిషేధించబడింది",
+    "icon": "crossing_yellow_line_prohibited.png"
+  },
+  {
+    "sign": "కుడి మలుపు నిషేధించబడింది",
+    "icon": "right_turn_prohibited.png"
+  },
+  {
+    "sign": "సైడ్ రోడ్ ఎడమ",
+    "icon": "side_road_left.png"
+  },
+  {
+    "sign": "వరుసలేని కూడళ్లు",
+    "icon": "staggered_intersections.png"
+  }
+]

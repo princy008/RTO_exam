@@ -1,0 +1,2501 @@
+[
+  {
+    "question_number": 1,
+    "question": "পথচারী পারাপারের কাছাকাছি, যখন পথচারীরা রাস্তা পার হওয়ার জন্য অপেক্ষা করছে, তখন আপনার উচিত",
+    "options": [
+      "হর্ন বাজিয়ে এগিয়ে যান",
+      "ধীরে চলুন, হর্ন বাজিয়ে পাশ কাটুন",
+      "গাড়ি থামান এবং পথচারীরা রাস্তা পার না হওয়া পর্যন্ত অপেক্ষা করুন তারপর এগিয়ে যান"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 2,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "থামুন",
+      "নো পার্কিং",
+      "সামনে হাসপাতাল"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "Stop.png"
+  },
+  {
+    "question_number": 3,
+    "question": "আপনি একটি সরু সেতুর কাছে আসছেন, বিপরীত দিক থেকে আরেকটি গাড়ি সেতুতে প্রবেশ করতে চলেছে, আপনার উচিত",
+    "options": [
+      "গতি বাড়ান এবং যত দ্রুত সম্ভব সেতু পার হওয়ার চেষ্টা করুন",
+      "হেডলাইট জ্বালিয়ে সেতু পার হন",
+      "অন্য গাড়িটি সেতু পার না হওয়া পর্যন্ত অপেক্ষা করুন এবং তারপর এগিয়ে যান"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 4,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাঁ দিকে থাকুন",
+      "বাঁ দিকে কোনো রাস্তা নেই",
+      "বাধ্যতামূলকভাবে বাঁ দিকে থাকুন"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "Keep_left.png"
+  },
+  {
+    "question_number": 5,
+    "question": "যখন কোনো গাড়ি দুর্ঘটনায় কোনো ব্যক্তিকে আঘাত করে",
+    "options": [
+      "গাড়িটি নিকটস্থ থানায় নিয়ে যান এবং দুর্ঘটনার খবর দিন",
+      "গাড়ি থামান এবং থানায় খবর দিন",
+      "আহতকে চিকিৎসার জন্য সব যুক্তিসঙ্গত পদক্ষেপ নিন এবং ২৪ ঘণ্টার মধ্যে নিকটস্থ থানায় খবর দিন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 6,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পথ দিন",
+      "সামনে হাসপাতাল",
+      "সামনে ট্রাফিক আইল্যান্ড"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "give_way.png"
+  },
+  {
+    "question_number": 7,
+    "question": "একমুখী রাস্তা হিসাবে মনোনীত একটি রাস্তায়",
+    "options": [
+      "পার্কিং নিষিদ্ধ",
+      "ওভারটেকিং নিষিদ্ধ",
+      "রিভার্স গিয়ারে গাড়ি চালানো উচিত নয়"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 8,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "প্রবেশ নিষেধ",
+      "একমুখী",
+      "গতির সীমা শেষ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "no_entry.png"
+  },
+  {
+    "question_number": 9,
+    "question": "আপনি সামনের একটি গাড়িকে ওভারটেক করতে পারেন",
+    "options": [
+      "সেই গাড়ির ডান দিক থেকে",
+      "বাঁ দিক দিয়ে",
+      "বাঁ দিক দিয়ে, যদি রাস্তা চওড়া হয়"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 10,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান মোড় নিষেধ",
+      "ডান দিকে তীক্ষ্ণ বাঁক",
+      "ইউ-টার্ন নিষেধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "sharp_curve_to_the_right.png"
+  },
+  {
+    "question_number": 11,
+    "question": "যখন একটি গাড়ি একটি অরক্ষিত রেলওয়ে লেভেল ক্রসিং এর কাছে আসে, পার হওয়ার আগে, চালককে",
+    "options": [
+      "রাস্তার বাঁ দিকে গাড়ি থামান, গাড়ি থেকে নামুন, রেললাইনে যান এবং নিশ্চিত করুন যে কোনো ট্রেন বা ট্রলি কোনো দিক থেকে আসছে না",
+      "হর্ন বাজিয়ে যত দ্রুত সম্ভব ট্র্যাক পার হন",
+      "ট্রেনটি পার না হওয়া পর্যন্ত অপেক্ষা করুন"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 12,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পথচারী পারাপার",
+      "পথচারীরা প্রবেশ করতে পারে",
+      "পথচারী নিষেধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "pedestrian-crossing"
+  },
+  {
+    "question_number": 13,
+    "question": "শিক্ষানবিশ লাইসেন্সের বৈধতা",
+    "options": [
+      "ড্রাইভিং লাইসেন্স ইস্যু না হওয়া পর্যন্ত",
+      "ইস্যু হওয়ার তারিখ থেকে ৬ মাস",
+      "৩০ দিন"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 14,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান দিকে থাকুন",
+      "ডান দিকে পার্কিং অনুমোদিত",
+      "বাধ্যতামূলকভাবে ডান দিকে ঘুরুন"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "parking_on_the_right_allowed.png"
+  },
+  {
+    "question_number": 15,
+    "question": "ফুটপাতবিহীন রাস্তায়, পথচারীরা",
+    "options": [
+      "রাস্তার বাঁ দিক দিয়ে হাঁটবে",
+      "রাস্তার ডান দিক দিয়ে হাঁটবে",
+      "রাস্তার যেকোনো দিক দিয়ে হাঁটতে পারে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 16,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ইউ-টার্ন নিষেধ",
+      "ডান মোড় নিষেধ",
+      "বাঁ দিক দিয়ে ওভারটেকিং নিষেধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "u_turn_prohibited.png"
+  },
+  {
+    "question_number": 17,
+    "question": "নিম্নলিখিত ধরনের যানবাহনকে অবাধে যেতে দিতে হবে",
+    "options": [
+      "ছোট যানবাহন",
+      "অ্যাম্বুলেন্স এবং ফায়ার সার্ভিস যান",
+      "এক্সপ্রেস, সুপার এক্সপ্রেস বাস"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 18,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "হর্ন নিষেধ",
+      "বাধ্যতামূলকভাবে হর্ন বাজান",
+      "হর্ন বাজানো যেতে পারে"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "horn_prohibited.png"
+  },
+  {
+    "question_number": 19,
+    "question": "রাতে রাস্তার পাশে গাড়ি পার্ক করা হলে",
+    "options": [
+      "গাড়িটি তালাবদ্ধ করা উচিত",
+      "এমন একটি গাড়ি চালানোর লাইসেন্সধারী ব্যক্তি ভিতরে থাকবেন",
+      "পার্কিং লাইট জ্বালানো থাকবে"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 20,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে উভয় পাশে রাস্তা",
+      "সামনে সরু সেতু",
+      "সামনে সরু রাস্তা"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "narrow_bridge_ahead.png"
+  },
+  {
+    "question_number": 21,
+    "question": "ফগ ল্যাম্প ব্যবহার করা হয়",
+    "options": [
+      "রাতে",
+      "যখন কুয়াশা থাকে",
+      "যখন বিপরীত দিকের গাড়ি ডিম লাইট ব্যবহার করছে না"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 22,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "রাস্তা বন্ধ",
+      "নো পার্কিং",
+      "গতির সীমা শেষ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "end_of_speed_restriction.png"
+  },
+  {
+    "question_number": 23,
+    "question": "জেব্রা লাইন এর জন্য",
+    "options": [
+      "গাড়ি থামানো",
+      "পথচারী পারাপার",
+      "গাড়িকে অগ্রাধিকার দেওয়া"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 24,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে সরু রাস্তা",
+      "সামনে সরু সেতু",
+      "সামনে উভয় পাশে রাস্তা"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "narrow_road_ahead.png"
+  },
+  {
+    "question_number": 25,
+    "question": "যখন একটি অ্যাম্বুলেন্স আসছে...",
+    "options": [
+      "সামনের দিক থেকে কোনো গাড়ি না থাকলে পথ দিন",
+      "কোনো অগ্রাধিকার দেওয়ার প্রয়োজন নেই",
+      "চালক রাস্তার বাঁ দিকে সরে গিয়ে অবাধে যাওয়ার পথ করে দেবেন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 26,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "রেলওয়ে স্টেশন",
+      "লেভেল ক্রসিং",
+      "লেভেল ক্রসিং সুরক্ষিত"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "level_crossing_guarded.png"
+  },
+  {
+    "question_number": 27,
+    "question": "লাল ট্রাফিক লাইট নির্দেশ করে",
+    "options": [
+      "গাড়ি সাবধানে এগিয়ে যেতে পারে",
+      "গাড়ি থামান",
+      "গতি কমান"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 28,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান দিক দিয়ে প্রবেশ নিষেধ",
+      "বাঁ দিক দিয়ে প্রবেশ নিষেধ",
+      "ওভারটেকিং নিষেধ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "overtaking _rohibited.png"
+  },
+  {
+    "question_number": 29,
+    "question": "যেখানে 'পিচ্ছিল রাস্তা' চিহ্নটি রাস্তায় দেখা যায়, চালককে",
+    "options": [
+      "লোয়ার গিয়ারে পরিবর্তন করে গতি কমান",
+      "ব্রেক করুন",
+      "একই গতিতে এগিয়ে যান"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 30,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে চৌরাস্তা",
+      "প্রবেশ নিষেধ",
+      "হাসপাতাল"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "cross_road_ahead.png"
+  },
+  {
+    "question_number": 31,
+    "question": "নিম্নলিখিত পরিস্থিতিতে ওভারটেকিং নিষেধ",
+    "options": [
+      "যখন অন্য ট্রাফিকের অসুবিধা বা বিপদের কারণ হতে পারে",
+      "যখন সামনের গাড়ি গতি কমাচ্ছে",
+      "রাতে"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 32,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাঁ দিকে ঘুরতে পারে",
+      "বাধ্যতামূলকভাবে সোজা যান বা বাঁ দিকে ঘুরুন",
+      "বাঁ দিকে সাইড রোড"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "compulsory_go_ahead_or_turn_left.png"
+  },
+  {
+    "question_number": 33,
+    "question": "দূষণ নিয়ন্ত্রণ শংসাপত্রের বৈধতা কত?",
+    "options": [
+      "৬ মাস",
+      "১ বছর",
+      "২ বছর"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 34,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "হর্ন বাজানো বাধ্যতামূলক",
+      "একটানা হর্ন বাজান",
+      "হর্ন নিষেধ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "sound_horn_compulsory.png"
+  },
+  {
+    "question_number": 35,
+    "question": "কাছে ওভারটেকিং",
+    "options": [
+      "অনুমতিপ্রাপ্ত",
+      "অনুমতিপ্রাপ্ত নয়",
+      "যত্ন সহকারে অনুমতিপ্রাপ্ত"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 36,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে ডান দিকে রাস্তা",
+      "বাধ্যতামূলকভাবে ডান দিকে ঘুরুন",
+      "ডান দিকে মোড় নিষেধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "road_to_the_right_in_front.png"
+  },
+  {
+    "question_number": 37,
+    "question": "মদ্যপ অবস্থায় গাড়ি চালানো",
+    "options": [
+      "ব্যক্তিগত গাড়িতে অনুমোদিত",
+      "রাতে অনুমোদিত",
+      "সব যানবাহনে নিষিদ্ধ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 38,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "নিষেধাজ্ঞা শেষ",
+      "থামা বা পার্কিং নিষেধ",
+      "নো পার্কিং"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "no_stopping_or_parking.png"
+  },
+  {
+    "question_number": 39,
+    "question": "রিয়ার ভিউ মিরর এর জন্য ব্যবহৃত হয়",
+    "options": [
+      "মুখ দেখা",
+      "পিছন থেকে আসা ট্রাফিক দেখা",
+      "পেছনের সিটের যাত্রীকে দেখা"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 40,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাধ্যতামূলকভাবে শুধু সোজা যান",
+      "একমুখী",
+      "উভয় দিকে নিষিদ্ধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "compulsory_ahead_only.png"
+  },
+  {
+    "question_number": 41,
+    "question": "চলন্ত অবস্থায় কোনো যানবাহনে ওঠা বা নামা",
+    "options": [
+      "বাসে অনুমোদিত",
+      "অটো-রিকশায় অনুমোদিত",
+      "সব যানবাহনে নিষিদ্ধ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 42,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সব মোটর গাড়ি নিষিদ্ধ",
+      "গাড়ি এবং মোটর সাইকেলের প্রবেশ নিষেধ",
+      "গাড়ি এবং মোটর গাড়ির প্রবেশ অনুমোদিত"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "all_motor_vehicles_prohibited.png"
+  },
+  {
+    "question_number": 43,
+    "question": "যখন কোনো গাড়িতে জ্বালানি ভরা হয়, তখন আপনার উচিত",
+    "options": [
+      "বাতাসের চাপ পরীক্ষা করা উচিত নয়",
+      "ধূমপান করা উচিত নয়",
+      "গাড়ির কোনো আলো ব্যবহার করা উচিত নয়"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 44,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ট্রাক নিষিদ্ধ",
+      "বাস নিষিদ্ধ",
+      "ভারী যানবাহন নিষিদ্ধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "trucks_prohibited.png"
+  },
+  {
+    "question_number": 45,
+    "question": "ওভারটেকিং নিষিদ্ধ",
+    "options": [
+      "যখন সামনের রাস্তা স্পষ্টভাবে দৃশ্যমান নয়",
+      "রাতে",
+      "যখন রাস্তার কেন্দ্র সাদা ভাঙ্গা লাইন দিয়ে চিহ্নিত"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 46,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "গরুর গাড়ি নিষিদ্ধ",
+      "সাইকেল নিষিদ্ধ",
+      "সব যানবাহন নিষিদ্ধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "bullock_cart_prohibited.png"
+  },
+  {
+    "question_number": 47,
+    "question": "রাতে হেডলাইট হাই বিমে রেখে গাড়ি চালানোর সময়, বিপরীত দিক থেকে একটি গাড়ি এলে, আপনার উচিত",
+    "options": [
+      "বাঁ দিকে রেখে এগিয়ে যান",
+      "হেডলাইট ডিম এবং উজ্জ্বল বিকল্পভাবে, কয়েকবার পরিবর্তন করুন",
+      "গাড়িটি পার না হওয়া পর্যন্ত হেডলাইট ডিম করুন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 48,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ছাত্রছাত্রী নিষিদ্ধ",
+      "পথচারী অনুমোদিত",
+      "পথচারী নিষিদ্ধ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "pedestrians_prohibited.png"
+  },
+  {
+    "question_number": 49,
+    "question": "হর্নের অপ্রয়োজনীয় ও বারবার ব্যবহার আইনত নিষিদ্ধ",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "কোনো আইন নেই"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 50,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান দিক দিয়ে ওভারটেকিং নিষেধ",
+      "বাঁ দিকে ঘুরুন",
+      "বাঁ দিকে মোড় নিষেধ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "left_turn_prohibited.png"
+  },
+  {
+    "question_number": 51,
+    "question": "নন-পরিবহন গাড়ির নথি গাড়িতে রাখতে হবে",
+    "options": [
+      "রেজিস্ট্রেশন সার্টিফিকেট, PUC, বীমা সার্টিফিকেট এবং ড্রাইভিং লাইসেন্স",
+      "রেজিস্ট্রেশন সার্টিফিকেট, বীমা সার্টিফিকেট, ট্যাক্স টোকেন, ড্রাইভিং লাইসেন্স",
+      "রেজিস্ট্রেশন সার্টিফিকেট পারমিট, ট্রিপ শীট"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 52,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "গাড়ি ৫০ কিমি/ঘণ্টার বেশি গতিতে চালাবেন না।",
+      "গাড়ি ৫০ কিমি/ঘণ্টা গতিতে চালান",
+      "গাড়ি ৫০ কিমি/ঘণ্টার বেশি গতিতে চালান।"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "drive_the_vehicle_not_exceeding_50_km.png"
+  },
+  {
+    "question_number": 53,
+    "question": "গাড়ি চালানোর সময় মোবাইলে কথা বলতে পারেন",
+    "options": [
+      "যে কোনো গাড়ি",
+      "হ্যাঁ",
+      "না",
+      "আপনার গাড়ি ধীর করার পর কথা বলতে পারেন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 54,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাধ্যতামূলকভাবে সোজা বা ডান দিকে ঘুরুন",
+      "বাধ্যতামূলকভাবে সোজা বা বাঁ দিকে ঘুরুন",
+      "সামনে সাইড রোড"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "compulsory_ahead_or_turn_right.png"
+  },
+  {
+    "question_number": 55,
+    "question": "সিটের হেডরেস্ট কীভাবে সাহায্য করে?",
+    "options": [
+      "গাড়ি চালানোর সময় আপনি বিশ্রাম নিতে পারেন",
+      "দুর্ঘটনার ক্ষেত্রে ঘাড়ের আঘাত থেকে আপনাকে রক্ষা করে",
+      "হেডরেস্ট সহ সিট সুন্দর দেখায়।"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 56,
+    "question": "যখন আপনি স্কুলের ট্রাফিক চিহ্ন দেখেন, আপনার উচিত",
+    "options": [
+      "গাড়ি থামান, হর্ন বাজিয়ে এগিয়ে যান",
+      "ধীরে চলুন এবং সাবধানে এগিয়ে যান",
+      "একটানা হর্ন বাজিয়ে এগিয়ে যান"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "show_down_and_proceed_with_caution.png"
+  },
+  {
+    "question_number": 57,
+    "question": "বাঁ দিকে মোড় নেওয়ার সময় আপনার উচিত",
+    "options": [
+      "বাঁ মোড়ের সিগন্যাল দেখান, কেন্দ্রে ড্রাইভ করুন এবং বাঁ দিকে ঘুরুন",
+      "হর্ন বাজিয়ে বাঁ দিকে ঘুরুন",
+      "বাঁ মোড়ের সিগন্যাল দেখান, রাস্তার বাঁ দিকে থাকুন এবং বাঁ দিকে ঘুরুন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 58,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাঁ হাতের বাঁক",
+      "বাম আরোহণ",
+      "বাঁ দিকে থাকুন"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "left_hand_curve.png"
+  },
+  {
+    "question_number": 59,
+    "question": "একটি গাড়ির চালক তার ডান হাত তালু নিচের দিকে রেখে কয়েকবার উপর-নিচে করেন। আপনি বুঝবেন যে",
+    "options": [
+      "সে বাঁ দিকে ঘুরছে",
+      "সে গাড়ির গতি কমাচ্ছে",
+      "ওভারটেক করার অনুমতি দিচ্ছে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 60,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান হেয়ার পিন বাঁক",
+      "ডান আরোহণ এবং অবতরণ",
+      "ডান অবতরণ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "right_hair_pin_bend.png"
+  },
+  {
+    "question_number": 61,
+    "question": "গিয়ারবিহীন মোটর সাইকেল চালানোর লাইসেন্স পাওয়ার ন্যূনতম বয়স হল",
+    "options": [
+      "১৮ বছর",
+      "২১ বছর",
+      "১৬ বছর"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 62,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাম অবতরণ",
+      "বাঁ হেয়ার পিন বাঁক",
+      "বাঁ দিকে থাকুন"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "left_hair_pin_bend.png"
+  },
+  {
+    "question_number": 63,
+    "question": "বাঁ দিকে মোড় নেওয়ার সময়, দুই চাকার গাড়ির চালককে",
+    "options": [
+      "তার বাঁ হাত বাঁ দিকে প্রসারিত করবেন",
+      "হাতের সংকেত দেখাবেন না",
+      "তার ডান হাত দিয়ে বাঁ মোড়ের সংকেত দেখাবেন বা ইন্ডিকেটর দিয়ে সংকেত দেবেন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 64,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান বিপরীত বাঁক",
+      "বাঁ বিপরীত বাঁক",
+      "ডান দিকে ঘুরুন এবং সোজা যান"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "right_reverse_bend.png"
+  },
+  {
+    "question_number": 65,
+    "question": "ইউ-টার্ন নেওয়ার সংকেত হল",
+    "options": [
+      "বাঁ মোড়ের সংকেত",
+      "ডান মোড়ের সংকেত",
+      "গতি কমানোর সংকেত"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 66,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান বিপরীত বাঁক",
+      "বাঁ বিপরীত বাঁক",
+      "বাঁ দিকে ঘুরুন এবং সোজা যান"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "left_reverse_bend.png"
+  },
+  {
+    "question_number": 67,
+    "question": "একটি গাড়ির চালক ইউ-টার্ন নেবেন না",
+    "options": [
+      "যে রাস্তায় ইউ-টার্ন নিষিদ্ধ",
+      "একটি ব্যস্ত রাস্তায় চার্জ করা যেতে পারে",
+      "যখন বাঁ দিক দিয়ে গাড়ি যাচ্ছে"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 68,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ওয়াই-ইন্টারসেকশন বাঁ দিকে",
+      "ওয়াই-ইন্টারসেকশন ডান দিকে",
+      "ওয়াই-ইন্টারসেকশন"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "y_inter_section.png"
+  },
+  {
+    "question_number": 69,
+    "question": "সর্বজনীন স্থানে অনিবন্ধিত গাড়ি ব্যবহার করা",
+    "options": [
+      "অবৈধ",
+      "বৈধ",
+      "জরুরি হলে বৈধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 70,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাঁ দিকে সাইড রোড",
+      "গতির সীমা",
+      "অ্যাক্সেল লোড সীমা"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "axle_load_limit.png"
+  },
+  {
+    "question_number": 71,
+    "question": "বিপরীত দিক থেকে আসা যানবাহনকে অবশ্যই যেতে দিতে হবে",
+    "options": [
+      "আপনার ডান দিক দিয়ে",
+      "আপনার বাঁ দিক দিয়ে",
+      "সুবিধাজনক দিক দিয়ে"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 72,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাধ্যতামূলকভাবে সামনে ডান দিকে ঘুরুন",
+      "ডান দিকে সাইড রোড",
+      "ডান দিকে থাকুন"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "compulsory_turn_right_ahead.png"
+  },
+  {
+    "question_number": 73,
+    "question": "গাড়ির চালক পাহাড় থেকে নামার সময় ওভারটেক করতে পারেন",
+    "options": [
+      "যদি রাস্তা যথেষ্ট চওড়া না হয়",
+      "যখন সামনের গাড়ির চালক ওভারটেক করার সংকেত দেখায়",
+      "না"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 74,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান দিকে ঘুরুন",
+      "বাঁ দিকে ঘুরুন",
+      "গোলাকার পথ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "road_about.png"
+  },
+  {
+    "question_number": 75,
+    "question": "যখন একটি মোড়ে সিগন্যাল লাইটে হলুদ আলো জ্বলে, তখন কাছে আসা গাড়ির চালকের উচিত",
+    "options": [
+      "নিরাপত্তা নিশ্চিত করে গাড়ি চালিয়ে যান",
+      "থামার জন্য গতি কমান",
+      "হর্ন বাজিয়ে এগিয়ে যান"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 76,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে সরু রাস্তা",
+      "বিপজ্জনক ঢাল",
+      "ফেরী"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "dangerous_dip.png"
+  },
+  {
+    "question_number": 77,
+    "question": "একটি মোটর গাড়ির চালক চালাবেন",
+    "options": [
+      "রাস্তার ডান দিক দিয়ে",
+      "রাস্তার বাঁ দিক দিয়ে",
+      "রাস্তার মাঝখান দিয়ে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 78,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ওয়াই-ইন্টারসেকশন বাঁ দিকে",
+      "ওয়াই-ইন্টারসেকশন ডান দিকে",
+      "বাঁ দিকে সাইড রোড"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "y_inter_scetion_right.png"
+  },
+  {
+    "question_number": 79,
+    "question": "যখন আপনার গাড়িকে ওভারটেক করা হচ্ছে, আপনার উচিত",
+    "options": [
+      "আপনার গাড়ি থামান এবং অন্য গাড়িকে ওভারটেক করতে দিন",
+      "আপনার গাড়ির গতি কমান",
+      "অন্য গাড়িকে ওভারটেক করতে বাধা দেবেন না"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 80,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাঁ দিকে ঘুরুন",
+      "ডান দিকে ঘুরুন",
+      "ওয়াই-ইন্টারসেকশন বাঁ দিকে"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "y_inter_scetion_left.png"
+  },
+  {
+    "question_number": 81,
+    "question": "যেখানে পার্কিং নিষিদ্ধ",
+    "options": [
+      "পার্ক করা গাড়ির সামনে",
+      "একমুখী রাস্তায়",
+      "ফুটপাতে"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 82,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পিচ্ছিল রাস্তা",
+      "কংকর রাস্তা",
+      "মোটর গাড়ির প্রবেশ নিষেধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "slippery_road.png"
+  },
+  {
+    "question_number": 83,
+    "question": "হ্যান্ড ব্রেক ব্যবহার করতে হবে",
+    "options": [
+      "গতি কমানোর জন্য",
+      "হঠাৎ ব্রেক করার জন্য",
+      "একটি গাড়ি পার্ক করার জন্য"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 84,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "আলগা পাথর",
+      "পিচ্ছিল রাস্তা",
+      "মোটর গাড়ির প্রবেশ নিষেধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "loose_gravel.png"
+  },
+  {
+    "question_number": 85,
+    "question": "একটি দুই চাকার গাড়িতে দুই জনের বেশি ব্যক্তি",
+    "options": [
+      "অপরিহার্য পরিস্থিতিতে অনুমোদিত",
+      "আইনের লঙ্ঘন",
+      "যখন ট্রাফিক কম থাকে তখন অনুমোদিত"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 86,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সাইকেল ক্রসিং",
+      "সাইকেল ক্রসিং নিষিদ্ধ",
+      "সাইকেলের প্রবেশ নিষেধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "cycle_crossing.png"
+  },
+  {
+    "question_number": 87,
+    "question": "হাসপাতালের কাছে একটি গাড়িকে ওভারটেক করতে চান। আপনি...",
+    "options": [
+      "একটানা হর্ন বাজাবেন",
+      "হর্ন বাজাবেন না",
+      "শুধু মাঝে মাঝে হর্ন বাজাবেন"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 88,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "গবাদি পশু নিষিদ্ধ",
+      "রাস্তায় পশুর সম্ভাবনা",
+      "গবাদি পশুবাহী যানবাহন নিষিদ্ধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "possibility_animal_on_the_road.png"
+  },
+  {
+    "question_number": 89,
+    "question": "গাড়ির বীমা থাকা কি বাধ্যতামূলক?",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "আপনার জীবন বীমা থাকলে বাধ্যতামূলক নয়"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 90,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে স্কুল",
+      "পথচারী পারাপার",
+      "পথচারী পারাপার নিষিদ্ধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "school_ahead.png"
+  },
+  {
+    "question_number": 91,
+    "question": "নিম্নলিখিত ক্ষেত্রে ওভারটেকিং নিষিদ্ধ",
+    "options": [
+      "স্টেট হাইওয়ে",
+      "পঞ্চায়েত রাস্তা",
+      "সরু সেতু"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 92,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পুরুষেরা কাজে ব্যস্ত",
+      "বাচ্চারা খেলছে",
+      "পথচারী পারাপার"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "men_at_work.png"
+  },
+  {
+    "question_number": 93,
+    "question": "যদি কোনো পশুর দায়িত্বে থাকা ব্যক্তি (পশুটি অনিয়ন্ত্রিত হয়ে যেতে পারে এই আশঙ্কা করে) একটি গাড়িকে থামাতে অনুরোধ করে, তবে চালককে",
+    "options": [
+      "গাড়ি থামান",
+      "হর্ন বাজিয়ে এগিয়ে যান",
+      "গতি কমান"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 94,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "উঁচু-নিচু রাস্তা",
+      "পিচ্ছিল রাস্তা",
+      "পাথর পড়ছে"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "falling_roacks.png"
+  },
+  {
+    "question_number": 95,
+    "question": "নিম্নলিখিত ক্ষেত্রে পার্কিং নিষিদ্ধ",
+    "options": [
+      "রাস্তার পাশে যেখানে পার্কিং অনুমোদিত",
+      "ট্রাফিক লাইটের কাছে",
+      "না"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 96,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে সেতু",
+      "ফেরী",
+      "সামনে হালকা পানীয়"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "light_refreshment_ahead.png"
+  },
+  {
+    "question_number": 97,
+    "question": "অতিরিক্ত গতিতে গাড়ি চালানো একটি অপরাধ যার ফলে",
+    "options": [
+      "ড্রাইভিং লাইসেন্স স্থগিত বা বাতিল",
+      "শুধুমাত্র জরিমানা দ্বারা শাস্তি",
+      "উভয়ই হতে পারে"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 98,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "তীব্র আরোহণ",
+      "তীব্র অবতরণ",
+      "পিচ্ছিল রাস্তা"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "steep_ascend.png"
+  },
+  {
+    "question_number": 99,
+    "question": "যখন স্কুল বাস ছাত্রছাত্রী ওঠানো বা নামানোর জন্য থামে",
+    "options": [
+      "হর্ন বাজিয়ে এগিয়ে যান",
+      "ধীরে এবং সাবধানে এগিয়ে যান কারণ ছাত্রছাত্রীরা হঠাৎ রাস্তা পার হতে পারে",
+      "বিশেষ যত্নের প্রয়োজন নেই"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 100,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "তীব্র আরোহণ",
+      "তীব্র অবতরণ",
+      "পিচ্ছিল রাস্তা"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "steep_deascend.png"
+  },
+  {
+    "question_number": 101,
+    "question": "যখন একজন অন্ধ ব্যক্তি সাদা লাঠি ধরে রাস্তা পার হয়, তখন গাড়ির চালককে",
+    "options": [
+      "সাদা লাঠিকে গাড়ি থামানোর ট্রাফিক চিহ্ন হিসাবে বিবেচনা করুন",
+      "হর্ন বাজিয়ে এগিয়ে যান",
+      "গতি কমান এবং সাবধানে এগিয়ে যান"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 102,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে সরু রাস্তায়",
+      "ওয়াই-ইন্টারসেকশনে",
+      "সামনে রাস্তা প্রশস্ত হচ্ছে"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "road_widens_ahead.png"
+  },
+  {
+    "question_number": 103,
+    "question": "যখন একটি মোটর গাড়ি দুর্ঘটনায় জড়িত থাকে, তখন চালককে",
+    "options": [
+      "২৪ ঘণ্টার মধ্যে নিকটস্থ থানায় খবর দিন",
+      "১২ ঘণ্টার মধ্যে নিকটস্থ থানায় খবর দিন",
+      "৪৮ ঘণ্টার মধ্যে নিকটস্থ থানায় খবর দিন"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 104,
+    "question": "নিচের চিহ্নটি নির্দেশ করে",
+    "options": [
+      "মাঝখানে ড্রেনেজ",
+      "সামনে সেতু",
+      "মিডিয়ানে ফাঁক"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "gap_in_median.png"
+  },
+  {
+    "question_number": 105,
+    "question": "যখন কোনো তৃতীয় পক্ষের সম্পত্তি দুর্ঘটনার কারণে ক্ষতিগ্রস্ত হয়, তখন চালককে",
+    "options": [
+      "২৪ ঘণ্টার মধ্যে নিকটস্থ থানায় খবর দিন",
+      "৭ দিনের মধ্যে নিকটস্থ থানায় খবর দিন",
+      "কোনো থানায় খবর দেওয়ার প্রয়োজন নেই"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 106,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "হাম্প বা ভাঙা রাস্তা",
+      "আঁকাবাঁকা রাস্তা",
+      "ঘাট রোড"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "hump_or_rough_road.png"
+  },
+  {
+    "question_number": 107,
+    "question": "যখন পিছনের গাড়িটি আমাদের গাড়িকে ওভারটেক করতে শুরু করেছে",
+    "options": [
+      "আমরা অন্য গাড়িকে ওভারটেক করব না",
+      "আমরা অন্য গাড়িকে ওভারটেক করতে পারি",
+      "আমরা হর্ন বাজিয়ে অন্য গাড়িকে ওভারটেক করতে পারি"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 108,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সামনে ব্যারিকেড",
+      "সামনে রেলওয়ে ক্রসিং",
+      "সামনে ওজন সেতু"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "barrier_ahead.png"
+  },
+  {
+    "question_number": 109,
+    "question": "সামনের গাড়ির চালক ওভারটেক করার জন্য সংকেত দেননি",
+    "options": [
+      "আমরা ওভারটেক করতে পারি",
+      "আমরা ওভারটেক করব না",
+      "আমরা হর্ন বাজিয়ে ওভারটেক করতে পারি"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 110,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পার্শ্ব রাস্তা বন্ধ",
+      "বাঁ দিকে মোড়",
+      "সামনে সেতু"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "no_through_side_road.png"
+  },
+  {
+    "question_number": 111,
+    "question": "নিম্নলিখিত স্থানে পার্কিং নিষিদ্ধ",
+    "options": [
+      "হাসপাতালের প্রবেশদ্বার",
+      "রাস্তার বাঁ দিকে",
+      "বাজার এলাকা"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 112,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "নৌকা পারাপার",
+      "সামনে রাস্তা নেই",
+      "রাস্তায় জল"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "ferry.png"
+  },
+  {
+    "question_number": 113,
+    "question": "নিম্নলিখিত স্থানে পার্কিং নিষিদ্ধ",
+    "options": [
+      "ফায়ার হাইড্রেন্ট আটকে",
+      "একটি পাবলিক কুয়ার কাছে",
+      "রাস্তার বাঁ দিকে"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 114,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পার্কিং নিষিদ্ধ",
+      "উভয় পাশে পার্কিং",
+      "পুলিশ এইড পোস্ট"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "parking_both_sides.png"
+  },
+  {
+    "question_number": 115,
+    "question": "মোটরসাইকেলে পিলিয়ন যাত্রী বহন করতে হলে গাড়ির থাকতে হবে",
+    "options": [
+      "ফুট রেস্ট, হ্যান্ড গ্রিপ এবং শাড়ি গার্ড",
+      "সাইড কার",
+      "রিয়ার ভিউ মিরর"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 116,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পার্কিং লট – স্কুটার এবং মোটরসাইকেল",
+      "স্কুটার এবং মোটরসাইকেল নিষিদ্ধ",
+      "স্কুটার এবং মোটরসাইকেল মেরামত"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "Paparking_lot_scooters_motor_cycle.png"
+  },
+  {
+    "question_number": 117,
+    "question": "রাতে শহরের রাস্তায় গাড়ি চালানোর সময়, আপনার হেডলাইট চালু রাখুন",
+    "options": [
+      "লো বিম",
+      "হাই বিম",
+      "সব আলো বন্ধ করুন"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 118,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পার্কিং লট – অটো রিক্সা",
+      "অটো রিক্সা নিষিদ্ধ",
+      "অটো রিক্সা মেরামত"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "parking_lot_auto_rickashwa.png"
+  },
+  {
+    "question_number": 119,
+    "question": "জনসাধারণের অসুবিধা বা যাত্রীদের অসুবিধায় জনসমক্ষে গাড়ি ফেলে রাখা",
+    "options": [
+      "ড্রাইভিং লাইসেন্স স্থগিত/বাতিল হতে পারে",
+      "শুধুমাত্র জরিমানা আকৃষ্ট হয়",
+      "উভয়ই হতে পারে"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 120,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ব্যক্তিগত গাড়ির প্রবেশ নিষেধ",
+      "পার্কিং লট – ট্যাক্সি",
+      "পুলিশ গাড়ির জন্য পার্কিং"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "parking_lot_taxis.png"
+  },
+  {
+    "question_number": 121,
+    "question": "মোড়ের আগে, চালকের উচিত",
+    "options": [
+      "গাড়ির গতি কমানো",
+      "গাড়ির গতি না কমানো",
+      "দ্রুত চালানো"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 122,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পেট্রোল পাম্প",
+      "গ্যারেজ",
+      "বায়ু ভরার সুবিধা"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "petrol_pump.png"
+  },
+  {
+    "question_number": 123,
+    "question": "যে রাস্তায় রিভার্স গিয়ার ব্যবহার নিষিদ্ধ",
+    "options": [
+      "একমুখী রাস্তা",
+      "বাজার এলাকা",
+      "রাজ্য হাইওয়ে"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 124,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "লেন পরিবর্তন অনুমোদিত",
+      "সাবধানে লাইন পরিবর্তন করুন",
+      "লেন পরিবর্তন নিষিদ্ধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "change_the_line_with_caution.png"
+  },
+  {
+    "question_number": 125,
+    "question": "অটো রিক্সার চালক যদি কম দূরত্বের কারণে যাত্রা প্রত্যাখ্যান করেন তবে তার ড্রাইভিং লাইসেন্স স্থগিত/বাতিল হতে পারে",
+    "options": [
+      "শুধুমাত্র জরিমানা আকৃষ্ট হয়",
+      "উভয়ই হতে পারে",
+      "না"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 126,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পেছনের গাড়িকে থামার অনুরোধ",
+      "ডান দিকে মোড় নেওয়ার ইচ্ছা",
+      "বিপরীত দিক থেকে আসা গাড়িকে থামার অনুরোধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "intends_turn_right.png"
+  },
+  {
+    "question_number": 127,
+    "question": "আপনি যখন একটি মোড়ে পৌঁছাবেন যেখানে কোনও সিগন্যাল লাইট বা পুলিশ নেই, আপনি কী করবেন?",
+    "options": [
+      "অন্যান্য রাস্তা থেকে মোড়ের দিকে আসা সমস্ত যানবাহনকে পথ দিন",
+      "সঠিক সংকেত দিন, হর্ন বাজান এবং এগিয়ে যান",
+      "আপনার ডান দিক থেকে মোড়ের দিকে আসা ট্র্যাফিককে পথ দিন এবং এগিয়ে যান।"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 128,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাঁ দিকে মোড় নেওয়ার ইচ্ছা",
+      "ডান দিকে মোড় নেওয়ার ইচ্ছা",
+      "অন্যান্য সমস্ত যানবাহন থামানোর অনুরোধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "intends_turn_left.png"
+  },
+  {
+    "question_number": 129,
+    "question": "আপনি যখন একটি মোড়ের কাছে যাচ্ছেন যেখানে হলুদ সিগন্যাল লাইট জ্বলছে, আপনার কী করা উচিত?",
+    "options": [
+      "কোনো বাধা না থাকায় একই গতিতে এগিয়ে যান",
+      "গাড়ি থামান এবং সবুজ আলোর জন্য অপেক্ষা করুন",
+      "গাড়ির গতি কমান এবং নিরাপদ কিনা তা নিশ্চিত করার পরেই এগিয়ে যান"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 130,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ডান দিকে মোড় নেওয়ার ইচ্ছা",
+      "বিপরীত দিক থেকে আসা গাড়িকে থামার অনুরোধ",
+      "গাড়ির গতি কমানোর ইচ্ছা"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "intends_slow_down_the_vehicle.png"
+  },
+  {
+    "question_number": 131,
+    "question": "ঢালু রাস্তায় গাড়ি চালানোর সময় আপনার উচিত",
+    "options": [
+      "নিচে নামা গাড়িকে অগ্রাধিকার দিন",
+      "উপরে ওঠা গাড়িকে অগ্রাধিকার দিন",
+      "ভারী মালবাহী গাড়িকে অগ্রাধিকার দিন"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 132,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "সোজাসুজি যাওয়ার ইচ্ছা",
+      "গাড়ি থামানোর ইচ্ছা",
+      "ডান দিকে মোড় নেওয়ার ইচ্ছা"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "intends_stop_the_vehicle.png"
+  },
+  {
+    "question_number": 133,
+    "question": "একটি শাখা রাস্তা থেকে প্রধান রাস্তায় প্রবেশের সময়, চালক কাকে অগ্রাধিকার দেবেন?",
+    "options": [
+      "বাম দিক থেকে আসা যানবাহনকে",
+      "ডান দিক থেকে আসা যানবাহনকে",
+      "প্রধান রাস্তা ধরে চলা সমস্ত যানবাহনকে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 134,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পেছনের গাড়িকে থামার অনুরোধ",
+      "পেছনের গাড়িকে পাশ কাটিয়ে যাওয়ার অনুমতি",
+      "সামনের গাড়িকে থামার অনুরোধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "allow__pass_the_vehicle_from_behind.png"
+  },
+  {
+    "question_number": 135,
+    "question": "আপনি বাম দিক দিয়ে একটি গাড়িকে ওভারটেক করতে পারেন, যদি",
+    "options": [
+      "সেই গাড়ির চালক ডান দিকে মোড় নেওয়ার ইচ্ছা প্রকাশ করেন এবং রাস্তার মাঝখানে এগিয়ে যান",
+      "বাম দিকে পর্যাপ্ত জায়গা থাকে",
+      "গাড়িটি ধীরে চলে"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 136,
+    "question": "যদি রাস্তা ভাঙ্গা সাদা রেখা দ্বারা চিহ্নিত থাকে, আপনি...",
+    "options": [
+      "ট্র্যাক পরিবর্তন করবেন না",
+      "প্রয়োজনে ট্র্যাক পরিবর্তন করতে পারেন",
+      "গাড়ি থামাবেন"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": "can_change_track_if_required.png"
+  },
+  {
+    "question_number": 137,
+    "question": "আপনার কাছে মোটরসাইকেলের লার্নার্স লাইসেন্স আছে...",
+    "options": [
+      "যখন ট্র্যাফিক কম থাকে তখন আপনি চালাবেন",
+      "আপনি শুধুমাত্র তখনই গাড়ি চালাবেন যখন একজন প্রশিক্ষক মোটরসাইকেল চালানোর ড্রাইভিং লাইসেন্সধারী হবেন",
+      "আপনি মোটরসাইকেলে অন্য কোনো ব্যক্তিকে বহন করবেন"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 138,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "থামুন",
+      "নো পার্কিং",
+      "সামনে হাসপাতাল"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "no_parking.png"
+  },
+  {
+    "question_number": 139,
+    "question": "গাড়িতে অনুমোদিত যাত্রীর সংখ্যা রেকর্ড করা হয়",
+    "options": [
+      "রেজিস্ট্রেশন সার্টিফিকেট",
+      "ট্যাক্স টোকেন",
+      "ফিটনেস"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 140,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "বাম দিকে থাকুন",
+      "বাম দিকে কোনো রাস্তা নেই",
+      "বাম দিকে মোড় নেওয়া বাধ্যতামূলক"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "compulsory_turn_left.png"
+  },
+  {
+    "question_number": 141,
+    "question": "অনুমোদিত হর্নের ধরন",
+    "options": [
+      "এয়ার-হর্ন",
+      "মাল্টি-টোন্ড হর্ন",
+      "বৈদ্যুতিক হর্ন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 142,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "পথ দিন",
+      "হাসপাতাল",
+      "সামনে ট্র্যাফিক দ্বীপ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "hospital.png"
+  },
+  {
+    "question_number": 143,
+    "question": "মিটিমিটি হলুদ ট্র্যাফিক লাইট মানে",
+    "options": [
+      "সবুজ আলো না জ্বলা পর্যন্ত গাড়ি থামান",
+      "গাড়ি থামান এবং নিরাপদ হলে এগিয়ে যান",
+      "গতি কমান এবং নিরাপদে এগিয়ে যান"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 144,
+    "question": "নিম্নলিখিত চিহ্নটি নির্দেশ করে",
+    "options": [
+      "ইউ-টার্ন নিষিদ্ধ",
+      "ডান দিকে মোড় নিষিদ্ধ",
+      "বাম দিক দিয়ে ওভারটেক নিষিদ্ধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "right_turn_prohibited.png"
+  },
+  {
+    "question_number": 145,
+    "question": "মোটরসাইকেলের সর্বোচ্চ অনুমোদিত গতি",
+    "options": [
+      "কোনো সীমা নেই",
+      "৫০ কিমি/ঘণ্টা",
+      "৬০ কিমি/ঘণ্টা"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 146,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "সামনে ডানদিকে রাস্তা",
+      "ডানদিকে ঘোরানো বাধ্যতামূলক",
+      "ডানদিকে ঘোরানো নিষেধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "compulsory_turn_right.png"
+  },
+  {
+    "question_number": 147,
+    "question": "একমাত্র যে গাড়িকে ৬৫ কিমি/ঘণ্টার বেশি গতিতে চালানোর অনুমতি দেওয়া হয়",
+    "options": [
+      "মোটরসাইকেল",
+      "মোটর গাড়ি",
+      "স্টেজ ক্যারেজ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 148,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "সোজা যান",
+      "একমুখী রাস্তা",
+      "উভয় দিকে নিষেধ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "prohibited_both_direction.png"
+  },
+  {
+    "question_number": 149,
+    "question": "মোটর গাড়ির জন্য সর্বোচ্চ অনুমোদিত গতি",
+    "options": [
+      "কোনো সীমা নেই",
+      "৭০ কিমি/ঘণ্টা",
+      "৫০ কিমি/ঘণ্টা"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 150,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "বাম দিকে পাশের রাস্তা",
+      "বাম দিকে ঘোরান",
+      "বাম দিকে ঘোরানো নিষেধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "side_road_left.png"
+  },
+  {
+    "question_number": 151,
+    "question": "মোটরসাইকেল ৫০ কিমি/ঘণ্টা গতিতে চালানো যেতে পারে",
+    "options": [
+      "রাতে",
+      "দিনের বেলায়",
+      "যে কোনো সময়"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 152,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "অনিয়মিত মোড়",
+      "আঁকাবাঁকা রাস্তা",
+      "ডান ও বাম মোড় নিষেধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "staggered_intersections.png"
+  },
+  {
+    "question_number": 153,
+    "question": "আইন অনুযায়ী, মোটরসাইকেল চালককে অবশ্যই",
+    "options": [
+      "জার্কিন পরতে হবে",
+      "হেলমেট পরতে হবে",
+      "জুতো পরতে হবে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 154,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "সামনে চৌরাস্তা",
+      "সামনে প্রধান রাস্তা",
+      "প্রাথমিক চিকিৎসা"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "major_road_ahead.png"
+  },
+  {
+    "question_number": 155,
+    "question": "আইন অনুযায়ী, মোটর গাড়ি চালককে অবশ্যই",
+    "options": [
+      "সানগ্লাস পরতে হবে",
+      "সিট বেল্ট পরতে হবে",
+      "টুপি পরতে হবে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 156,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "গাড়ি চালিত রেল ক্রসিং",
+      "অসুরক্ষিত রেল ক্রসিং",
+      "২০০ মিটার সামনে অরক্ষিত রেল ক্রসিং"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "guarded_railway_crossing.png"
+  },
+  {
+    "question_number": 157,
+    "question": "LMV-এর জন্য ড্রাইভিং লাইসেন্স পেতে ন্যূনতম বয়স প্রয়োজন",
+    "options": [
+      "১৬ বছর",
+      "১৮ বছর",
+      "২০ বছর"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 158,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "হাসপাতাল",
+      "বিশ্রামের স্থান",
+      "প্রাথমিক চিকিৎসা"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "resting_place.png"
+  },
+  {
+    "question_number": 159,
+    "question": "বাণিজ্যিক ড্রাইভিং লাইসেন্স পেতে ন্যূনতম বয়স প্রয়োজন",
+    "options": [
+      "১৮ বছর",
+      "২১ বছর",
+      "২০ বছর"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 160,
+    "question": "গাড়ি পার্ক করার সময়",
+    "options": [
+      "গিয়ার লাগানো উচিত",
+      "পার্কিং ব্রেক লাগানো উচিত",
+      "শুধুমাত্র হ্যাজার্ড (পার্কিং) আলো জ্বালানো উচিত"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 161,
+    "question": "যানবাহন বীমার বৈধতা হল",
+    "options": [
+      "৬ মাস",
+      "১ বছর",
+      "২ বছর"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 162,
+    "question": "ব্যক্তিগত গাড়ির নম্বর প্লেটের রঙের স্কিম হল",
+    "options": [
+      "হলুদ অক্ষর সহ কালো পটভূমি",
+      "কালো অক্ষর সহ হলুদ পটভূমি",
+      "কালো অক্ষর সহ সাদা পটভূমি"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 163,
+    "question": "সবুজ আলোর পর কোন ট্র্যাফিক লাইট জ্বালা উচিত জংশনে",
+    "options": [
+      "লাল",
+      "নীল",
+      "হলুদ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 164,
+    "question": "যেখানে আপনার গাড়ি ঘোরানো নিরাপদ নয়, সেখানে আপনার উচিত",
+    "options": [
+      "গাড়ি ঘোরানোর জন্য উপযুক্ত জায়গা খুঁজতে এগিয়ে যান",
+      "সমস্ত রিয়ার ভিউ মিরর সঠিকভাবে ব্যবহার করুন",
+      "রিভার্স হর্ন চালু করুন এবং ঘোরান"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 165,
+    "question": "চালক কীভাবে গাড়ি চালানোর সময় ক্লান্তি রোধ করতে পারে?",
+    "options": [
+      "অ্যালকোহল পান করে",
+      "প্রতি দুই ঘণ্টা পর পর যাত্রার সময় বিশ্রাম নিয়ে।",
+      "গান শুনে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 166,
+    "question": "বৃষ্টির সময় ব্রেক প্রয়োগ করার সময় গাড়ির থামার দূরত্ব কীভাবে প্রভাবিত হয়?",
+    "options": [
+      "থামার দূরত্ব বাড়ে",
+      "থামার দূরত্ব কমে",
+      "প্রভাবিত হয় না"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 167,
+    "question": "দুর্ঘটনার ক্ষেত্রে, চিকিৎসার সাহায্য চাইতে আপনার ডায়াল করা উচিত।",
+    "options": [
+      "১০৮ বা ১০২",
+      "১০১",
+      "এগুলোর যেকোনো একটি"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 168,
+    "question": "দুর্ঘটনার ক্ষেত্রে যেখানে চালকের ড্রাইভিং লাইসেন্স ছিল না",
+    "options": [
+      "বীমা কোম্পানি সম্পূর্ণ ক্ষতিপূরণ দেবে",
+      "বীমা কোম্পানি ক্ষতিপূরণ দেবে না",
+      "বীমা কোম্পানি আংশিক ক্ষতিপূরণ দেবে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 169,
+    "question": "নাবালক গাড়ি চালাচ্ছে এবং দুর্ঘটনার শিকার হয়েছে",
+    "options": [
+      "যেহেতু সে নাবালক; তাকে শাস্তি দেওয়া যাবে না",
+      "নাবালকের বাবা-মা বা অভিভাবকও দায়ী হতে পারেন",
+      "আইন অনুযায়ী অপরাধ নথিভুক্ত করা হবে এবং জরিমানা প্রয়োগ করা হবে"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 170,
+    "question": "বাণিজ্যিক গাড়ির নম্বর প্লেটের রঙের স্কিম কী?",
+    "options": [
+      "হলুদ বেস এবং কালো অক্ষর",
+      "কালো বেস এবং হলুদ অক্ষর",
+      "সাদা বেস এবং কালো অক্ষর"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 171,
+    "question": "লাল ও সাদা রঙের ফিতা দিয়ে ঘেরা একটি এলাকা নির্দেশ করে",
+    "options": [
+      "রাস্তা মেরামতের কাজ চলছে",
+      "দুর্ঘটনা প্রবণ এলাকা",
+      "সামনে চেক পোস্ট"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 172,
+    "question": "দুর্ঘটনার ক্ষেত্রে যাত্রীদের রক্ষা করার জন্য গাড়িতে বাধ্যতামূলক নিরাপত্তা যন্ত্র হলো",
+    "options": [
+      "সিট বেল্ট",
+      "ব্রেক প্যাডেল",
+      "এয়ার ব্যাগ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 173,
+    "question": "আর.টি.ও. দ্বারা জারি করা একটি ড্রাইভিং লাইসেন্স বৈধ",
+    "options": [
+      "সারা দেশে",
+      "শুধুমাত্র সেই নির্দিষ্ট রাজ্যে",
+      "শুধুমাত্র সেই নির্দিষ্ট জেলায়"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 174,
+    "question": "রাতে আপনার গাড়ি পার্ক করার সময় আপনার উচিত",
+    "options": [
+      "পার্কিং ব্রেক লাগান",
+      "পার্কিং লাইট চালু করুন",
+      "উভয়ই লাগান"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 175,
+    "question": "পাহাড় থেকে নামার সময়, আপনার উচিত",
+    "options": [
+      "ক্লাচ চেপে ধরে গাড়ি চালান",
+      "জ্বালানি বাঁচাতে ইঞ্জিন বন্ধ করে গাড়ি চালান",
+      "উভয়ই এড়িয়ে চলুন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 176,
+    "question": "দু'চাকার গাড়ি চালানোর সময় মহিলার হেলমেট পরা",
+    "options": [
+      "আইনত বাধ্যতামূলক",
+      "আইনত বাধ্যতামূলক নয়",
+      "এটি তাদের পছন্দের উপর নির্ভর করে"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 177,
+    "question": "গাড়ি চালানোর সময় মোবাইল ফোন ব্যবহার করলে...",
+    "options": [
+      "দুর্ঘটনার সম্ভাবনা বাড়ে",
+      "একটি কাজের জন্য সময় এবং প্রচেষ্টা সাশ্রয় হয়",
+      "জরুরী অবস্থার ক্ষেত্রে অনুমোদিত"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 178,
+    "question": "রাস্তায় ব্যবহৃত স্টপ-লাইনের রঙ হলো",
+    "options": [
+      "হলুদ",
+      "সাদা",
+      "হলুদ এবং কালো"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 179,
+    "question": "থামার জন্য বাম লেনে যাওয়ার সময় আপনার উচিত",
+    "options": [
+      "বাম দিকের ইন্ডিকেটর জ্বালান",
+      "ডান দিকের ইন্ডিকেটর জ্বালান",
+      "পার্কিং লাইট জ্বালান"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 180,
+    "question": "আপনি একটি স্থায়ী ড্রাইভিং লাইসেন্সের জন্য আবেদন করতে পারেন",
+    "options": [
+      "লার্নার্স লাইসেন্স ইস্যুর তারিখ থেকে ৩০ দিন পর",
+      "লার্নার্স লাইসেন্স ইস্যুর তারিখ থেকে ৬০ দিন পর",
+      "লার্নার্স লাইসেন্স ইস্যুর তারিখ থেকে ১৮০ দিন পর"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 181,
+    "question": "যানবাহনে টায়ার রোটেশন কেন পরামর্শযোগ্য?",
+    "options": [
+      "এটি চাকার ভারসাম্য বজায় রাখে",
+      "এটি চাকার অ্যালাইনমেন্ট বজায় রাখে",
+      "এটি টায়ারের অস্বাভাবিক ক্ষয় এড়ায়"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 182,
+    "question": "লেন পরিবর্তন করার সময়, আপনার উচিত।",
+    "options": [
+      "হর্ন বাজিয়ে লেন পরিবর্তন করুন",
+      "ইন্ডিকেটর ব্যবহার করে লেন পরিবর্তন করুন",
+      "ইন্ডিকেটর ব্যবহার করার প্রয়োজন নেই, শুধু আয়নায় দেখে লেন পরিবর্তন করুন"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 183,
+    "question": "গাড়ির ড্যাশবোর্ডের তাপমাত্রা গেজ নির্দেশ করে।",
+    "options": [
+      "গাড়ির বাইরের আবহাওয়া",
+      "গাড়ির ভিতরে",
+      "ইঞ্জিনের তাপমাত্রা"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 184,
+    "question": "গাড়ি চালানোর সময়, আপনি কী মনে রাখবেন?",
+    "options": [
+      "আবহাওয়া এবং রাস্তার অবস্থা",
+      "আপনার চারপাশের ট্র্যাফিক",
+      "উভয়ই"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 185,
+    "question": "একটি লম্বা গাড়ির পেছনে চালানোর সময়, আপনার উচিত",
+    "options": [
+      "এ থেকে কম দূরত্ব বজায় রাখুন",
+      "খুব কাছাকাছি চালাতে পারেন কারণ এটি থামবে না",
+      "সামনের ট্র্যাফিকের আরও ভালো দৃশ্য পেতে খুব দীর্ঘ দূরত্ব বজায় রাখুন।"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 186,
+    "question": "আপনি আপনার গাড়িতে অনুমোদিত ফিটমেন্ট সেন্টার থেকে এলপিজি/সিএনজি ফিটমেন্ট লাগিয়েছেন। এটি আরটিওতে নিবন্ধিত করা কি বাধ্যতামূলক?",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "প্রয়োজন নেই কারণ এটি অনুমোদিত কেন্দ্রে করা হয়েছে।"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 187,
+    "question": "ব্রেক লাইট ছাড়া গাড়ি চালানো হলো।",
+    "options": [
+      "দু'চাকার গাড়ির জন্য বৈধ",
+      "একটি অপরাধ",
+      "শুধুমাত্র ট্রাকের জন্য বৈধ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 188,
+    "question": "গাড়ির সামনের সিটে বসা ১০ বছরের শিশুর কি সিট বেল্ট বাঁধা উচিত?",
+    "options": [
+      "শিশুদের জন্য জরুরি নয়।",
+      "এটি বাধ্যতামূলক",
+      "শুধুমাত্র পিছনের সিটের জন্য বৈধ।"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 189,
+    "question": "গাড়িতে চাইল্ড লক লাগানো থাকলে।",
+    "options": [
+      "দরজা শুধুমাত্র ভিতর থেকে খোলা যায়।",
+      "দরজা শুধুমাত্র বাইরে থেকে খোলা যায়।",
+      "দরজা উভয় দিক থেকে খোলা যায়।"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 190,
+    "question": "ছাড়া গাড়ি চালানো",
+    "options": [
+      "একটি অপরাধ",
+      "অপরাধ নয়",
+      "শব্দের পরিবর্তনের জন্য বৈধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 191,
+    "question": "রিভার্স লাইটের রঙ হলো",
+    "options": [
+      "লাল",
+      "সাদা",
+      "কমলা"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 192,
+    "question": "গাড়ি চালানোর সময় চালকের ইউনিফর্ম পরা বাধ্যতামূলক",
+    "options": [
+      "ব্যক্তিগত গাড়ির ক্ষেত্রে",
+      "সমস্ত বাণিজ্যিক গাড়ির ক্ষেত্রে",
+      "সমস্ত গাড়ির ক্ষেত্রে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 193,
+    "question": "গাড়ি চালানোর সময় চালককে রাখা উচিত",
+    "options": [
+      "মূল ড্রাইভিং লাইসেন্স",
+      "ড্রাইভিং লাইসেন্সের রঙিন জেরক্স কপি",
+      "ড্রাইভিং লাইসেন্সের সত্যায়িত কপি"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 194,
+    "question": "ড্রাইভার তার ড্রাইভিং লাইসেন্সের মেয়াদ শেষ হওয়ার কতদিন পর পর্যন্ত গাড়ি চালাতে পারে?",
+    "options": [
+      "৩০ দিন",
+      "এক দিনও নয়",
+      "৬০ দিন"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 195,
+    "question": "দুর্ঘটনার ক্ষেত্রে, কেউ ত্বকের পোড়া রোগে ভুগছে। আপনার উচিত….",
+    "options": [
+      "ঠান্ডা জল দিয়ে পোড়া জায়গাগুলো ভালোভাবে ধুয়ে ফেলুন এবং শিকারকে আশ্রয়কেন্দ্রে নিয়ে গিয়ে অ্যাম্বুলেন্স ডাকুন",
+      "ফোস্কা ফাটান",
+      "পোড়া জায়গায় আটকে থাকা কাপড় সরান"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 196,
+    "question": "দুর্ঘটনার ক্ষেত্রে, কোন জ্ঞান আপনাকে মানুষের জীবন বাঁচাতে সাহায্য করতে পারে?",
+    "options": [
+      "যানবাহন রক্ষণাবেক্ষণ",
+      "প্রাথমিক চিকিৎসা",
+      "আইনি"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 197,
+    "question": "দুর্ঘটনার ক্ষেত্রে, যদি কেউ গুরুতর পিঠের আঘাতে ভুগছে, আপনার উচিত,",
+    "options": [
+      "শিকারকে তুলে নিরাপদ স্থানে নিয়ে যান",
+      "শিকারকে নড়াচড়া করবেন না এবং অন্যান্য ট্র্যাফিককে দুর্ঘটনা সম্পর্কে সতর্ক করার চেষ্টা করুন",
+      "আঘাত পরীক্ষা করার জন্য তার পা উঁচু করুন"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 198,
+    "question": "দুর্ঘটনার ক্ষেত্রে, যদি শিকার হেলমেটের নিচে রক্তপাত হয়, আপনার উচিত।",
+    "options": [
+      "হেলমেট সরানোর চেষ্টা করবেন না কিন্তু অ্যাম্বুলেন্স ডাকুন",
+      "আঘাত পরীক্ষা করার জন্য হেলমেট সরান",
+      "হেলমেট সরান এবং অ্যাম্বুলেন্স ডাকুন"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 199,
+    "question": "প্রাথমিক চিকিৎসায় ABC মানে।",
+    "options": [
+      "মনোযোগী, শ্বাস, যোগাযোগ",
+      "বায়ুপথ, শ্বাসপ্রশ্বাস, রক্ত ​​সঞ্চালন",
+      "অ্যাক্সিলারেটর, ব্রেক, ক্লাচ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 200,
+    "question": "দুর্ঘটনার ক্ষেত্রে একজন অজ্ঞান ব্যক্তিকে সাহায্য করার জন্য, আপনার উচিত,",
+    "options": [
+      "তার পোশাক আলগা করুন",
+      "কাছে লোকেদের দাঁড়াতে দেবেন না, বাতাস অবাধ চলাচল নিশ্চিত করুন এবং শীতকালে শরীরের চারপাশে কম্বল জড়িয়ে দিন",
+      "উভয়ই করুন"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 201,
+    "question": "একজন প্রাপ্তবয়স্কের গড় নাড়ির হার হলো।",
+    "options": [
+      "৫০ প্রতি মিনিটে",
+      "৭০ প্রতি মিনিটে",
+      "১০০ প্রতি মিনিটে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 202,
+    "question": "কখন আপনার মোবাইল ফোন ব্যবহার করা উচিত?",
+    "options": [
+      "যখন গাড়ি খুব কম গতিতে চলছে",
+      "যখন গাড়ি এক্সপ্রেস হাইওয়েতে মাঝারি গতিতে চলছে",
+      "যখন গাড়ি একপাশে পার্ক করা আছে"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 203,
+    "question": "মদ্যপান করে গাড়ি চালালে",
+    "options": [
+      "চালকের ভুল বিচার",
+      "চালকের দৃষ্টি কমে যাওয়া",
+      "উভয়ই"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 204,
+    "question": "আপনি জ্বালানি বাঁচাতে পারেন..",
+    "options": [
+      "যানবাহনের সঠিক টিউনিং করে",
+      "যানবাহনের সঠিক পরিষ্কার করে",
+      "গাড়ি চালানোর সময় ক্লাচের অতিরিক্ত ব্যবহার করে"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 205,
+    "question": "ভুল গিয়ার পরিবর্তন করলে হতে পারে।",
+    "options": [
+      "গিয়ার বক্সের ক্ষতি",
+      "বেশি জ্বালানি খরচ",
+      "উভয়ই"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 206,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "পথ বন্ধ",
+      "সামনে ঢাল",
+      "রাস্তা মেরামতের কাজ চলছে"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "no_through_road.png"
+  },
+  {
+    "question_number": 207,
+    "question": "নিম্নলিখিত চিহ্নটি বোঝায়",
+    "options": [
+      "একমুখী রাস্তা",
+      "উভয় দিকে যানবাহন নিষেধ",
+      "ওভারটেক নিষিদ্ধ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "on_way_sign.png"
+  },
+  {
+    "question_number": 208,
+    "question": "রাস্তার মাঝখানে চিহ্নিত হলুদ অবিচ্ছিন্ন রেখা নির্দেশ করে",
+    "options": [
+      "ওভারটেক অনুমোদিত",
+      "হলুদ রেখা অতিক্রম করা নিষিদ্ধ",
+      "চালক এই লেনের অন্য দিকে যেতে পারে"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": "crossing_yellow_line_prohibited.png"
+  }
+
+
+]

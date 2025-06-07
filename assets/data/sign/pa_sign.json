@@ -1,0 +1,330 @@
+[
+  {
+    "sign": "ਰੁਕੋ",
+    "icon": "stop.png"
+  },
+  {
+    "sign": "ਖੱਬੇ ਰਹੋ",
+    "icon": "Keep_left.png"
+  },
+  {
+    "sign": "ਰਾਹ ਦਿਓ",
+    "icon": "give_way.png"
+  },
+  {
+    "sign": "ਦਾਖਲਾ ਨਹੀਂ",
+    "icon": "no_entry.png"
+  },
+  {
+    "sign": "ਸੱਜੇ ਤਿੱਖਾ ਮੋੜ",
+    "icon": "sharp_curve_to_the_right.png"
+  },
+  {
+    "sign": "ਪੈਦਲ ਯਾਤਰੀ ਕ੍ਰਾਸਿੰਗ",
+    "icon": "Pedestrain_crossing.png"
+  },
+  {
+    "sign": "ਸੱਜੇ ਪਾਸੇ ਪਾਰਕਿੰਗ ਦੀ ਇਜਾਜ਼ਤ ਹੈ",
+    "icon": "parking_on_the_right_allowed.png"
+  },
+  {
+    "sign": "ਯੂ-ਟਰਨ ਮਨ੍ਹਾ ਹੈ",
+    "icon": "u_turn_prohibited.png"
+  },
+  {
+    "sign": "ਹਾਰਨ ਮਨ੍ਹਾ ਹੈ",
+    "icon": "horn_prohibited.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਤੰਗ ਪੁਲ",
+    "icon": "narrow_bridge_ahead.png"
+  },
+  {
+    "sign": "ਗਤੀ ਪ੍ਰਤਿਬੰਧ ਦਾ ਅੰਤ",
+    "icon": "end_of_speed_restriction.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਤੰਗ ਸੜਕ",
+    "icon": "narrow_road_ahead.png"
+  },
+  {
+    "sign": "ਲੈਵਲ ਕ੍ਰਾਸਿੰਗ ਸੁਰੱਖਿਅਤ",
+    "icon": "level_crossing_guarded.png"
+  },
+  {
+    "sign": "ਓਵਰਟੇਕਿੰਗ ਮਨ੍ਹਾ ਹੈ",
+    "icon": "overtaking_prohibited.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਚੌਰਾਹਾ",
+    "icon": "cross_road_ahead.png"
+  },
+  {
+    "sign": "ਲਾਜ਼ਮੀ ਅੱਗੇ ਜਾਓ ਜਾਂ ਖੱਬੇ ਮੁੜੋ",
+    "icon": "compulsory_go_ahead_or_turn_left.png"
+  },
+  {
+    "sign": "ਹਾਰਨ ਵਜਾਉਣਾ ਲਾਜ਼ਮੀ",
+    "icon": "sound_horn_compulsory.png"
+  },
+  {
+    "sign": "ਸਾਹਮਣੇ ਸੱਜੇ ਪਾਸੇ ਸੜਕ",
+    "icon": "road_to_the_right_in_front.png"
+  },
+  {
+    "sign": "ਰੁਕਣਾ ਜਾਂ ਪਾਰਕਿੰਗ ਮਨ੍ਹਾ",
+    "icon": "no_stopping_or_parking.png"
+  },
+  {
+    "sign": "ਸਿਰਫ਼ ਅੱਗੇ ਜਾਣਾ ਲਾਜ਼ਮੀ",
+    "icon": "compulsory_ahead_only.png"
+  },
+  {
+    "sign": "ਸਾਰੇ ਮੋਟਰ ਵਾਹਨ ਮਨ੍ਹਾ",
+    "icon": "all_motor_vehicles_prohibited.png"
+  },
+  {
+    "sign": "ਟਰੱਕ ਮਨ੍ਹਾ",
+    "icon": "trucks_prohibited.png"
+  },
+  {
+    "sign": "ਬਲਦ ਗੱਡੀ ਮਨ੍ਹਾ",
+    "icon": "bullock_cart_prohibited.png"
+  },
+  {
+    "sign": "ਪੈਦਲ ਯਾਤਰੀ ਮਨ੍ਹਾ",
+    "icon": "pedestrians_prohibited.png"
+  },
+  {
+    "sign": "ਖੱਬੇ ਮੁੜਨਾ ਮਨ੍ਹਾ",
+    "icon": "left_turn_prohibited.png"
+  },
+  {
+    "sign": "ਵਾਹਨ 0 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ ਤੋਂ ਵੱਧ ਨਾ ਚਲਾਓ",
+    "icon": "drive_the_vehicle_not_exceeding_50_km.png"
+  },
+  {
+    "sign": "ਲਾਜ਼ਮੀ ਅੱਗੇ ਜਾਂ ਸੱਜੇ ਮੁੜੋ",
+    "icon": "compulsory_ahead_or_turn_right.png"
+  },
+  {
+    "sign": "ਹੌਲੀ ਕਰੋ ਅਤੇ ਸਾਵਧਾਨੀ ਨਾਲ ਅੱਗੇ ਵਧੋ",
+    "icon": "show_down_and_proceed_with_caution.png"
+  },
+  {
+    "sign": "ਖੱਬਾ ਮੋੜ",
+    "icon": "left_hand_curve.png"
+  },
+  {
+    "sign": "ਸੱਜਾ ਹੇਅਰਪਿਨ ਮੋੜ",
+    "icon": "right_hair_pin_bend.png"
+  },
+  {
+    "sign": "ਖੱਬਾ ਹੇਅਰਪਿਨ ਮੋੜ",
+    "icon": "left_hair_pin_bend.png"
+  },
+  {
+    "sign": "ਸੱਜਾ ਰਿਵਰਸ ਮੋੜ",
+    "icon": "right_reverse_bend.png"
+  },
+  {
+    "sign": "ਖੱਬਾ ਰਿਵਰਸ ਮੋੜ",
+    "icon": "left_reverse_bend.png"
+  },
+  {
+    "sign": "ਵਾਈ-ਚੌਰਾਹਾ",
+    "icon": "y_inter_section.png"
+  },
+  {
+    "sign": "ਐਕਸਲ ਲੋਡ ਸੀਮਾ",
+    "icon": "axle_load_limit.png"
+  },
+  {
+    "sign": "ਲਾਜ਼ਮੀ ਸੱਜੇ ਮੁੜੋ ਅੱਗੇ",
+    "icon": "compulsory_turn_right_ahead.png"
+  },
+  {
+    "sign": "ਗੋਲ ਚੱਕਰ",
+    "icon": "road_about.png"
+  },
+  {
+    "sign": "ਖਤਰਨਾਕ ਡਿਪ",
+    "icon": "dangerous_dip.png"
+  },
+  {
+    "sign": "ਵਾਈ-ਚੌਰਾਹਾ ਸੱਜੇ",
+    "icon": "y_inter_scetion_right.png"
+  },
+  {
+    "sign": "ਵਾਈ-ਚੌਰਾਹਾ ਖੱਬੇ",
+    "icon": "y_inter_scetion_left.png"
+  },
+  {
+    "sign": "ਤਿਲਕਣ ਵਾਲੀ ਸੜਕ",
+    "icon": "slippery_road.png"
+  },
+  {
+    "sign": "ਖਿੱਲਰੀ ਬਜਰੀ",
+    "icon": "loose_gravel.png"
+  },
+  {
+    "sign": "ਸਾਈਕਲ ਕ੍ਰਾਸਿੰਗ",
+    "icon": "cycle_crossing.png"
+  },
+  {
+    "sign": "ਸੜਕ 'ਤੇ ਜਾਨਵਰ ਹੋਣ ਦੀ ਸੰਭਾਵਨਾ",
+    "icon": "possibility_animal_on_the_road.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਸਕੂਲ",
+    "icon": "school_ahead.png"
+  },
+  {
+    "sign": "ਕੰਮ 'ਤੇ ਆਦਮੀ",
+    "icon": "men_at_work.png"
+  },
+  {
+    "sign": "ਡਿੱਗਦੇ ਪੱਥਰ",
+    "icon": "falling_roacks.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਹਲਕਾ ਰਿਫਰੈਸ਼ਮੈਂਟ",
+    "icon": "light_refreshment_ahead.png"
+  },
+  {
+    "sign": "ਤੀਬਰ ਚੜ੍ਹਾਈ",
+    "icon": "steep_ascend.png"
+  },
+  {
+    "sign": "ਤੀਬਰ ਉਤਰਾਈ",
+    "icon": "steep_deascend.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਸੜਕ ਚੌੜੀ ਹੁੰਦੀ ਹੈ",
+    "icon": "road_widens_ahead.png"
+  },
+  {
+    "sign": "ਮੀਡੀਅਨ ਵਿੱਚ ਖਾਲੀ ਥਾਂ",
+    "icon": "gap_in_median.png"
+  },
+  {
+    "sign": "ਹੰਪ ਜਾਂ ਖਰਾਬ ਸੜਕ",
+    "icon": "hump_or_rough_road.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਬੈਰੀਅਰ",
+    "icon": "barrier_ahead.png"
+  },
+  {
+    "sign": "ਕੋਈ ਸਾਈਡ ਸੜਕ ਨਹੀਂ",
+    "icon": "no_through_side_road.png"
+  },
+  {
+    "sign": "ਫੈਰੀ",
+    "icon": "ferry.png"
+  },
+  {
+    "sign": "ਦੋਵੇਂ ਪਾਸੇ ਪਾਰਕਿੰਗ",
+    "icon": "parking_both_sides.png"
+  },
+  {
+    "sign": "ਪਾਰਕਿੰਗ ਲਾਟ - ਸਕੂਟਰ ਅਤੇ ਮੋਟਰ ਸਾਈਕਲ",
+    "icon": "parking_lot_scooters_motor_cycle.png"
+  },
+  {
+    "sign": "ਪਾਰਕਿੰਗ ਲਾਟ - ਆਟੋ ਰਿਕਸ਼ਾ",
+    "icon": "parking_lot_auto_rickashwa.png"
+  },
+  {
+    "sign": "ਪਾਰਕਿੰਗ ਲਾਟ - ਟੈਕਸੀਆਂ",
+    "icon": "parking_lot_taxis.png"
+  },
+  {
+    "sign": "ਪੈਟਰੋਲ ਪੰਪ",
+    "icon": "petrol_pump.png"
+  },
+  {
+    "sign": "ਸਾਵਧਾਨੀ ਨਾਲ ਲਾਈਨ ਬਦਲੋ",
+    "icon": "change_the_line_with_caution.png"
+  },
+  {
+    "sign": "ਸੱਜੇ ਮੁੜਨ ਦਾ ਇਰਾਦਾ",
+    "icon": "intends_turn_right.png"
+  },
+  {
+    "sign": "ਖੱਬੇ ਮੁੜਨ ਦਾ ਇਰਾਦਾ",
+    "icon": "intends_turn_left.png"
+  },
+  {
+    "sign": "ਵਾਹਨ ਦੀ ਗਤੀ ਘਟਾਉਣ ਦਾ ਇਰਾਦਾ",
+    "icon": "intends_slow_down_the_vehicle.png"
+  },
+  {
+    "sign": "ਵਾਹਨ ਰੋਕਣ ਦਾ ਇਰਾਦਾ",
+    "icon": "intends_stop_the_vehicle.png"
+  },
+  {
+    "sign": "ਪਿੱਛੇ ਤੋਂ ਵਾਹਨ ਨੂੰ ਲੰਘਣ ਦਿਓ",
+    "icon": "allow__pass_the_vehicle_from_behind.png"
+  },
+  {
+    "sign": "ਲੋੜ ਪੈਣ 'ਤੇ ਟਰੈਕ ਬਦਲ ਸਕਦਾ ਹੈ",
+    "icon": "can_change_track_if_required.png"
+  },
+  {
+    "sign": "ਨੋ ਪਾਰਕਿੰਗ",
+    "icon": "no_parking.png"
+  },
+  {
+    "sign": "ਲਾਜ਼ਮੀ ਖੱਬੇ ਮੁੜੋ",
+    "icon": "compulsory_turn_left.png"
+  },
+  {
+    "sign": "ਹਸਪਤਾਲ",
+    "icon": "hospital.png"
+  },
+  {
+    "sign": "ਲਾਜ਼ਮੀ ਸੱਜੇ ਮੁੜੋ",
+    "icon": "compulsory_turn_right.png"
+  },
+  {
+    "sign": "ਦੋਵਾਂ ਦਿਸ਼ਾਵਾਂ ਵਿੱਚ ਮਨ੍ਹਾ",
+    "icon": "prohibited_both_direction.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਮੁੱਖ ਸੜਕ",
+    "icon": "major_road_ahead.png"
+  },
+  {
+    "sign": "ਗਾਰਡ ਵਾਲੀ ਰੇਲਵੇ ਕ੍ਰਾਸਿੰਗ",
+    "icon": "guarded_railway_crossing.png"
+  },
+  {
+    "sign": "ਆਰਾਮ ਕਰਨ ਦੀ ਥਾਂ",
+    "icon": "resting_place.png"
+  },
+  {
+    "sign": "ਅੱਗੇ ਕੋਈ ਸੜਕ ਨਹੀਂ",
+    "icon": "no_through_road.png"
+  },
+  {
+    "sign": "ਇਕ-ਮਾਰਗੀ ਚਿੰਨ੍ਹ",
+    "icon": "on_way_sign.png"
+  },
+  {
+    "sign": "ਪੀਲੀ ਲਾਈਨ ਪਾਰ ਕਰਨਾ ਮਨ੍ਹਾ ਹੈ",
+    "icon": "crossing_yellow_line_prohibited.png"
+  },
+  {
+    "sign": "ਸੱਜੇ ਮੁੜਨਾ ਮਨ੍ਹਾ",
+    "icon": "right_turn_prohibited.png"
+  },
+  {
+    "sign": "ਖੱਬੇ ਪਾਸੇ ਸੜਕ",
+    "icon": "side_road_left.png"
+  },
+  {
+    "sign": "ਟੇਢੇ ਚੌਰਾਹੇ",
+    "icon": "staggered_intersections.png"
+  }
+]

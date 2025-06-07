@@ -1,0 +1,2499 @@
+[
+  {
+    "question_number": 1,
+    "question": "ਪੈਦਲ ਯਾਤਰੀ ਕ੍ਰਾਸਿੰਗ ਦੇ ਨੇੜੇ, ਜਦੋਂ ਪੈਦਲ ਯਾਤਰੀ ਸੜਕ ਪਾਰ ਕਰਨ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹੋਣ, ਤਾਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਅੱਗੇ ਵਧੋ",
+      "ਹੌਲੀ ਕਰੋ, ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਲੰਘੋ",
+      "ਵਾਹਨ ਰੋਕੋ ਅਤੇ ਉਦੋਂ ਤੱਕ ਇੰਤਜ਼ਾਰ ਕਰੋ ਜਦੋਂ ਤੱਕ ਪੈਦਲ ਯਾਤਰੀ ਸੜਕ ਪਾਰ ਨਹੀਂ ਕਰ ਲੈਂਦੇ ਅਤੇ ਫਿਰ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 2,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਰੁਕੋ",
+      "ਨੋ ਪਾਰਕਿੰਗ",
+      "ਅੱਗੇ ਹਸਪਤਾਲ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "Stop.png"
+  },
+  {
+    "question_number": 3,
+    "question": "ਤੁਸੀਂ ਇੱਕ ਤੰਗ ਪੁਲ ਦੇ ਨੇੜੇ ਪਹੁੰਚ ਰਹੇ ਹੋ, ਦੂਜਾ ਵਾਹਨ ਉਲਟ ਪਾਸੇ ਤੋਂ ਪੁਲ ਵਿੱਚ ਦਾਖਲ ਹੋਣ ਵਾਲਾ ਹੈ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਗਤੀ ਵਧਾਓ ਅਤੇ ਜਿੰਨੀ ਜਲਦੀ ਹੋ ਸਕੇ ਪੁਲ ਪਾਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+      "ਹੈੱਡ ਲਾਈਟ ਚਾਲੂ ਕਰੋ ਅਤੇ ਪੁਲ ਪਾਰ ਕਰੋ",
+      "ਦੂਜੇ ਵਾਹਨ ਦੇ ਪੁਲ ਪਾਰ ਕਰਨ ਤੱਕ ਉਡੀਕ ਕਰੋ ਅਤੇ ਫਿਰ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 4,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਰਹੋ",
+      "ਖੱਬੇ ਪਾਸੇ ਕੋਈ ਸੜਕ ਨਹੀਂ ਹੈ",
+      "ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਖੱਬੇ ਰਹੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "Keep_left.png"
+  },
+  {
+    "question_number": 5,
+    "question": "ਜਦੋਂ ਕੋਈ ਵਾਹਨ ਕਿਸੇ ਵਿਅਕਤੀ ਨੂੰ ਸੱਟ ਪਹੁੰਚਾਉਣ ਵਾਲੇ ਹਾਦਸੇ ਵਿੱਚ ਸ਼ਾਮਲ ਹੁੰਦਾ ਹੈ",
+    "options": [
+      "ਵਾਹਨ ਨੂੰ ਨਜ਼ਦੀਕੀ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਲੈ ਜਾਓ ਅਤੇ ਹਾਦਸੇ ਦੀ ਰਿਪੋਰਟ ਕਰੋ",
+      "ਵਾਹਨ ਰੋਕੋ ਅਤੇ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਨੂੰ ਰਿਪੋਰਟ ਕਰੋ",
+      "ਜ਼ਖਮੀ ਨੂੰ ਡਾਕਟਰੀ ਸਹਾਇਤਾ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਸਾਰੇ ਵਾਜਬ ਕਦਮ ਚੁੱਕੋ ਅਤੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਨਜ਼ਦੀਕੀ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਨੂੰ ਰਿਪੋਰਟ ਕਰੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 6,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਰਾਹ ਦਿਓ",
+      "ਅੱਗੇ ਹਸਪਤਾਲ",
+      "ਅੱਗੇ ਟ੍ਰੈਫਿਕ ਟਾਪੂ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "give_way.png"
+  },
+  {
+    "question_number": 7,
+    "question": "ਇੱਕ ਪਾਸੇ ਵਾਲੀ ਸੜਕ 'ਤੇ",
+    "options": [
+      "ਪਾਰਕਿੰਗ ਮਨਾਹੀ ਹੈ",
+      "ਓਵਰਟੇਕਿੰਗ ਮਨਾਹੀ ਹੈ",
+      "ਰਿਵਰਸ ਗੀਅਰ ਵਿੱਚ ਨਹੀਂ ਚਲਾਉਣਾ ਚਾਹੀਦਾ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 8,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਦਾਖਲਾ ਨਹੀਂ",
+      "ਇਕ ਤਰਫਾ",
+      "ਸਪੀਡ ਸੀਮਾ ਖਤਮ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "no_entry.png"
+  },
+  {
+    "question_number": 9,
+    "question": "ਤੁਸੀਂ ਸਾਹਮਣੇ ਵਾਲੇ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕਰ ਸਕਦੇ ਹੋ",
+    "options": [
+      "ਉਸ ਵਾਹਨ ਦੇ ਸੱਜੇ ਪਾਸੇ ਤੋਂ",
+      "ਖੱਬੇ ਪਾਸੇ ਤੋਂ",
+      "ਖੱਬੇ ਪਾਸੇ ਤੋਂ, ਜੇਕਰ ਸੜਕ ਚੌੜੀ ਹੈ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 10,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੱਜੇ ਮੋੜਨਾ ਮਨਾਹੀ",
+      "ਸੱਜੇ ਪਾਸੇ ਤਿੱਖਾ ਮੋੜ",
+      "ਯੂ-ਟਰਨ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "sharp_curve_to_the_right.png"
+  },
+  {
+    "question_number": 11,
+    "question": "ਜਦੋਂ ਕੋਈ ਵਾਹਨ ਬਿਨਾਂ ਗਾਰਡ ਵਾਲੀ ਰੇਲਵੇ ਲੈਵਲ ਕ੍ਰਾਸਿੰਗ ਦੇ ਨੇੜੇ ਪਹੁੰਚਦਾ ਹੈ, ਤਾਂ ਇਸਨੂੰ ਪਾਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਡਰਾਈਵਰ ਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਵਾਹਨ ਨੂੰ ਸੜਕ ਦੇ ਖੱਬੇ ਪਾਸੇ ਰੋਕੋ, ਵਾਹਨ ਤੋਂ ਹੇਠਾਂ ਉਤਰੋ, ਰੇਲਵੇ ਟ੍ਰੈਕ 'ਤੇ ਜਾਓ, ਅਤੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਕਿਸੇ ਵੀ ਪਾਸੇ ਤੋਂ ਕੋਈ ਰੇਲਗੱਡੀ ਜਾਂ ਟਰਾਲੀ ਨਹੀਂ ਆ ਰਹੀ ਹੈ",
+      "ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਜਿੰਨੀ ਜਲਦੀ ਹੋ ਸਕੇ ਟ੍ਰੈਕ ਪਾਰ ਕਰੋ",
+      "ਰੇਲਗੱਡੀ ਲੰਘਣ ਤੱਕ ਇੰਤਜ਼ਾਰ ਕਰੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 12,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪੈਦਲ ਯਾਤਰੀ ਕ੍ਰਾਸਿੰਗ",
+      "ਪੈਦਲ ਯਾਤਰੀ ਦਾਖਲ ਹੋ ਸਕਦੇ ਹਨ",
+      "ਪੈਦਲ ਯਾਤਰੀਆਂ ਲਈ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "pedestrian-crossing"
+  },
+  {
+    "question_number": 13,
+    "question": "ਸਿੱਖਿਆਰਥੀ ਲਾਇਸੈਂਸ ਦੀ ਵੈਧਤਾ",
+    "options": [
+      "ਜਦੋਂ ਤੱਕ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਜਾਰੀ ਨਹੀਂ ਹੋ ਜਾਂਦਾ",
+      "ਜਾਰੀ ਹੋਣ ਦੀ ਮਿਤੀ ਤੋਂ 6 ਮਹੀਨੇ",
+      "30 ਦਿਨ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 14,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੱਜੇ ਪਾਸੇ ਰਹੋ",
+      "ਸੱਜੇ ਪਾਸੇ ਪਾਰਕਿੰਗ ਦੀ ਇਜਾਜ਼ਤ",
+      "ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਸੱਜੇ ਮੁੜੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "parking_on_the_right_allowed.png"
+  },
+  {
+    "question_number": 15,
+    "question": "ਫੁੱਟਪਾਥ ਤੋਂ ਬਿਨਾਂ ਸੜਕ 'ਤੇ, ਪੈਦਲ ਯਾਤਰੀ",
+    "options": [
+      "ਸੜਕ ਦੇ ਖੱਬੇ ਪਾਸੇ ਚੱਲਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "ਸੜਕ ਦੇ ਸੱਜੇ ਪਾਸੇ ਚੱਲਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "ਸੜਕ ਦੇ ਕਿਸੇ ਵੀ ਪਾਸੇ ਚੱਲ ਸਕਦੇ ਹਨ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 16,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਯੂ-ਟਰਨ ਮਨਾਹੀ",
+      "ਸੱਜੇ ਮੋੜਨਾ ਮਨਾਹੀ",
+      "ਖੱਬੇ ਪਾਸੇ ਤੋਂ ਓਵਰਟੇਕ ਕਰਨਾ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "u_turn_prohibited.png"
+  },
+  {
+    "question_number": 17,
+    "question": "ਹੇਠ ਲਿਖੀਆਂ ਕਿਸਮਾਂ ਦੇ ਵਾਹਨਾਂ ਨੂੰ ਮੁਫਤ ਲੰਘਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ",
+    "options": [
+      "ਛੋਟੇ ਵਾਹਨ",
+      "ਐਂਬੂਲੈਂਸ ਅਤੇ ਫਾਇਰ ਸਰਵਿਸ ਵਾਹਨ",
+      "ਐਕਸਪ੍ਰੈਸ, ਸੁਪਰ ਐਕਸਪ੍ਰੈਸ ਬੱਸਾਂ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 18,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਹਾਰਨ ਮਨਾਹੀ",
+      "ਲਾਜ਼ਮੀ ਹਾਰਨ ਵਜਾਓ",
+      "ਹਾਰਨ ਵਜਾ ਸਕਦੇ ਹੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "horn_prohibited.png"
+  },
+  {
+    "question_number": 19,
+    "question": "ਜਦੋਂ ਰਾਤ ਨੂੰ ਸੜਕ ਕਿਨਾਰੇ ਵਾਹਨ ਪਾਰਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ",
+    "options": [
+      "ਵਾਹਨ ਨੂੰ ਲਾਕ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ",
+      "ਅਜਿਹੇ ਵਾਹਨ ਨੂੰ ਚਲਾਉਣ ਦਾ ਲਾਇਸੈਂਸ ਰੱਖਣ ਵਾਲਾ ਵਿਅਕਤੀ ਅੰਦਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "ਪਾਰਕਿੰਗ ਲਾਈਟ ਜਗਦੀ ਰਹੇਗੀ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 20,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਦੋਵੇਂ ਪਾਸੇ ਸੜਕਾਂ",
+      "ਅੱਗੇ ਤੰਗ ਪੁਲ",
+      "ਅੱਗੇ ਤੰਗ ਸੜਕ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "narrow_bridge_ahead.png"
+  },
+  {
+    "question_number": 21,
+    "question": "ਧੁੰਦ ਲਾਈਟਾਂ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ",
+    "options": [
+      "ਰਾਤ ਨੂੰ",
+      "ਜਦੋਂ ਧੁੰਦ ਹੋਵੇ",
+      "ਜਦੋਂ ਵਿਰੋਧੀ ਵਾਹਨ ਡਿਮ ਲਾਈਟ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੋਵੇ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 22,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੜਕ ਬੰਦ",
+      "ਨੋ ਪਾਰਕਿੰਗ",
+      "ਸਪੀਡ ਪ੍ਰਤੀਬੰਧ ਖਤਮ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "end_of_speed_restriction.png"
+  },
+  {
+    "question_number": 23,
+    "question": "ਜ਼ੈਬਰਾ ਲਾਈਨਾਂ ਦਾ ਮਤਲਬ ਹੈ",
+    "options": [
+      "ਵਾਹਨ ਰੋਕਣਾ",
+      "ਪੈਦਲ ਯਾਤਰੀ ਕ੍ਰਾਸਿੰਗ",
+      "ਵਾਹਨ ਨੂੰ ਤਰਜੀਹ ਦੇਣਾ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 24,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਤੰਗ ਸੜਕ",
+      "ਅੱਗੇ ਤੰਗ ਪੁਲ",
+      "ਅੱਗੇ ਦੋਵੇਂ ਪਾਸੇ ਸੜਕਾਂ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "narrow_road_ahead.png"
+  },
+  {
+    "question_number": 25,
+    "question": "ਜਦੋਂ ਇੱਕ ਐਂਬੂਲੈਂਸ ਨੇੜੇ ਆ ਰਹੀ ਹੋਵੇ...",
+    "options": [
+      "ਜੇਕਰ ਸਾਹਮਣੇ ਵਾਲੇ ਪਾਸੇ ਤੋਂ ਕੋਈ ਵਾਹਨ ਨਹੀਂ ਹੈ ਤਾਂ ਲੰਘਣ ਦਿਓ",
+      "ਕੋਈ ਤਰਜੀਹ ਦੇਣ ਦੀ ਲੋੜ ਨਹੀਂ",
+      "ਡਰਾਈਵਰ ਨੂੰ ਸੜਕ ਦੇ ਖੱਬੇ ਪਾਸੇ ਖਿੱਚ ਕੇ ਮੁਫਤ ਲੰਘਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਚਾਹੀਦੀ ਹੈ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 26,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਰੇਲਵੇ ਸਟੇਸ਼ਨ",
+      "ਲੈਵਲ ਕ੍ਰਾਸਿੰਗ",
+      "ਲੈਵਲ ਕ੍ਰਾਸਿੰਗ ਸੁਰੱਖਿਅਤ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "level_crossing_guarded.png"
+  },
+  {
+    "question_number": 27,
+    "question": "ਲਾਲ ਟ੍ਰੈਫਿਕ ਲਾਈਟ ਦਰਸਾਉਂਦੀ ਹੈ",
+    "options": [
+      "ਵਾਹਨ ਸਾਵਧਾਨੀ ਨਾਲ ਅੱਗੇ ਵਧ ਸਕਦਾ ਹੈ",
+      "ਵਾਹਨ ਰੋਕੋ",
+      "ਹੌਲੀ ਕਰੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 28,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੱਜੇ ਪਾਸੇ ਤੋਂ ਦਾਖਲਾ ਮਨਾਹੀ",
+      "ਖੱਬੇ ਪਾਸੇ ਤੋਂ ਦਾਖਲਾ ਮਨਾਹੀ",
+      "ਓਵਰਟੇਕਿੰਗ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "overtaking _rohibited.png"
+  },
+  {
+    "question_number": 29,
+    "question": "ਜਿੱਥੇ ਸੜਕ 'ਤੇ 'ਫਿਸਲਣ ਵਾਲੀ ਸੜਕ' ਦਾ ਚਿੰਨ੍ਹ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ, ਡਰਾਈਵਰ ਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਹੇਠਲੇ ਗੀਅਰ ਵਿੱਚ ਬਦਲ ਕੇ ਗਤੀ ਘਟਾਓ",
+      "ਬ੍ਰੇਕ ਲਗਾਓ",
+      "ਉਸੇ ਗਤੀ 'ਤੇ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 30,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਕਰਾਸ ਰੋਡ",
+      "ਦਾਖਲਾ ਨਹੀਂ",
+      "ਹਸਪਤਾਲ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "cross_road_ahead.png"
+  },
+  {
+    "question_number": 31,
+    "question": "ਹੇਠ ਲਿਖੀਆਂ ਸਥਿਤੀਆਂ ਵਿੱਚ ਓਵਰਟੇਕਿੰਗ ਮਨਾਹੀ ਹੈ",
+    "options": [
+      "ਜਦੋਂ ਦੂਜੇ ਟ੍ਰੈਫਿਕ ਲਈ ਅਸੁਵਿਧਾ ਜਾਂ ਖ਼ਤਰਾ ਹੋਣ ਦੀ ਸੰਭਾਵਨਾ ਹੋਵੇ",
+      "ਜਦੋਂ ਸਾਹਮਣੇ ਵਾਲਾ ਵਾਹਨ ਗਤੀ ਘਟਾ ਰਿਹਾ ਹੋਵੇ",
+      "ਰਾਤ ਨੂੰ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 32,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਮੁੜ ਸਕਦੇ ਹੋ",
+      "ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਅੱਗੇ ਜਾਓ ਜਾਂ ਖੱਬੇ ਮੁੜੋ",
+      "ਖੱਬੇ ਪਾਸੇ ਦੀ ਸੜਕ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "compulsory_go_ahead_or_turn_left.png"
+  },
+  {
+    "question_number": 33,
+    "question": "ਪ੍ਰਦੂਸ਼ਣ ਕੰਟਰੋਲ ਸਰਟੀਫਿਕੇਟ ਦੀ ਵੈਧਤਾ ਕੀ ਹੈ?",
+    "options": [
+      "6 ਮਹੀਨੇ",
+      "1 ਸਾਲ",
+      "2 ਸਾਲ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 34,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਹਾਰਨ ਵਜਾਉਣਾ ਲਾਜ਼ਮੀ",
+      "ਹਾਰਨ ਲਗਾਤਾਰ ਵਜਾਓ",
+      "ਹਾਰਨ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "sound_horn_compulsory.png"
+  },
+  {
+    "question_number": 35,
+    "question": "ਦੇ ਨੇੜੇ ਓਵਰਟੇਕਿੰਗ",
+    "options": [
+      "ਇਜਾਜ਼ਤ ਹੈ",
+      "ਇਜਾਜ਼ਤ ਨਹੀਂ",
+      "ਸਾਵਧਾਨੀ ਨਾਲ ਇਜਾਜ਼ਤ ਹੈ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 36,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਸੱਜੇ ਪਾਸੇ ਸੜਕ",
+      "ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਸੱਜੇ ਮੁੜੋ",
+      "ਸੱਜੇ ਮੁੜਨਾ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "road_to_the_right_in_front.png"
+  },
+  {
+    "question_number": 37,
+    "question": "ਸ਼ਰਾਬੀ ਡਰਾਈਵਿੰਗ",
+    "options": [
+      "ਨਿੱਜੀ ਵਾਹਨਾਂ ਵਿੱਚ ਇਜਾਜ਼ਤ ਹੈ",
+      "ਰਾਤ ਦੇ ਸਮੇਂ ਇਜਾਜ਼ਤ ਹੈ",
+      "ਸਾਰੇ ਵਾਹਨਾਂ ਵਿੱਚ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 38,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪਾਬੰਦੀ ਦਾ ਅੰਤ",
+      "ਰੁਕਣਾ ਜਾਂ ਪਾਰਕਿੰਗ ਨਹੀਂ",
+      "ਨੋ ਪਾਰਕਿੰਗ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "no_stopping_or_parking.png"
+  },
+  {
+    "question_number": 39,
+    "question": "ਰੀਅਰ ਵਿਊ ਮਿਰਰ ਦੀ ਵਰਤੋਂ ਲਈ ਕੀਤੀ ਜਾਂਦੀ ਹੈ",
+    "options": [
+      "ਚਿਹਰਾ ਦੇਖਣਾ",
+      "ਪਿੱਛੇ ਤੋਂ ਆਉਣ ਵਾਲੇ ਟ੍ਰੈਫਿਕ ਨੂੰ ਦੇਖਣਾ",
+      "ਪਿਛਲੀ ਸੀਟ ਵਾਲੇ ਯਾਤਰੀ ਨੂੰ ਦੇਖਣਾ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 40,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਸਿਰਫ਼ ਅੱਗੇ",
+      "ਇਕ ਤਰਫਾ",
+      "ਦੋਵਾਂ ਦਿਸ਼ਾਵਾਂ ਵਿੱਚ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "compulsory_ahead_only.png"
+  },
+  {
+    "question_number": 41,
+    "question": "ਚਲਦੇ ਹੋਏ ਵਾਹਨ ਵਿੱਚ ਸਵਾਰ ਹੋਣਾ ਜਾਂ ਉਤਰਨਾ",
+    "options": [
+      "ਬੱਸ ਵਿੱਚ ਇਜਾਜ਼ਤ ਹੈ",
+      "ਆਟੋ-ਰਿਕਸ਼ਾ ਵਿੱਚ ਇਜਾਜ਼ਤ ਹੈ",
+      "ਸਾਰੇ ਵਾਹਨਾਂ ਵਿੱਚ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 42,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸਾਰੇ ਮੋਟਰ ਵਾਹਨ ਮਨਾਹੀ",
+      "ਕਾਰਾਂ ਅਤੇ ਮੋਟਰਸਾਈਕਲਾਂ ਲਈ ਦਾਖਲਾ ਨਹੀਂ",
+      "ਕਾਰਾਂ ਅਤੇ ਮੋਟਰ ਵਾਹਨਾਂ ਲਈ ਦਾਖਲਾ ਇਜਾਜ਼ਤ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "all_motor_vehicles_prohibited.png"
+  },
+  {
+    "question_number": 43,
+    "question": "ਜਦੋਂ ਕਿਸੇ ਵਾਹਨ ਵਿੱਚ ਬਾਲਣ ਭਰਿਆ ਜਾਂਦਾ ਹੈ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਹਵਾ ਦਾ ਦਬਾਅ ਨਹੀਂ ਜਾਂਚਣਾ ਚਾਹੀਦਾ",
+      "ਸਿਗਰਟ ਨਹੀਂ ਪੀਣੀ ਚਾਹੀਦੀ",
+      "ਵਾਹਨ ਦੀ ਕੋਈ ਲਾਈਟ ਨਹੀਂ ਵਰਤਣੀ ਚਾਹੀਦੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 44,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਟਰੱਕ ਮਨਾਹੀ",
+      "ਬੱਸ ਮਨਾਹੀ",
+      "ਭਾਰੀ ਵਾਹਨ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "trucks_prohibited.png"
+  },
+  {
+    "question_number": 45,
+    "question": "ਓਵਰਟੇਕਿੰਗ ਮਨਾਹੀ ਹੈ",
+    "options": [
+      "ਜਦੋਂ ਅੱਗੇ ਦੀ ਸੜਕ ਸਪੱਸ਼ਟ ਤੌਰ 'ਤੇ ਦਿਖਾਈ ਨਾ ਦੇਵੇ",
+      "ਰਾਤ ਨੂੰ",
+      "ਜਦੋਂ ਸੜਕ ਦਾ ਕੇਂਦਰ ਚਿੱਟੀਆਂ ਟੁੱਟੀਆਂ ਲਾਈਨਾਂ ਨਾਲ ਨਿਸ਼ਾਨਬੱਧ ਹੋਵੇ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 46,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਬਲਦ ਗੱਡੀ ਮਨਾਹੀ",
+      "ਸਾਈਕਲ ਮਨਾਹੀ",
+      "ਸਾਰੇ ਵਾਹਨ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "bullock_cart_prohibited.png"
+  },
+  {
+    "question_number": 47,
+    "question": "ਜਦੋਂ ਤੁਸੀਂ ਰਾਤ ਨੂੰ ਹਾਈ ਬੀਮ ਵਿੱਚ ਹੈੱਡਲਾਈਟ ਨਾਲ ਗੱਡੀ ਚਲਾ ਰਹੇ ਹੋ, ਤਾਂ ਉਲਟ ਦਿਸ਼ਾ ਤੋਂ ਇੱਕ ਵਾਹਨ ਆਉਂਦਾ ਹੈ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਪਾਸੇ ਰੱਖਦੇ ਹੋਏ ਅੱਗੇ ਵਧੋ",
+      "ਹੈੱਡਲਾਈਟ ਨੂੰ ਕਈ ਵਾਰ ਡਿਮ ਅਤੇ ਬ੍ਰਾਈਟ ਵਿੱਚ ਬਦਲੋ",
+      "ਵਾਹਨ ਲੰਘਣ ਤੱਕ ਹੈੱਡਲਾਈਟ ਡਿਮ ਕਰੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 48,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਵਿਦਿਆਰਥੀ ਮਨਾਹੀ",
+      "ਪੈਦਲ ਯਾਤਰੀਆਂ ਨੂੰ ਇਜਾਜ਼ਤ",
+      "ਪੈਦਲ ਯਾਤਰੀਆਂ ਲਈ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "pedestrians_prohibited.png"
+  },
+  {
+    "question_number": 49,
+    "question": "ਹਾਰਨ ਦੀ ਅਣਲੋੜੀਂਦੀ ਅਤੇ ਵਾਰ-ਵਾਰ ਵਰਤੋਂ ਕਾਨੂੰਨ ਅਧੀਨ ਮਨਾਹੀ ਹੈ",
+    "options": [
+      "ਹਾਂ",
+      "ਨਹੀਂ",
+      "ਕੋਈ ਕਾਨੂੰਨ ਨਹੀਂ ਹੈ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 50,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੱਜੇ ਪਾਸੇ ਤੋਂ ਓਵਰਟੇਕਿੰਗ ਮਨਾਹੀ",
+      "ਖੱਬੇ ਮੁੜੋ",
+      "ਖੱਬੇ ਮੋੜਨਾ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "left_turn_prohibited.png"
+  },
+  {
+    "question_number": 51,
+    "question": "ਗੈਰ-ਟਰਾਂਸਪੋਰਟ ਵਾਹਨਾਂ ਦੇ ਦਸਤਾਵੇਜ਼ ਵਾਹਨ ਵਿੱਚ ਰੱਖੇ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ",
+    "options": [
+      "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਸਰਟੀਫਿਕੇਟ, ਪੀਯੂਸੀ, ਬੀਮਾ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ",
+      "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਸਰਟੀਫਿਕੇਟ, ਬੀਮਾ ਸਰਟੀਫਿਕੇਟ, ਟੈਕਸ ਟੋਕਨ, ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ",
+      "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਸਰਟੀਫਿਕੇਟ ਪਰਮਿਟ, ਟ੍ਰਿਪ ਸ਼ੀਟ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 52,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਵਾਹਨ 50 ਕਿਲੋਮੀਟਰ/ਘੰਟਾ ਤੋਂ ਵੱਧ ਨਾ ਚਲਾਓ।",
+      "ਵਾਹਨ 50 ਕਿਲੋਮੀਟਰ/ਘੰਟਾ 'ਤੇ ਚਲਾਓ",
+      "ਵਾਹਨ 50 ਕਿਲੋਮੀਟਰ/ਘੰਟਾ ਤੋਂ ਵੱਧ ਚਲਾਓ।"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "drive_the_vehicle_not_exceeding_50_km.png"
+  },
+  {
+    "question_number": 53,
+    "question": "ਤੁਸੀਂ ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ ਮੋਬਾਈਲ 'ਤੇ ਗੱਲ ਕਰ ਸਕਦੇ ਹੋ",
+    "options": [
+      "ਕੋਈ ਵੀ ਵਾਹਨ",
+      "ਹਾਂ",
+      "ਨਹੀਂ",
+      "ਤੁਸੀਂ ਆਪਣਾ ਵਾਹਨ ਹੌਲੀ ਕਰਨ ਤੋਂ ਬਾਅਦ ਗੱਲ ਕਰ ਸਕਦੇ ਹੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 54,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਅੱਗੇ ਜਾਂ ਸੱਜੇ ਮੁੜੋ",
+      "ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਅੱਗੇ ਜਾਂ ਖੱਬੇ ਮੁੜੋ",
+      "ਅੱਗੇ ਦੀ ਸੜਕ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "compulsory_ahead_or_turn_right.png"
+  },
+  {
+    "question_number": 55,
+    "question": "ਸੀਟ ਦਾ ਹੈੱਡਰੇਸਟ ਕਿਵੇਂ ਮਦਦ ਕਰਦਾ ਹੈ?",
+    "options": [
+      "ਤੁਸੀਂ ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ ਆਰਾਮ ਕਰ ਸਕਦੇ ਹੋ",
+      "ਹਾਦਸੇ ਦੀ ਸੂਰਤ ਵਿੱਚ ਗਰਦਨ ਦੀ ਸੱਟ ਤੋਂ ਬਚਾਉਂਦਾ ਹੈ",
+      "ਸੀਟ ਹੈੱਡਰੇਸਟ ਨਾਲ ਸੁੰਦਰ ਲੱਗਦੀ ਹੈ।"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 56,
+    "question": "ਜਦੋਂ ਤੁਸੀਂ ਸਕੂਲ ਦਾ ਟ੍ਰੈਫਿਕ ਚਿੰਨ੍ਹ ਦੇਖਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਵਾਹਨ ਰੋਕੋ, ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਅੱਗੇ ਵਧੋ",
+      "ਹੌਲੀ ਕਰੋ ਅਤੇ ਸਾਵਧਾਨੀ ਨਾਲ ਅੱਗੇ ਵਧੋ",
+      "ਲਗਾਤਾਰ ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "show_down_and_proceed_with_caution.png"
+  },
+  {
+    "question_number": 57,
+    "question": "ਖੱਬੇ ਮੁੜਦੇ ਸਮੇਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਮੋੜ ਦਾ ਸੰਕੇਤ ਦਿਖਾਓ, ਕੇਂਦਰ ਵੱਲ ਡਰਾਈਵ ਕਰੋ ਅਤੇ ਖੱਬੇ ਮੁੜੋ",
+      "ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਖੱਬੇ ਮੁੜੋ",
+      "ਖੱਬੇ ਮੋੜ ਦਾ ਸੰਕੇਤ ਦਿਖਾਓ, ਸੜਕ ਦੇ ਖੱਬੇ ਪਾਸੇ ਰਹੋ ਅਤੇ ਖੱਬੇ ਮੁੜੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 58,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਹੱਥ ਦਾ ਮੋੜ",
+      "ਖੱਬੇ ਚੜ੍ਹਾਈ",
+      "ਖੱਬੇ ਰਹੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "left_hand_curve.png"
+  },
+  {
+    "question_number": 59,
+    "question": "ਇੱਕ ਵਾਹਨ ਦਾ ਡਰਾਈਵਰ ਆਪਣੀ ਸੱਜੀ ਬਾਂਹ ਨੂੰ ਹੇਠਾਂ ਵੱਲ ਹਥੇਲੀ ਨਾਲ ਫੈਲਾਉਂਦਾ ਹੈ ਅਤੇ ਬਾਂਹ ਨੂੰ ਕਈ ਵਾਰ ਉੱਪਰ ਅਤੇ ਹੇਠਾਂ ਕਰਦਾ ਹੈ। ਤੁਸੀਂ ਸਮਝੋਗੇ ਕਿ",
+    "options": [
+      "ਉਹ ਖੱਬੇ ਮੁੜ ਰਿਹਾ ਹੈ",
+      "ਉਹ ਵਾਹਨ ਦੀ ਗਤੀ ਘਟਾ ਰਿਹਾ ਹੈ",
+      "ਓਵਰਟੇਕ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇ ਰਿਹਾ ਹੈ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 60,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੱਜੇ ਹੇਅਰ ਪਿਨ ਮੋੜ",
+      "ਸੱਜੇ ਚੜ੍ਹਾਈ ਅਤੇ ਉਤਰਾਈ",
+      "ਸੱਜੇ ਉਤਰਾਈ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "right_hair_pin_bend.png"
+  },
+  {
+    "question_number": 61,
+    "question": "ਬਿਨਾਂ ਗੀਅਰ ਵਾਲੀ ਮੋਟਰ ਸਾਈਕਲ ਚਲਾਉਣ ਲਈ ਲਾਇਸੈਂਸ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਉਮਰ ਹੈ",
+    "options": [
+      "18 ਸਾਲ",
+      "21 ਸਾਲ",
+      "16 ਸਾਲ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 62,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਉਤਰਾਈ",
+      "ਖੱਬੇ ਹੇਅਰ ਪਿਨ ਮੋੜ",
+      "ਖੱਬੇ ਰਹੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "left_hair_pin_bend.png"
+  },
+  {
+    "question_number": 63,
+    "question": "ਖੱਬੇ ਮੁੜਦੇ ਸਮੇਂ, ਦੋ ਪਹੀਆ ਵਾਹਨ ਦੇ ਡਰਾਈਵਰ ਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਆਪਣਾ ਖੱਬਾ ਹੱਥ ਖੱਬੇ ਪਾਸੇ ਵਧਾਓ",
+      "ਹੱਥ ਦਾ ਸੰਕੇਤ ਨਾ ਦਿਖਾਓ",
+      "ਆਪਣੇ ਸੱਜੇ ਹੱਥ ਨਾਲ ਖੱਬੇ ਮੋੜ ਦਾ ਸੰਕੇਤ ਦਿਖਾਓ ਜਾਂ ਇੰਡੀਕੇਟਰ ਨਾਲ ਸੰਕੇਤ ਦਿਓ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 64,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੱਜੇ ਉਲਟਾ ਮੋੜ",
+      "ਖੱਬੇ ਉਲਟਾ ਮੋੜ",
+      "ਸੱਜੇ ਮੁੜੋ ਅਤੇ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "right_reverse_bend.png"
+  },
+  {
+    "question_number": 65,
+    "question": "ਯੂ-ਟਰਨ ਲੈਣ ਦਾ ਸੰਕੇਤ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਮੋੜ ਦਾ ਸੰਕੇਤ",
+      "ਸੱਜੇ ਮੋੜ ਦਾ ਸੰਕੇਤ",
+      "ਹੌਲੀ ਕਰਨ ਦਾ ਸੰਕੇਤ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 66,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੱਜੇ ਉਲਟਾ ਮੋੜ",
+      "ਖੱਬੇ ਉਲਟਾ ਮੋੜ",
+      "ਖੱਬੇ ਮੁੜੋ ਅਤੇ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "left_reverse_bend.png"
+  },
+  {
+    "question_number": 67,
+    "question": "ਇੱਕ ਵਾਹਨ ਦਾ ਡਰਾਈਵਰ ਯੂ-ਟਰਨ ਨਹੀਂ ਲਵੇਗਾ",
+    "options": [
+      "ਉਸ ਸੜਕ 'ਤੇ ਜਿੱਥੇ ਯੂ-ਟਰਨ ਮਨਾਹੀ ਹੈ",
+      "ਇੱਕ ਵਿਅਸਤ ਸੜਕ 'ਤੇ ਚਾਰਜ ਲਗਾਇਆ ਜਾ ਸਕਦਾ ਹੈ",
+      "ਜਦੋਂ ਖੱਬੇ ਪਾਸੇ ਤੋਂ ਵਾਹਨ ਲੰਘ ਰਹੇ ਹੋਣ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 68,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਵਾਈ-ਇੰਟਰਸੈਕਸ਼ਨ ਖੱਬੇ",
+      "ਵਾਈ-ਇੰਟਰਸੈਕਸ਼ਨ ਸੱਜੇ",
+      "ਵਾਈ-ਇੰਟਰਸੈਕਸ਼ਨ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "y_inter_section.png"
+  },
+  {
+    "question_number": 69,
+    "question": "ਜਨਤਕ ਥਾਂ 'ਤੇ ਅਣਰਜਿਸਟਰਡ ਵਾਹਨ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਹੈ",
+    "options": [
+      "ਗੈਰ-ਕਾਨੂੰਨੀ",
+      "ਕਾਨੂੰਨੀ",
+      "ਕਾਨੂੰਨੀ ਜੇਕਰ ਜ਼ਰੂਰੀ ਹੋਵੇ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 70,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਪਾਸੇ ਦੀ ਸੜਕ",
+      "ਸਪੀਡ ਸੀਮਾ",
+      "ਐਕਸਲ ਲੋਡ ਸੀਮਾ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "axle_load_limit.png"
+  },
+  {
+    "question_number": 71,
+    "question": "ਉਲਟ ਦਿਸ਼ਾ ਤੋਂ ਆਉਣ ਵਾਲੇ ਵਾਹਨਾਂ ਨੂੰ ਲੰਘਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਚਾਹੀਦੀ ਹੈ",
+    "options": [
+      "ਤੁਹਾਡੇ ਸੱਜੇ ਪਾਸੇ",
+      "ਤੁਹਾਡੇ ਖੱਬੇ ਪਾਸੇ",
+      "ਸੁਵਿਧਾਜਨਕ ਪਾਸੇ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 72,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਅੱਗੇ ਸੱਜੇ ਮੁੜੋ",
+      "ਸੱਜੇ ਪਾਸੇ ਦੀ ਸੜਕ",
+      "ਸੱਜੇ ਰਹੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "compulsory_turn_right_ahead.png"
+  },
+  {
+    "question_number": 73,
+    "question": "ਇੱਕ ਵਾਹਨ ਦਾ ਡਰਾਈਵਰ ਪਹਾੜੀ ਤੋਂ ਹੇਠਾਂ ਜਾਂਦੇ ਸਮੇਂ ਓਵਰਟੇਕ ਕਰ ਸਕਦਾ ਹੈ",
+    "options": [
+      "ਜੇ ਸੜਕ ਕਾਫੀ ਚੌੜੀ ਨਹੀਂ ਹੈ",
+      "ਜਦੋਂ ਅੱਗੇ ਵਾਲੇ ਵਾਹਨ ਦਾ ਡਰਾਈਵਰ ਓਵਰਟੇਕ ਕਰਨ ਦਾ ਸੰਕੇਤ ਦਿਖਾਉਂਦਾ ਹੈ",
+      "ਨਹੀਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 74,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਮੁੜੋ",
+      "ਸੱਜੇ ਮੁੜੋ",
+      "ਚੌਰਾਹਾ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "road_about.png"
+  },
+  {
+    "question_number": 75,
+    "question": "ਜਦੋਂ ਇੱਕ ਚੌਰਾਹੇ 'ਤੇ ਸਿਗਨਲ ਲਾਈਟ 'ਤੇ ਪੀਲੀ ਰੋਸ਼ਨੀ ਦਿਖਾਈ ਦਿੰਦੀ ਹੈ, ਤਾਂ ਨੇੜੇ ਆਉਣ ਵਾਲੇ ਵਾਹਨ ਦੇ ਡਰਾਈਵਰ ਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਸੁਰੱਖਿਆ ਯਕੀਨੀ ਬਣਾਓ ਅਤੇ ਦੂਰ ਚਲਾਓ",
+      "ਰੁਕਣ ਲਈ ਹੌਲੀ ਕਰੋ",
+      "ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 76,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਤੰਗ ਸੜਕ",
+      "ਖਤਰਨਾਕ ਉਤਰਾਈ",
+      "ਫੈਰੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "dangerous_dip.png"
+  },
+  {
+    "question_number": 77,
+    "question": "ਇੱਕ ਮੋਟਰ ਵਾਹਨ ਦਾ ਡਰਾਈਵਰ ਚਲਾਏਗਾ",
+    "options": [
+      "ਸੜਕ ਦੇ ਸੱਜੇ ਪਾਸੇ",
+      "ਸੜਕ ਦੇ ਖੱਬੇ ਪਾਸੇ",
+      "ਸੜਕ ਦੇ ਕੇਂਦਰ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 78,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਵਾਈ-ਇੰਟਰਸੈਕਸ਼ਨ ਖੱਬੇ",
+      "ਵਾਈ-ਇੰਟਰਸੈਕਸ਼ਨ ਸੱਜੇ",
+      "ਖੱਬੇ ਪਾਸੇ ਦੀ ਸੜਕ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "y_inter_scetion_right.png"
+  },
+  {
+    "question_number": 79,
+    "question": "ਜਦੋਂ ਤੁਹਾਡੇ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੋਵੇ, ਤਾਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਆਪਣਾ ਵਾਹਨ ਰੋਕੋ ਅਤੇ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕਰਨ ਦਿਓ",
+      "ਆਪਣੇ ਵਾਹਨ ਦੀ ਗਤੀ ਘਟਾਓ",
+      "ਦੂਜੇ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕਰਨ ਤੋਂ ਨਾ ਰੋਕੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 80,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਮੁੜੋ",
+      "ਸੱਜੇ ਮੁੜੋ",
+      "ਵਾਈ-ਇੰਟਰਸੈਕਸ਼ਨ ਖੱਬੇ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "y_inter_scetion_left.png"
+  },
+  {
+    "question_number": 81,
+    "question": "ਉਹ ਥਾਂ ਜਿੱਥੇ ਪਾਰਕਿੰਗ ਮਨਾਹੀ ਹੈ",
+    "options": [
+      "ਪਾਰਕ ਕੀਤੇ ਵਾਹਨ ਦੇ ਸਾਹਮਣੇ",
+      "ਇਕ-ਤਰਫਾ ਸੜਕ 'ਤੇ",
+      "ਫੁੱਟ-ਪਾਥ 'ਤੇ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 82,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਫਿਸਲਣ ਵਾਲੀ ਸੜਕ",
+      "ਬਜਰੀ ਵਾਲੀ ਸੜਕ",
+      "ਮੋਟਰ ਕਾਰ ਲਈ ਦਾਖਲਾ ਨਹੀਂ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "slippery_road.png"
+  },
+  {
+    "question_number": 83,
+    "question": "ਹੈਂਡ ਬ੍ਰੇਕ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ",
+    "options": [
+      "ਗਤੀ ਘਟਾਉਣ ਲਈ",
+      "ਅਚਾਨਕ ਬ੍ਰੇਕ ਲਗਾਉਣ ਲਈ",
+      "ਵਾਹਨ ਪਾਰਕ ਕਰਨ ਲਈ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 84,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਢਿੱਲੀ ਬਜਰੀ",
+      "ਫਿਸਲਣ ਵਾਲੀ ਸੜਕ",
+      "ਮੋਟਰ ਕਾਰ ਲਈ ਦਾਖਲਾ ਨਹੀਂ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "loose_gravel.png"
+  },
+  {
+    "question_number": 85,
+    "question": "ਦੋ ਪਹੀਆ ਵਾਹਨ 'ਤੇ ਦੋ ਤੋਂ ਵੱਧ ਵਿਅਕਤੀ",
+    "options": [
+      "ਟਾਲਣਯੋਗ ਹਾਲਾਤਾਂ ਵਿੱਚ ਇਜਾਜ਼ਤ ਹੈ",
+      "ਕਾਨੂੰਨ ਦੀ ਉਲੰਘਣਾ",
+      "ਜਦੋਂ ਟ੍ਰੈਫਿਕ ਘੱਟ ਹੋਵੇ ਤਾਂ ਇਜਾਜ਼ਤ ਹੈ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 86,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸਾਈਕਲ ਕ੍ਰਾਸਿੰਗ",
+      "ਸਾਈਕਲ ਕ੍ਰਾਸਿੰਗ ਮਨਾਹੀ",
+      "ਸਾਈਕਲਾਂ ਲਈ ਦਾਖਲਾ ਨਹੀਂ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "cycle_crossing.png"
+  },
+  {
+    "question_number": 87,
+    "question": "ਤੁਸੀਂ ਇੱਕ ਹਸਪਤਾਲ ਦੇ ਨੇੜੇ ਇੱਕ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ। ਤੁਸੀਂ...",
+    "options": [
+      "ਲਗਾਤਾਰ ਹਾਰਨ ਵਜਾਓਗੇ",
+      "ਹਾਰਨ ਨਹੀਂ ਵਜਾਓਗੇ",
+      "ਸਿਰਫ ਕਦੇ-ਕਦੇ ਹਾਰਨ ਵਜਾਓ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 88,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪਸ਼ੂ ਮਨਾਹੀ",
+      "ਸੜਕ 'ਤੇ ਜਾਨਵਰ ਦੀ ਸੰਭਾਵਨਾ",
+      "ਪਸ਼ੂ ਲੈ ਕੇ ਜਾਣ ਵਾਲੇ ਵਾਹਨ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "possibility_animal_on_the_road.png"
+  },
+  {
+    "question_number": 89,
+    "question": "ਕੀ ਵਾਹਨ ਬੀਮਾ ਕਰਵਾਉਣਾ ਲਾਜ਼ਮੀ ਹੈ?",
+    "options": [
+      "ਹਾਂ",
+      "ਨਹੀਂ",
+      "ਲਾਜ਼ਮੀ ਨਹੀਂ ਜੇਕਰ ਤੁਸੀਂ ਜੀਵਨ ਬੀਮਾ ਨਾਲ ਬੀਮਾ ਕਰਵਾਇਆ ਹੋਇਆ ਹੈ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 90,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਸਕੂਲ",
+      "ਪੈਦਲ ਯਾਤਰੀ ਕ੍ਰਾਸਿੰਗ",
+      "ਪੈਦਲ ਯਾਤਰੀ ਕ੍ਰਾਸਿੰਗ ਮਨਾਹੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "school_ahead.png"
+  },
+  {
+    "question_number": 91,
+    "question": "ਹੇਠ ਲਿਖੇ ਮਾਮਲੇ ਵਿੱਚ ਓਵਰਟੇਕਿੰਗ ਮਨਾਹੀ ਹੈ",
+    "options": [
+      "ਸਟੇਟ ਹਾਈਵੇਅ",
+      "ਪੰਚਾਇਤੀ ਸੜਕਾਂ",
+      "ਤੰਗ ਪੁਲ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 92,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਕੰਮ 'ਤੇ ਆਦਮੀ",
+      "ਬੱਚੇ ਖੇਡ ਰਹੇ ਹਨ",
+      "ਪੈਦਲ ਯਾਤਰੀ ਕ੍ਰਾਸਿੰਗ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "men_at_work.png"
+  },
+  {
+    "question_number": 93,
+    "question": "ਜੇਕਰ ਕੋਈ ਵਿਅਕਤੀ ਜਾਨਵਰ ਦਾ ਇੰਚਾਰਜ (ਇਹ ਡਰਦਾ ਹੋਵੇ ਕਿ ਜਾਨਵਰ ਬੇਕਾਬੂ ਹੋ ਸਕਦਾ ਹੈ) ਵਾਹਨ ਨੂੰ ਰੋਕਣ ਦੀ ਬੇਨਤੀ ਕਰਦਾ ਹੈ, ਤਾਂ ਡਰਾਈਵਰ ਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਵਾਹਨ ਰੋਕੋ",
+      "ਹਾਰਨ ਵਜਾਉਂਦੇ ਹੋਏ ਅੱਗੇ ਵਧੋ",
+      "ਗਤੀ ਘਟਾਓ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 94,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖਰਾਬ ਸੜਕ",
+      "ਫਿਸਲਣ ਵਾਲੀ ਸੜਕ",
+      "ਡਿੱਗਣ ਵਾਲੀਆਂ ਚੱਟਾਨਾਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "falling_roacks.png"
+  },
+  {
+    "question_number": 95,
+    "question": "ਹੇਠ ਲਿਖੇ ਮਾਮਲੇ ਵਿੱਚ ਪਾਰਕਿੰਗ ਮਨਾਹੀ ਹੈ",
+    "options": [
+      "ਸੜਕ ਕਿਨਾਰੇ ਜਿੱਥੇ ਪਾਰਕਿੰਗ ਦੀ ਇਜਾਜ਼ਤ ਹੈ",
+      "ਟ੍ਰੈਫਿਕ ਲਾਈਟ ਦੇ ਨੇੜੇ",
+      "ਨਹੀਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 96,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਪੁਲ",
+      "ਫੈਰੀ",
+      "ਅੱਗੇ ਹਲਕਾ ਰਿਫਰੈਸ਼ਮੈਂਟ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "light_refreshment_ahead.png"
+  },
+  {
+    "question_number": 97,
+    "question": "ਓਵਰ ਸਪੀਡਿੰਗ ਇੱਕ ਅਪਰਾਧ ਹੈ ਜਿਸਦੇ ਨਤੀਜੇ ਵਜੋਂ",
+    "options": [
+      "ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਦੀ ਮੁਅੱਤਲੀ ਜਾਂ ਰੱਦ ਕਰਨਾ",
+      "ਸਿਰਫ ਜੁਰਮਾਨੇ ਦੁਆਰਾ ਸਜ਼ਾ",
+      "ਸ਼ਾਇਦ ਦੋਵੇਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 98,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਤੀਖੀ ਚੜ੍ਹਾਈ",
+      "ਤੀਖੀ ਉਤਰਾਈ",
+      "ਫਿਸਲਣ ਵਾਲੀ ਸੜਕ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "steep_ascend.png"
+  },
+  {
+    "question_number": 99,
+    "question": "ਜਦੋਂ ਸਕੂਲ ਬੱਸਾਂ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਚੁੱਕਣ ਜਾਂ ਛੱਡਣ ਲਈ ਰੁਕੀਆਂ ਹੋਣ",
+    "options": [
+      "ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਅੱਗੇ ਵਧੋ",
+      "ਹੌਲੀ ਅਤੇ ਸਾਵਧਾਨੀ ਨਾਲ ਅੱਗੇ ਵਧੋ ਕਿਉਂਕਿ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਅਚਾਨਕ ਸੜਕ ਪਾਰ ਕਰਨ ਦੀ ਸੰਭਾਵਨਾ ਹੈ",
+      "ਕੋਈ ਖਾਸ ਦੇਖਭਾਲ ਦੀ ਲੋੜ ਨਹੀਂ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 100,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਤੀਖੀ ਚੜ੍ਹਾਈ",
+      "ਤੀਖੀ ਉਤਰਾਈ",
+      "ਫਿਸਲਣ ਵਾਲੀ ਸੜਕ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "steep_deascend.png"
+  },
+  {
+    "question_number": 101,
+    "question": "ਜਿੱਥੇ ਇੱਕ ਨੇਤਰਹੀਣ ਵਿਅਕਤੀ ਚਿੱਟੀ ਛੜੀ ਫੜ੍ਹ ਕੇ ਸੜਕ ਪਾਰ ਕਰਦਾ ਹੈ, ਵਾਹਨ ਦਾ ਡਰਾਈਵਰ",
+    "options": [
+      "ਚਿੱਟੀ ਛੜੀ ਨੂੰ ਵਾਹਨ ਰੋਕਣ ਦਾ ਟ੍ਰੈਫਿਕ ਚਿੰਨ੍ਹ ਸਮਝੇਗਾ",
+      "ਹਾਰਨ ਵਜਾਏਗਾ ਅਤੇ ਅੱਗੇ ਵਧੇਗਾ",
+      "ਹੌਲੀ ਹੋਵੇਗਾ ਅਤੇ ਸਾਵਧਾਨੀ ਨਾਲ ਅੱਗੇ ਵਧੇਗਾ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 102,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਤੰਗ ਸੜਕ",
+      "Y-ਚੌਰਾਹੇ 'ਤੇ",
+      "ਸੜਕ ਅੱਗੇ ਚੌੜੀ ਹੁੰਦੀ ਹੈ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "road_widens_ahead.png"
+  },
+  {
+    "question_number": 103,
+    "question": "ਜਦੋਂ ਇੱਕ ਮੋਟਰ ਵਾਹਨ ਕਿਸੇ ਦੁਰਘਟਨਾ ਵਿੱਚ ਸ਼ਾਮਲ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਡਰਾਈਵਰ",
+    "options": [
+      "24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਨਜ਼ਦੀਕੀ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ",
+      "12 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਨਜ਼ਦੀਕੀ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ",
+      "48 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਨਜ਼ਦੀਕੀ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 104,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਵਿਚਕਾਰ ਨਿਕਾਸੀ",
+      "ਅੱਗੇ ਪੁਲ",
+      "ਮੱਧ ਵਿੱਚ ਖਾਲੀ ਥਾਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "gap_in_median.png"
+  },
+  {
+    "question_number": 105,
+    "question": "ਜਦੋਂ ਕਿਸੇ ਦੁਰਘਟਨਾ ਕਾਰਨ ਕਿਸੇ ਤੀਜੀ ਧਿਰ ਦੀ ਜਾਇਦਾਦ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਦਾ ਹੈ ਤਾਂ ਡਰਾਈਵਰ",
+    "options": [
+      "24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਨਜ਼ਦੀਕੀ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ",
+      "7 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਨਜ਼ਦੀਕੀ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ",
+      "ਕਿਸੇ ਵੀ ਪੁਲਿਸ ਸਟੇਸ਼ਨ ਨੂੰ ਸੂਚਿਤ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 106,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਹੰਪ ਜਾਂ ਖ਼ਰਾਬ ਸੜਕ",
+      "ਜ਼ਿਗਜ਼ੈਗ ਸੜਕ",
+      "ਘਾਟ ਸੜਕ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "hump_or_rough_road.png"
+  },
+  {
+    "question_number": 107,
+    "question": "ਜਦੋਂ ਪਿੱਛੇ ਵਾਲੇ ਵਾਹਨ ਨੇ ਸਾਡੇ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤਾ ਹੋਵੇ",
+    "options": [
+      "ਅਸੀਂ ਦੂਜੇ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਨਹੀਂ ਕਰਾਂਗੇ",
+      "ਅਸੀਂ ਦੂਜੇ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕਰ ਸਕਦੇ ਹਾਂ",
+      "ਅਸੀਂ ਹਾਰਨ ਵਜਾ ਕੇ ਦੂਜੇ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕਰ ਸਕਦੇ ਹਾਂ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 108,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਬੈਰੀਅਰ",
+      "ਅੱਗੇ ਰੇਲਵੇ ਕ੍ਰਾਸਿੰਗ",
+      "ਅੱਗੇ ਵਜ਼ਨ ਬ੍ਰਿਜ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "barrier_ahead.png"
+  },
+  {
+    "question_number": 109,
+    "question": "ਅੱਗੇ ਵਾਲੇ ਵਾਹਨ ਦੇ ਡਰਾਈਵਰ ਨੇ ਓਵਰਟੇਕ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣ ਲਈ ਸਿਗਨਲ ਨਹੀਂ ਦਿੱਤਾ ਹੈ",
+    "options": [
+      "ਅਸੀਂ ਓਵਰਟੇਕ ਕਰ ਸਕਦੇ ਹਾਂ",
+      "ਅਸੀਂ ਓਵਰਟੇਕ ਨਹੀਂ ਕਰਾਂਗੇ",
+      "ਅਸੀਂ ਹਾਰਨ ਵਜਾ ਕੇ ਓਵਰਟੇਕ ਕਰ ਸਕਦੇ ਹਾਂ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 110,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਕੋਈ ਪਾਸੇ ਵਾਲੀ ਸੜਕ ਨਹੀਂ",
+      "ਖੱਬੇ ਮੁੜੋ",
+      "ਅੱਗੇ ਪੁਲ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "no_through_side_road.png"
+  },
+  {
+    "question_number": 111,
+    "question": "ਇਸ ਜਗ੍ਹਾ 'ਤੇ ਪਾਰਕਿੰਗ ਮਨ੍ਹਾ ਹੈ",
+    "options": [
+      "ਹਸਪਤਾਲ ਦਾ ਪ੍ਰਵੇਸ਼ ਦੁਆਰ",
+      "ਸੜਕ ਦੇ ਖੱਬੇ ਪਾਸੇ",
+      "ਬਜ਼ਾਰ ਖੇਤਰ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 112,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਫੈਰੀ",
+      "ਅੱਗੇ ਕੋਈ ਸੜਕ ਨਹੀਂ",
+      "ਸੜਕ 'ਤੇ ਪਾਣੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "ferry.png"
+  },
+  {
+    "question_number": 113,
+    "question": "ਇਸ ਜਗ੍ਹਾ 'ਤੇ ਪਾਰਕਿੰਗ ਮਨ੍ਹਾ ਹੈ",
+    "options": [
+      "ਫਾਇਰ ਹਾਈਡ੍ਰੈਂਟ ਨੂੰ ਰੋਕਣਾ",
+      "ਇੱਕ ਜਨਤਕ ਖੂਹ ਦੇ ਨੇੜੇ",
+      "ਸੜਕ ਦੇ ਖੱਬੇ ਪਾਸੇ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 114,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪਾਰਕਿੰਗ ਮਨ੍ਹਾ ਹੈ",
+      "ਦੋਵੇਂ ਪਾਸੇ ਪਾਰਕਿੰਗ",
+      "ਪੁਲਿਸ ਸਹਾਇਤਾ ਚੌਕੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "parking_both_sides.png"
+  },
+  {
+    "question_number": 115,
+    "question": "ਇੱਕ ਮੋਟਰ ਸਾਈਕਲ 'ਤੇ ਪਿਲੀਅਨ ਰਾਈਡਰ ਲਿਜਾਣ ਲਈ ਵਾਹਨ ਵਿੱਚ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਫੁੱਟ ਰੈਸਟ, ਹੈਂਡ ਗ੍ਰਿਪ ਅਤੇ ਸਾੜੀ ਗਾਰਡ",
+      "ਸਾਈਡ ਕਾਰ",
+      "ਰੀਅਰ ਵਿਊ ਮਿਰਰ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 116,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪਾਰਕਿੰਗ ਲਾਟ – ਸਕੂਟਰ ਅਤੇ ਮੋਟਰ ਸਾਈਕਲ",
+      "ਸਕੂਟਰ ਅਤੇ ਮੋਟਰ ਸਾਈਕਲ ਮਨ੍ਹਾ",
+      "ਸਕੂਟਰ ਅਤੇ ਮੋਟਰ ਸਾਈਕਲ ਮੁਰੰਮਤ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "Paparking_lot_scooters_motor_cycle.png"
+  },
+  {
+    "question_number": 117,
+    "question": "ਰਾਤ ਨੂੰ ਸ਼ਹਿਰ ਦੀਆਂ ਸੜਕਾਂ 'ਤੇ ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ, ਆਪਣੀ ਹੈੱਡ-ਲਾਈਟ ਨੂੰ ਚਾਲੂ ਰੱਖੋ",
+    "options": [
+      "ਲੋਅ ਬੀਮ",
+      "ਹਾਈ ਬੀਮ",
+      "ਸਾਰੀਆਂ ਲਾਈਟਾਂ ਬੰਦ ਕਰੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 118,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪਾਰਕਿੰਗ ਲਾਟ – ਆਟੋ ਰਿਕਸ਼ਾ",
+      "ਆਟੋ ਰਿਕਸ਼ਾ ਮਨ੍ਹਾ",
+      "ਆਟੋ ਰਿਕਸ਼ਾ ਮੁਰੰਮਤ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "parking_lot_auto_rickashwa.png"
+  },
+  {
+    "question_number": 119,
+    "question": "ਇੱਕ ਜਨਤਕ ਥਾਂ 'ਤੇ ਵਾਹਨ ਛੱਡਣਾ ਜਿਸ ਨਾਲ ਦੂਜਿਆਂ ਜਾਂ ਯਾਤਰੀਆਂ ਨੂੰ ਅਸੁਵਿਧਾ ਹੁੰਦੀ ਹੈ",
+    "options": [
+      "ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਮੁਅੱਤਲ/ਰੱਦ ਹੋਣ ਦੀ ਸੰਭਾਵਨਾ ਹੈ",
+      "ਸਿਰਫ਼ ਜੁਰਮਾਨਾ ਲੱਗਦਾ ਹੈ",
+      "ਦੋਵੇਂ ਹੋ ਸਕਦੇ ਹਨ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 120,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪ੍ਰਾਈਵੇਟ ਕਾਰਾਂ ਲਈ ਕੋਈ ਪ੍ਰਵੇਸ਼ ਨਹੀਂ",
+      "ਪਾਰਕਿੰਗ ਲਾਟ – ਟੈਕਸੀਆਂ",
+      "ਪੁਲਿਸ ਵਾਹਨਾਂ ਲਈ ਪਾਰਕਿੰਗ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "parking_lot_taxis.png"
+  },
+  {
+    "question_number": 121,
+    "question": "ਮੋੜ ਤੋਂ ਪਹਿਲਾਂ, ਡਰਾਈਵਰ ਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਵਾਹਨ ਦੀ ਗਤੀ ਘਟਾਓ",
+      "ਵਾਹਨ ਦੀ ਗਤੀ ਨਾ ਘਟਾਓ",
+      "ਤੇਜ਼ ਚਲਾਓ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 122,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪੈਟਰੋਲ ਪੰਪ",
+      "ਗੈਰਾਜ",
+      "ਹਵਾ ਭਰਨ ਦੀ ਸਹੂਲਤ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "petrol_pump.png"
+  },
+  {
+    "question_number": 123,
+    "question": "ਸੜਕ ਜਿਸ 'ਤੇ ਰਿਵਰਸ ਗੀਅਰ ਵਿੱਚ ਗੱਡੀ ਚਲਾਉਣਾ ਮਨ੍ਹਾ ਹੈ",
+    "options": [
+      "ਇੱਕ-ਪਾਸੜ ਸੜਕ",
+      "ਬਜ਼ਾਰ ਖੇਤਰ",
+      "ਸਟੇਟ ਹਾਈਵੇਅ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 124,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਲੇਨ ਬਦਲਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ",
+      "ਸਾਵਧਾਨੀ ਨਾਲ ਲੇਨ ਬਦਲੋ",
+      "ਲੇਨ ਬਦਲਣ ਦੀ ਮਨਾਹੀ ਹੈ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "change_the_line_with_caution.png"
+  },
+  {
+    "question_number": 125,
+    "question": "ਇੱਕ ਆਟੋ ਰਿਕਸ਼ਾ ਦੇ ਡਰਾਈਵਰ ਦੁਆਰਾ ਯਾਤਰਾ ਦੀ ਪੇਸ਼ਕਸ਼ ਨੂੰ ਛੋਟੀ ਦੂਰੀ ਦੇ ਕਾਰਨ ਇਨਕਾਰ ਕਰਨ 'ਤੇ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਦੀ ਮੁਅੱਤਲੀ/ਰੱਦ ਹੋਣ ਦੀ ਸੰਭਾਵਨਾ ਹੈ",
+    "options": [
+      "ਸਿਰਫ਼ ਜੁਰਮਾਨਾ ਲੱਗਦਾ ਹੈ",
+      "ਦੋਵੇਂ ਹੋ ਸਕਦੇ ਹਨ",
+      "ਨਹੀਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 126,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪਿੱਛੇ ਆ ਰਹੇ ਵਾਹਨ ਨੂੰ ਰੋਕਣ ਦੀ ਬੇਨਤੀ",
+      "ਸੱਜੇ ਮੁੜਨ ਦਾ ਇਰਾਦਾ ਹੈ",
+      "ਉਲਟ ਦਿਸ਼ਾ ਤੋਂ ਆ ਰਹੇ ਵਾਹਨ ਨੂੰ ਰੋਕਣ ਦੀ ਬੇਨਤੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "intends_turn_right.png"
+  },
+  {
+    "question_number": 127,
+    "question": "ਜਦੋਂ ਤੁਸੀਂ ਇੱਕ ਚੌਰਾਹੇ 'ਤੇ ਪਹੁੰਚਦੇ ਹੋ ਜਿੱਥੇ ਕੋਈ ਸਿਗਨਲ ਲਾਈਟ ਜਾਂ ਪੁਲਿਸ ਵਾਲਾ ਨਹੀਂ ਹੈ, ਤਾਂ ਤੁਸੀਂ",
+    "options": [
+      "ਦੂਜੀਆਂ ਸੜਕਾਂ ਤੋਂ ਚੌਰਾਹੇ ਵੱਲ ਆ ਰਹੇ ਸਾਰੇ ਟ੍ਰੈਫਿਕ ਨੂੰ ਰਸਤਾ ਦਿਓਗੇ",
+      "ਸਹੀ ਸਿਗਨਲ ਦਿਓਗੇ, ਹਾਰਨ ਵਜਾਓਗੇ ਅਤੇ ਅੱਗੇ ਵਧੋਗੇ",
+      "ਆਪਣੇ ਸੱਜੇ ਪਾਸੇ ਤੋਂ ਚੌਰਾਹੇ ਵੱਲ ਆ ਰਹੇ ਟ੍ਰੈਫਿਕ ਨੂੰ ਰਸਤਾ ਦਿਓਗੇ ਅਤੇ ਅੱਗੇ ਵਧੋਗੇ।"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 128,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਮੁੜਨ ਦਾ ਇਰਾਦਾ ਹੈ",
+      "ਸੱਜੇ ਮੁੜਨ ਦਾ ਇਰਾਦਾ ਹੈ",
+      "ਹੋਰ ਸਾਰੇ ਵਾਹਨਾਂ ਨੂੰ ਰੋਕਣ ਦੀ ਬੇਨਤੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "intends_turn_left.png"
+  },
+  {
+    "question_number": 129,
+    "question": "ਜਦੋਂ ਤੁਸੀਂ ਇੱਕ ਚੌਰਾਹੇ ਦੇ ਨੇੜੇ ਪਹੁੰਚ ਰਹੇ ਹੋ ਜਿੱਥੇ ਪੀਲੀ ਸਿਗਨਲ ਲਾਈਟ ਝਪਕ ਰਹੀ ਹੈ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਕਿਉਂਕਿ ਕੋਈ ਪਾਬੰਦੀ ਨਹੀਂ ਹੈ, ਉਸੇ ਗਤੀ 'ਤੇ ਅੱਗੇ ਵਧੋ",
+      "ਵਾਹਨ ਰੋਕੋ ਅਤੇ ਹਰੀ ਲਾਈਟ ਦੇ ਪ੍ਰਗਟ ਹੋਣ ਦੀ ਉਡੀਕ ਕਰੋ",
+      "ਵਾਹਨ ਦੀ ਗਤੀ ਘਟਾਓ ਅਤੇ ਸੁਰੱਖਿਅਤ ਹੋਣ ਦਾ ਯਕੀਨ ਦਿਵਾਉਣ ਤੋਂ ਬਾਅਦ ਹੀ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 130,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੱਜੇ ਮੁੜਨ ਦਾ ਇਰਾਦਾ ਹੈ",
+      "ਉਲਟ ਦਿਸ਼ਾ ਤੋਂ ਆ ਰਹੇ ਵਾਹਨ ਨੂੰ ਰੋਕਣ ਦੀ ਬੇਨਤੀ",
+      "ਵਾਹਨ ਦੀ ਗਤੀ ਘਟਾਉਣ ਦਾ ਇਰਾਦਾ ਹੈ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "intends_slow_down_the_vehicle.png"
+  },
+  {
+    "question_number": 131,
+    "question": "ਜਦੋਂ ਤੁਸੀਂ ਢਲਾਣ ਵਾਲੀਆਂ ਸੜਕਾਂ 'ਤੇ ਗੱਡੀ ਚਲਾ ਰਹੇ ਹੋ ਤਾਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਹੇਠਾਂ ਆ ਰਹੇ ਵਾਹਨਾਂ ਨੂੰ ਤਰਜੀਹ ਦਿਓ",
+      "ਉੱਪਰ ਜਾ ਰਹੇ ਵਾਹਨਾਂ ਨੂੰ ਤਰਜੀਹ ਦਿਓ",
+      "ਭਾਰੀ ਬੋਝ ਲੈ ਕੇ ਜਾ ਰਹੇ ਵਾਹਨਾਂ ਨੂੰ ਤਰਜੀਹ ਦਿਓ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 132,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸਿੱਧਾ ਜਾਣ ਦਾ ਇਰਾਦਾ ਹੈ",
+      "ਵਾਹਨ ਰੋਕਣ ਦਾ ਇਰਾਦਾ ਹੈ",
+      "ਸੱਜੇ ਮੁੜਨ ਦਾ ਇਰਾਦਾ ਹੈ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "intends_stop_the_vehicle.png"
+  },
+  {
+    "question_number": 133,
+    "question": "ਜਦੋਂ ਇੱਕ ਵਾਹਨ ਇੱਕ ਸ਼ਾਖਾ ਸੜਕ ਤੋਂ ਮੁੱਖ ਸੜਕ ਵਿੱਚ ਦਾਖਲ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਡਰਾਈਵਰ ਨੂੰ ਤਰਜੀਹ ਦੇਣੀ ਚਾਹੀਦੀ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਪਾਸੇ ਤੋਂ ਆ ਰਹੇ ਵਾਹਨਾਂ ਨੂੰ",
+      "ਸੱਜੇ ਪਾਸੇ ਤੋਂ ਆ ਰਹੇ ਵਾਹਨਾਂ ਨੂੰ",
+      "ਮੁੱਖ ਸੜਕ 'ਤੇ ਚੱਲ ਰਹੇ ਸਾਰੇ ਵਾਹਨਾਂ ਨੂੰ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 134,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਪਿੱਛੇ ਤੋਂ ਆ ਰਹੇ ਵਾਹਨ ਨੂੰ ਰੋਕਣ ਦੀ ਬੇਨਤੀ",
+      "ਪਿੱਛੇ ਤੋਂ ਵਾਹਨ ਨੂੰ ਲੰਘਣ ਦੀ ਇਜਾਜ਼ਤ",
+      "ਅੱਗੇ ਤੋਂ ਵਾਹਨ ਨੂੰ ਰੋਕਣ ਦੀ ਬੇਨਤੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "allow__pass_the_vehicle_from_behind.png"
+  },
+  {
+    "question_number": 135,
+    "question": "ਤੁਸੀਂ ਖੱਬੇ ਪਾਸੇ ਤੋਂ ਇੱਕ ਵਾਹਨ ਨੂੰ ਓਵਰਟੇਕ ਕਰ ਸਕਦੇ ਹੋ, ਜੇਕਰ",
+    "options": [
+      "ਉਸ ਵਾਹਨ ਦਾ ਡਰਾਈਵਰ ਸੱਜੇ ਮੁੜਨ ਦਾ ਇਰਾਦਾ ਦਰਸਾਉਂਦਾ ਹੈ ਅਤੇ ਸੜਕ ਦੇ ਕੇਂਦਰ ਵੱਲ ਵਧਦਾ ਹੈ",
+      "ਖੱਬੇ ਪਾਸੇ ਕਾਫ਼ੀ ਜਗ੍ਹਾ ਹੈ",
+      "ਵਾਹਨ ਹੌਲੀ ਚੱਲਦਾ ਹੈ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 136,
+    "question": "ਜੇਕਰ ਸੜਕ ਟੁੱਟੀਆਂ ਚਿੱਟੀਆਂ ਲਾਈਨਾਂ ਨਾਲ ਚਿੰਨ੍ਹਿਤ ਹੈ, ਤਾਂ ਤੁਸੀਂ...",
+    "options": [
+      "ਟਰੈਕ ਨਹੀਂ ਬਦਲੋਗੇ",
+      "ਲੋੜ ਪੈਣ 'ਤੇ ਟਰੈਕ ਬਦਲ ਸਕਦੇ ਹੋ",
+      "ਵਾਹਨ ਰੋਕੋਗੇ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": "can_change_track_if_required.png"
+  },
+  {
+    "question_number": 137,
+    "question": "ਤੁਹਾਡੇ ਕੋਲ ਮੋਟਰ ਸਾਈਕਲ ਲਈ ਸਿੱਖਿਆਰਥੀ ਲਾਇਸੈਂਸ ਹੈ...",
+    "options": [
+      "ਤੁਸੀਂ ਉਦੋਂ ਗੱਡੀ ਚਲਾਓਗੇ ਜਦੋਂ ਟ੍ਰੈਫਿਕ ਘੱਟ ਹੋਵੇ",
+      "ਤੁਸੀਂ ਵਾਹਨ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਚਲਾਓਗੇ ਜਦੋਂ ਕੋਈ ਇੰਸਟ੍ਰਕਟਰ ਮੋਟਰ ਸਾਈਕਲ ਚਲਾਉਣ ਲਈ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਰੱਖਦਾ ਹੋਵੇ",
+      "ਤੁਸੀਂ ਮੋਟਰ ਸਾਈਕਲ 'ਤੇ ਕਿਸੇ ਹੋਰ ਵਿਅਕਤੀ ਨੂੰ ਲੈ ਕੇ ਜਾਓਗੇ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 138,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਰੋਕੋ",
+      "ਨੋ ਪਾਰਕਿੰਗ",
+      "ਅੱਗੇ ਹਸਪਤਾਲ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "no_parking.png"
+  },
+  {
+    "question_number": 139,
+    "question": "ਵਾਹਨ ਵਿੱਚ ਲਿਜਾਣ ਦੀ ਇਜਾਜ਼ਤ ਵਾਲੇ ਯਾਤਰੀਆਂ ਦੀ ਗਿਣਤੀ ਇਸ ਵਿੱਚ ਦਰਜ ਹੈ",
+    "options": [
+      "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਸਰਟੀਫਿਕੇਟ",
+      "ਟੈਕਸ ਟੋਕਨ",
+      "ਫਿਟਨੈਸ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 140,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਰਹੋ",
+      "ਖੱਬੇ ਕੋਈ ਸੜਕ ਨਹੀਂ ਹੈ",
+      "ਖੱਬੇ ਮੁੜਨਾ ਜ਼ਰੂਰੀ ਹੈ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "compulsory_turn_left.png"
+  },
+  {
+    "question_number": 141,
+    "question": "ਹਾਰਨ ਦੀ ਕਿਸਮ ਦੀ ਇਜਾਜ਼ਤ ਹੈ",
+    "options": [
+      "ਏਅਰ-ਹਾਰਨ",
+      "ਮਲਟੀ-ਟੋਨਡ ਹਾਰਨ",
+      "ਇਲੈਕਟ੍ਰਿਕ ਹਾਰਨ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 142,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਰਸਤਾ ਦਿਓ",
+      "ਹਸਪਤਾਲ",
+      "ਅੱਗੇ ਟ੍ਰੈਫਿਕ ਟਾਪੂ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "hospital.png"
+  },
+  {
+    "question_number": 143,
+    "question": "ਝਪਕਦੀ ਪੀਲੀ ਟ੍ਰੈਫਿਕ ਲਾਈਟ ਦਾ ਮਤਲਬ ਹੈ।",
+    "options": [
+      "ਹਰੀ ਲਾਈਟ ਚਾਲੂ ਹੋਣ ਤੱਕ ਵਾਹਨ ਰੋਕੋ",
+      "ਵਾਹਨ ਰੋਕੋ ਅਤੇ ਸੁਰੱਖਿਅਤ ਹੋਣ 'ਤੇ ਅੱਗੇ ਵਧੋ",
+      "ਗਤੀ ਘਟਾਓ ਅਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਅੱਗੇ ਵਧੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 144,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਯੂ-ਟਰਨ ਮਨ੍ਹਾ",
+      "ਸੱਜੇ ਮੁੜਨਾ ਮਨ੍ਹਾ",
+      "ਖੱਬੇ ਤੋਂ ਓਵਰਟੇਕ ਕਰਨਾ ਮਨ੍ਹਾ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "right_turn_prohibited.png"
+  },
+  {
+    "question_number": 145,
+    "question": "ਮੋਟਰ ਸਾਈਕਲ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਇਜਾਜ਼ਤ ਵਾਲੀ ਗਤੀ",
+    "options": [
+      "ਕੋਈ ਸੀਮਾ ਨਹੀਂ",
+      "50 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ",
+      "60 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 146,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਸੱਜੇ ਸੜਕ",
+      "ਸੱਜੇ ਮੁੜਨਾ ਜ਼ਰੂਰੀ ਹੈ",
+      "ਸੱਜੇ ਮੁੜਨਾ ਮਨ੍ਹਾ ਹੈ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "compulsory_turn_right.png"
+  },
+  {
+    "question_number": 147,
+    "question": "ਇਕਲੌਤਾ ਵਾਹਨ ਜਿਸਨੂੰ 65 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ ਤੋਂ ਵੱਧ ਦੀ ਗਤੀ 'ਤੇ ਚਲਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ",
+    "options": [
+      "ਮੋਟਰ ਸਾਈਕਲ",
+      "ਮੋਟਰ ਕਾਰ",
+      "ਸਟੇਜ ਕੈਰੇਜ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 148,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸਿੱਧਾ ਜਾਓ",
+      "ਇੱਕ-ਪਾਸੜ",
+      "ਦੋਵੇਂ ਦਿਸ਼ਾਵਾਂ ਵਿੱਚ ਮਨ੍ਹਾ"
+    ],
+    "correct_answer": 3,
+    "is_sign": true,
+    "sign": "prohibited_both_direction.png"
+  },
+  {
+    "question_number": 149,
+    "question": "ਮੋਟਰ ਕਾਰਾਂ ਲਈ ਵੱਧ ਤੋਂ ਵੱਧ ਇਜਾਜ਼ਤ ਵਾਲੀ ਗਤੀ",
+    "options": [
+      "ਕੋਈ ਸੀਮਾ ਨਹੀਂ",
+      "70 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ",
+      "50 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 150,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸਾਈਡ ਸੜਕ ਖੱਬੇ",
+      "ਖੱਬੇ ਮੁੜੋ",
+      "ਖੱਬੇ ਮੁੜਨਾ ਮਨ੍ਹਾ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "side_road_left.png"
+  },
+  {
+    "question_number": 151,
+    "question": "ਮੋਟਰ ਸਾਈਕਲ 50 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ ਦੀ ਗਤੀ 'ਤੇ ਚਲਾਇਆ ਜਾ ਸਕਦਾ ਹੈ",
+    "options": [
+      "ਰਾਤ ਦੇ ਦੌਰਾਨ",
+      "ਦਿਨ ਦੇ ਸਮੇਂ",
+      "ਕਿਸੇ ਵੀ ਸਮੇਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 152,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸਟੈਗਰਡ ਚੌਰਾਹੇ",
+      "ਜ਼ਿਗਜ਼ੈਗ ਸੜਕ",
+      "ਸੱਜੇ ਅਤੇ ਖੱਬੇ ਮੁੜਨਾ ਮਨ੍ਹਾ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "staggered_intersections.png"
+  },
+  {
+    "question_number": 153,
+    "question": "ਕਾਨੂੰਨ ਅਨੁਸਾਰ, ਮੋਟਰ ਸਾਈਕਲ ਚਲਾਉਣ ਵਾਲੇ ਵਿਅਕਤੀ ਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਜੈਕਟਾਂ ਪਹਿਨੋ",
+      "ਹੈਲਮੇਟ ਪਹਿਨੋ",
+      "ਜੁੱਤੇ ਪਹਿਨੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 154,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਕਰਾਸ ਸੜਕ",
+      "ਅੱਗੇ ਮੁੱਖ ਸੜਕ",
+      "ਮੁੱਢਲੀ ਸਹਾਇਤਾ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "major_road_ahead.png"
+  },
+  {
+    "question_number": 155,
+    "question": "ਕਾਨੂੰਨ ਅਨੁਸਾਰ, ਮੋਟਰ ਕਾਰ ਚਲਾਉਣ ਵਾਲੇ ਵਿਅਕਤੀ ਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਸਨਗਲਾਸ ਪਹਿਨੋ",
+      "ਸੀਟ ਬੈਲਟ ਪਹਿਨੋ",
+      "ਕੈਪ ਪਹਿਨੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 156,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਗਾਰਡਡ ਰੇਲਵੇ ਕ੍ਰਾਸਿੰਗ",
+      "ਅਨਗਾਰਡਡ ਰੇਲਵੇ ਕ੍ਰਾਸਿੰਗ",
+      "200 ਮੀਟਰ ਅੱਗੇ ਅਨਗਾਰਡਡ ਰੇਲਵੇ ਕ੍ਰਾਸਿੰਗ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "guarded_railway_crossing.png"
+  },
+  {
+    "question_number": 157,
+    "question": "LMV ਲਈ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਲੋੜੀਂਦੀ ਘੱਟੋ-ਘੱਟ ਉਮਰ",
+    "options": [
+      "16 ਸਾਲ",
+      "18 ਸਾਲ",
+      "20 ਸਾਲ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 158,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਹਸਪਤਾਲ",
+      "ਆਰਾਮ ਕਰਨ ਦੀ ਥਾਂ",
+      "ਮੁੱਢਲੀ ਸਹਾਇਤਾ"
+    ],
+    "correct_answer": 2,
+    "is_sign": true,
+    "sign": "resting_place.png"
+  },
+  {
+    "question_number": 159,
+    "question": "ਵਪਾਰਕ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਲੋੜੀਂਦੀ ਘੱਟੋ-ਘੱਟ ਉਮਰ",
+    "options": [
+      "18 ਸਾਲ",
+      "21 ਸਾਲ",
+      "20 ਸਾਲ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 160,
+    "question": "ਵਾਹਨ ਪਾਰਕ ਕਰਦੇ ਸਮੇਂ",
+    "options": [
+      "ਵਾਹਨ ਗੀਅਰ ਵਿੱਚ ਲੱਗਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "ਪਾਰਕਿੰਗ ਬ੍ਰੇਕ ਲਗਾਈ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ",
+      "ਸਿਰਫ਼ ਹੈਜ਼ਰਡ (ਪਾਰਕਿੰਗ) ਲਾਈਟ ਲਗਾਈ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 161,
+    "question": "ਵਾਹਨ ਬੀਮੇ ਦੀ ਵੈਧਤਾ",
+    "options": [
+      "6 ਮਹੀਨੇ",
+      "1 ਸਾਲ",
+      "2 ਸਾਲ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 162,
+    "question": "ਨਿੱਜੀ ਵਾਹਨ ਲਈ ਨੰਬਰ ਪਲੇਟ ਦੀ ਰੰਗ ਸਕੀਮ ਹੈ",
+    "options": [
+      "ਪੀਲੇ ਅੱਖਰਾਂ ਨਾਲ ਕਾਲਾ ਪਿਛੋਕੜ",
+      "ਕਾਲੇ ਅੱਖਰਾਂ ਨਾਲ ਪੀਲਾ ਪਿਛੋਕੜ",
+      "ਕਾਲੇ ਅੱਖਰਾਂ ਨਾਲ ਚਿੱਟਾ ਪਿਛੋਕੜ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 163,
+    "question": "ਜੰਕਸ਼ਨ 'ਤੇ ਹਰੀ ਲਾਈਟ ਤੋਂ ਬਾਅਦ ਕਿਹੜੀ ਟ੍ਰੈਫਿਕ ਲਾਈਟ ਜਗਣੀ ਚਾਹੀਦੀ ਹੈ",
+    "options": [
+      "ਲਾਲ",
+      "ਨੀਲਾ",
+      "ਪੀਲਾ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 164,
+    "question": "ਜਿੱਥੇ ਤੁਹਾਡੀ ਕਾਰ ਨੂੰ ਰਿਵਰਸ ਕਰਨਾ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਕਾਰ ਨੂੰ ਰਿਵਰਸ ਕਰਨ ਲਈ ਢੁਕਵੀਂ ਥਾਂ ਲੱਭਣ ਲਈ ਅੱਗੇ ਵਧੋ",
+      "ਸਾਰੇ ਰੀਅਰ ਵਿਊ ਸ਼ੀਸ਼ਿਆਂ ਦੀ ਸਹੀ ਵਰਤੋਂ ਕਰੋ",
+      "ਰਿਵਰਸ ਹਾਰਨ ਚਾਲੂ ਕਰੋ ਅਤੇ ਰਿਵਰਸ ਕਰੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 165,
+    "question": "ਡਰਾਈਵਰ ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ ਥਕਾਵਟ ਨੂੰ ਕਿਵੇਂ ਰੋਕ ਸਕਦਾ ਹੈ?",
+    "options": [
+      "ਸ਼ਰਾਬ ਪੀ ਕੇ",
+      "ਹਰ ਦੋ ਘੰਟਿਆਂ ਬਾਅਦ ਯਾਤਰਾ ਦੌਰਾਨ ਆਰਾਮ ਕਰਕੇ।",
+      "ਸੰਗੀਤ ਸੁਣ ਕੇ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 166,
+    "question": "ਮੀਂਹ ਦੌਰਾਨ ਬ੍ਰੇਕ ਲਗਾਉਂਦੇ ਸਮੇਂ ਵਾਹਨ ਦੀ ਰੁਕਣ ਦੀ ਦੂਰੀ ਕਿਵੇਂ ਪ੍ਰਭਾਵਿਤ ਹੁੰਦੀ ਹੈ?",
+    "options": [
+      "ਰੁਕਣ ਦੀ ਦੂਰੀ ਵਧ ਜਾਂਦੀ ਹੈ",
+      "ਰੁਕਣ ਦੀ ਦੂਰੀ ਘੱਟ ਜਾਂਦੀ ਹੈ",
+      "ਪ੍ਰਭਾਵਿਤ ਨਹੀਂ ਕਰਦਾ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 167,
+    "question": "ਦੁਰਘਟਨਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ, ਡਾਕਟਰੀ ਸਹਾਇਤਾ ਲੈਣ ਲਈ, ਤੁਹਾਨੂੰ ਡਾਇਲ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।",
+    "options": [
+      "108 ਜਾਂ 102",
+      "101",
+      "ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੋਈ ਵੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 168,
+    "question": "ਦੁਰਘਟਨਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਜਿੱਥੇ ਡਰਾਈਵਰ ਕੋਲ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਨਹੀਂ ਸੀ",
+    "options": [
+      "ਬੀਮਾ ਕੰਪਨੀ ਪੂਰਾ ਮੁਆਵਜ਼ਾ ਦੇਵੇਗੀ",
+      "ਬੀਮਾ ਕੰਪਨੀ ਮੁਆਵਜ਼ਾ ਨਹੀਂ ਦੇਵੇਗੀ",
+      "ਬੀਮਾ ਕੰਪਨੀ ਅੰਸ਼ਕ ਮੁਆਵਜ਼ਾ ਦੇਵੇਗੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 169,
+    "question": "ਨਾਬਾਲਗ ਕਾਰ ਚਲਾ ਰਿਹਾ ਹੈ ਅਤੇ ਦੁਰਘਟਨਾ ਹੋ ਜਾਂਦੀ ਹੈ",
+    "options": [
+      "ਕਿਉਂਕਿ ਉਹ ਨਾਬਾਲਗ ਹੈ; ਉਸਨੂੰ ਸਜ਼ਾ ਨਹੀਂ ਦਿੱਤੀ ਜਾ ਸਕਦੀ",
+      "ਨਾਬਾਲਗ ਦੇ ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਵੀ ਜ਼ਿੰਮੇਵਾਰ ਠਹਿਰਾਏ ਜਾ ਸਕਦੇ ਹਨ",
+      "ਕਾਨੂੰਨ ਅਨੁਸਾਰ ਅਪਰਾਧ ਦਰਜ ਕੀਤਾ ਜਾਵੇਗਾ ਅਤੇ ਜੁਰਮਾਨੇ ਲਗਾਏ ਜਾਣਗੇ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 170,
+    "question": "ਇੱਕ ਵਪਾਰਕ ਵਾਹਨ ਦੀ ਨੰਬਰ ਪਲੇਟ ਲਈ ਰੰਗ ਸਕੀਮ ਕੀ ਹੈ?",
+    "options": [
+      "ਪੀਲਾ ਬੇਸ ਅਤੇ ਕਾਲੇ ਅੱਖਰ",
+      "ਕਾਲਾ ਬੇਸ ਅਤੇ ਪੀਲੇ ਅੱਖਰ",
+      "ਚਿੱਟਾ ਬੇਸ ਅਤੇ ਕਾਲੇ ਅੱਖਰ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 171,
+    "question": "ਲਾਲ ਅਤੇ ਚਿੱਟੇ ਰੰਗ ਦੀ ਰਿਬਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਖੇਤਰ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਸੜਕ ਦੀ ਮੁਰੰਮਤ ਦਾ ਕੰਮ ਚੱਲ ਰਿਹਾ ਹੈ",
+      "ਦੁਰਘਟਨਾ ਵਾਲਾ ਖੇਤਰ",
+      "ਅੱਗੇ ਚੈੱਕ ਪੋਸਟ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 172,
+    "question": "ਦੁਰਘਟਨਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਯਾਤਰੀਆਂ ਨੂੰ ਬਚਾਉਣ ਲਈ ਕਾਰ ਵਿੱਚ ਲਾਜ਼ਮੀ ਸੁਰੱਖਿਆ ਉਪਕਰਣ ਹੈ",
+    "options": [
+      "ਸੀਟ ਬੈਲਟ",
+      "ਬ੍ਰੇਕ ਪੈਡਲ",
+      "ਏਅਰ ਬੈਗ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 173,
+    "question": "ਆਰ.ਟੀ.ਓ. ਦੁਆਰਾ ਜਾਰੀ ਕੀਤਾ ਗਿਆ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਵੈਧ ਹੈ",
+    "options": [
+      "ਪੂਰੇ ਦੇਸ਼ ਵਿੱਚ",
+      "ਸਿਰਫ਼ ਉਸ ਖਾਸ ਰਾਜ ਵਿੱਚ",
+      "ਸਿਰਫ਼ ਉਸ ਖਾਸ ਜ਼ਿਲ੍ਹੇ ਵਿੱਚ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 174,
+    "question": "ਰਾਤ ਨੂੰ ਆਪਣਾ ਵਾਹਨ ਪਾਰਕ ਕਰਦੇ ਸਮੇਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਪਾਰਕਿੰਗ ਬ੍ਰੇਕ ਲਗਾਓ",
+      "ਪਾਰਕਿੰਗ ਲਾਈਟਾਂ ਚਾਲੂ ਕਰੋ",
+      "ਦੋਵੇਂ ਲਗਾਓ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 175,
+    "question": "ਢਲਾਣ ਤੋਂ ਹੇਠਾਂ ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਕਲੱਚ ਦਬਾ ਕੇ ਵਾਹਨ ਨੂੰ ਰੋਲ ਕਰੋ",
+      "ਈਂਧਨ ਬਚਾਉਣ ਲਈ ਇੰਜਣ ਬੰਦ ਕਰੋ ਅਤੇ ਵਾਹਨ ਨੂੰ ਰੋਲ ਕਰੋ",
+      "ਦੋਵਾਂ ਤੋਂ ਬਚੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 176,
+    "question": "ਦੋ ਪਹੀਆ ਵਾਹਨ ਚਲਾਉਂਦੇ ਸਮੇਂ ਔਰਤ ਦੁਆਰਾ ਹੈਲਮੇਟ ਪਹਿਨਣਾ ਹੈ",
+    "options": [
+      "ਕਾਨੂੰਨ ਦੁਆਰਾ ਲਾਜ਼ਮੀ",
+      "ਕਾਨੂੰਨ ਦੁਆਰਾ ਲਾਜ਼ਮੀ ਨਹੀਂ",
+      "ਇਹ ਉਹਨਾਂ ਦੀ ਮਰਜ਼ੀ 'ਤੇ ਹੈ ਕਿ ਉਹ ਪਹਿਨਣ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 177,
+    "question": "ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ ਮੋਬਾਈਲ ਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਰਨਾ..",
+    "options": [
+      "ਦੁਰਘਟਨਾ ਦੀਆਂ ਸੰਭਾਵਨਾਵਾਂ ਨੂੰ ਵਧਾਉਂਦਾ ਹੈ",
+      "ਕਿਸੇ ਕੰਮ ਲਈ ਸਮਾਂ ਅਤੇ ਮਿਹਨਤ ਬਚਾਉਂਦਾ ਹੈ",
+      "ਐਮਰਜੈਂਸੀ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਇਜਾਜ਼ਤ ਹੈ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 178,
+    "question": "ਸੜਕ 'ਤੇ ਵਰਤੀ ਜਾਂਦੀ ਸਟਾਪ-ਲਾਈਨ ਦਾ ਰੰਗ ਹੈ",
+    "options": [
+      "ਪੀਲਾ",
+      "ਚਿੱਟਾ",
+      "ਪੀਲਾ ਅਤੇ ਕਾਲਾ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 179,
+    "question": "ਰੁਕਣ ਲਈ ਖੱਬੀ ਲੇਨ 'ਤੇ ਜਾਂਦੇ ਸਮੇਂ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਖੱਬੇ ਪਾਸੇ ਦਾ ਇੰਡੀਕੇਟਰ ਜਗਾਓ",
+      "ਸੱਜੇ ਪਾਸੇ ਦਾ ਇੰਡੀਕੇਟਰ ਜਗਾਓ",
+      "ਪਾਰਕਿੰਗ ਲਾਈਟ ਜਗਾਓ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 180,
+    "question": "ਤੁਸੀਂ ਸਥਾਈ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਲਈ ਇਸ ਤੋਂ ਬਾਅਦ ਅਰਜ਼ੀ ਦੇ ਸਕਦੇ ਹੋ।",
+    "options": [
+      "ਸਿੱਖਿਆਰਥੀ ਲਾਇਸੈਂਸ ਜਾਰੀ ਹੋਣ ਦੀ ਮਿਤੀ ਤੋਂ 30 ਦਿਨ ਬਾਅਦ",
+      "ਸਿੱਖਿਆਰਥੀ ਲਾਇਸੈਂਸ ਜਾਰੀ ਹੋਣ ਦੀ ਮਿਤੀ ਤੋਂ 60 ਦਿਨ ਬਾਅਦ",
+      "ਸਿੱਖਿਆਰਥੀ ਲਾਇਸੈਂਸ ਜਾਰੀ ਹੋਣ ਦੀ ਮਿਤੀ ਤੋਂ 180 ਦਿਨ ਬਾਅਦ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 181,
+    "question": "ਵਾਹਨ ਵਿੱਚ ਟਾਇਰ ਰੋਟੇਸ਼ਨ ਕਿਉਂ ਸਲਾਹਯੋਗ ਹੈ?",
+    "options": [
+      "ਇਹ ਵ੍ਹੀਲ ਬੈਲੇਂਸਿੰਗ ਬਣਾਈ ਰੱਖਦਾ ਹੈ",
+      "ਇਹ ਵ੍ਹੀਲ ਅਲਾਈਨਮੈਂਟ ਬਣਾਈ ਰੱਖਦਾ ਹੈ",
+      "ਇਹ ਟਾਇਰ 'ਤੇ ਅਸਾਧਾਰਨ ਖਰਾਬੀ ਤੋਂ ਬਚਾਉਂਦਾ ਹੈ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 182,
+    "question": "ਲੇਨ ਬਦਲਦੇ ਸਮੇਂ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ।",
+    "options": [
+      "ਹਾਰਨ ਵਜਾਓ ਅਤੇ ਲੇਨ ਬਦਲੋ",
+      "ਇੰਡੀਕੇਟਰ ਦੀ ਵਰਤੋਂ ਕਰੋ ਅਤੇ ਲੇਨ ਬਦਲੋ",
+      "ਇੰਡੀਕੇਟਰ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਕੋਈ ਲੋੜ ਨਹੀਂ, ਸਿਰਫ਼ ਸ਼ੀਸ਼ੇ ਵਿੱਚ ਦੇਖੋ ਅਤੇ ਲੇਨ ਬਦਲੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 183,
+    "question": "ਕਾਰ ਦੇ ਡੈਸ਼ਬੋਰਡ ਵਿੱਚ ਤਾਪਮਾਨ ਗੇਜ ਇਸ ਦੇ ਤਾਪਮਾਨ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ।",
+    "options": [
+      "ਕਾਰ ਦੇ ਬਾਹਰ ਦਾ ਮੌਸਮ",
+      "ਕਾਰ ਦੇ ਅੰਦਰ",
+      "ਇੰਜਣ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 184,
+    "question": "ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ, ਤੁਸੀਂ ਕੀ ਧਿਆਨ ਵਿੱਚ ਰੱਖੋਗੇ?",
+    "options": [
+      "ਮੌਸਮ ਅਤੇ ਸੜਕ ਦੀਆਂ ਸਥਿਤੀਆਂ",
+      "ਤੁਹਾਡੇ ਆਲੇ-ਦੁਆਲੇ ਦਾ ਟ੍ਰੈਫਿਕ",
+      "ਦੋਵੇਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 185,
+    "question": "ਇੱਕ ਲੰਬੇ ਵਾਹਨ ਦੇ ਪਿੱਛੇ ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਇਸ ਤੋਂ ਛੋਟੀ ਦੂਰੀ ਬਣਾਈ ਰੱਖੋ",
+      "ਇਸ ਦੇ ਬਹੁਤ ਨੇੜੇ ਗੱਡੀ ਚਲਾ ਸਕਦੇ ਹੋ ਕਿਉਂਕਿ ਇਹ ਰੁਕਣ ਵਾਲਾ ਨਹੀਂ ਹੈ",
+      "ਇਸ ਦੇ ਅੱਗੇ ਟ੍ਰੈਫਿਕ ਦਾ ਬਿਹਤਰ ਦ੍ਰਿਸ਼ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਬਹੁਤ ਲੰਬੀ ਦੂਰੀ ਬਣਾਈ ਰੱਖੋ।"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 186,
+    "question": "ਤੁਸੀਂ ਆਪਣੀ ਕਾਰ ਵਿੱਚ ਇੱਕ ਪ੍ਰਵਾਨਿਤ ਫਿਟਮੈਂਟ ਸੈਂਟਰ ਤੋਂ LPG/CNG ਫਿਟਮੈਂਟ ਲਗਾਈ ਹੈ। ਕੀ ਇਸਨੂੰ RTO 'ਤੇ ਰਜਿਸਟਰ ਕਰਵਾਉਣਾ ਲਾਜ਼ਮੀ ਹੈ?",
+    "options": [
+      "ਹਾਂ",
+      "ਨਹੀਂ",
+      "ਲੋੜ ਨਹੀਂ ਕਿਉਂਕਿ ਇਹ ਪ੍ਰਵਾਨਿਤ ਸੈਂਟਰ 'ਤੇ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 187,
+    "question": "ਬ੍ਰੇਕ ਲਾਈਟ ਤੋਂ ਬਿਨਾਂ ਵਾਹਨ ਚਲਾਉਣਾ ਹੈ।",
+    "options": [
+      "ਦੋ ਪਹੀਆ ਵਾਹਨ ਲਈ ਵੈਧ",
+      "ਇੱਕ ਅਪਰਾਧ",
+      "ਸਿਰਫ਼ ਟਰੱਕਾਂ ਲਈ ਵੈਧ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 188,
+    "question": "ਕਾਰ ਦੀ ਅਗਲੀ ਸੀਟ 'ਤੇ ਬੈਠੇ 10 ਸਾਲ ਦੇ ਬੱਚੇ ਨੂੰ ਸੀਟ ਬੈਲਟ ਬੰਨ੍ਹਣੀ ਚਾਹੀਦੀ ਹੈ?",
+    "options": [
+      "ਬੱਚਿਆਂ ਲਈ ਜ਼ਰੂਰੀ ਨਹੀਂ।",
+      "ਇਹ ਲਾਜ਼ਮੀ ਹੈ",
+      "ਸਿਰਫ਼ ਪਿਛਲੀਆਂ ਸੀਟਾਂ 'ਤੇ ਵੈਧ।"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 189,
+    "question": "ਜਦੋਂ ਕਾਰ ਵਿੱਚ ਚਾਈਲਡ ਲਾਕ ਲਗਾਇਆ ਜਾਂਦਾ ਹੈ।",
+    "options": [
+      "ਦਰਵਾਜ਼ਾ ਸਿਰਫ਼ ਅੰਦਰੋਂ ਖੋਲ੍ਹਿਆ ਜਾ ਸਕਦਾ ਹੈ।",
+      "ਦਰਵਾਜ਼ਾ ਸਿਰਫ਼ ਬਾਹਰੋਂ ਖੋਲ੍ਹਿਆ ਜਾ ਸਕਦਾ ਹੈ।",
+      "ਦਰਵਾਜ਼ਾ ਦੋਵੇਂ ਪਾਸਿਆਂ ਤੋਂ ਖੋਲ੍ਹਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 190,
+    "question": "ਬਿਨਾਂ ਵਾਹਨ ਚਲਾਉਣਾ",
+    "options": [
+      "ਇੱਕ ਅਪਰਾਧ",
+      "ਅਪਰਾਧ ਨਹੀਂ",
+      "ਆਵਾਜ਼ ਵਿੱਚ ਬਦਲਾਅ ਲਈ ਵੈਧ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 191,
+    "question": "ਰਿਵਰਸ ਲਾਈਟ ਦਾ ਰੰਗ ਹੈ",
+    "options": [
+      "ਲਾਲ",
+      "ਚਿੱਟਾ",
+      "ਸੰਤਰੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 192,
+    "question": "ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ ਡਰਾਈਵਰ ਲਈ ਵਰਦੀ ਪਹਿਨਣਾ ਲਾਜ਼ਮੀ ਹੈ",
+    "options": [
+      "ਨਿੱਜੀ ਵਾਹਨ",
+      "ਸਾਰੇ ਵਪਾਰਕ ਵਾਹਨ",
+      "ਸਾਰੇ ਵਾਹਨ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 193,
+    "question": "ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ, ਡਰਾਈਵਰ ਨੂੰ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ",
+    "options": [
+      "ਅਸਲ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ",
+      "ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਦੀ ਰੰਗੀਨ ਜ਼ੈਰੋਕਸ ਕਾਪੀ",
+      "ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਦੀ ਪ੍ਰਮਾਣਿਤ ਕਾਪੀ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 194,
+    "question": "ਡਰਾਈਵਰ ਆਪਣੇ ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ ਦੀ ਮਿਆਦ ਖਤਮ ਹੋਣ ਤੋਂ ਬਾਅਦ ਕਿੰਨੀ ਦੇਰ ਤੱਕ ਵਾਹਨ ਚਲਾ ਸਕਦਾ ਹੈ?",
+    "options": [
+      "30 ਦਿਨ",
+      "ਇੱਕ ਵੀ ਦਿਨ ਨਹੀਂ",
+      "60 ਦਿਨ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 195,
+    "question": "ਦੁਰਘਟਨਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ, ਕੋਈ ਚਮੜੀ ਦੇ ਜਲਣ ਤੋਂ ਪੀੜਤ ਹੈ। ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ….",
+    "options": [
+      "ਜਲਣ ਵਾਲੀਆਂ ਥਾਵਾਂ ਨੂੰ ਠੰਡੇ ਪਾਣੀ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਧੋਵੋ ਅਤੇ ਪੀੜਤ ਨੂੰ ਆਸਰਾ ਦੇ ਹੇਠਾਂ ਲੈ ਜਾਓ ਅਤੇ ਐਂਬੂਲੈਂਸ ਨੂੰ ਬੁਲਾਓ",
+      "ਛਾਲੇ ਫੋੜੋ",
+      "ਉਸਦੇ ਕੱਪੜੇ ਜੋ ਜਲਣ ਵਾਲੀਆਂ ਥਾਵਾਂ ਨਾਲ ਚਿਪਕੇ ਹੋਏ ਹਨ, ਉਤਾਰੋ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 196,
+    "question": "ਦੁਰਘਟਨਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ, ਕਿਹੜਾ ਗਿਆਨ ਮਨੁੱਖੀ ਜੀਵਨ ਬਚਾਉਣ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ?",
+    "options": [
+      "ਵਾਹਨ ਦੀ ਸਾਂਭ-ਸੰਭਾਲ",
+      "ਮੁੱਢਲੀ ਸਹਾਇਤਾ",
+      "ਕਾਨੂੰਨੀ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 197,
+    "question": "ਦੁਰਘਟਨਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ, ਜੇਕਰ ਕੋਈ ਗੰਭੀਰ ਪਿੱਠ ਦੀ ਸੱਟ ਤੋਂ ਪੀੜਤ ਹੈ, ਤਾਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ,",
+    "options": [
+      "ਪੀੜਤ ਨੂੰ ਚੁੱਕੋ ਅਤੇ ਸੁਰੱਖਿਅਤ ਥਾਂ 'ਤੇ ਲੈ ਜਾਓ",
+      "ਪੀੜਤ ਨੂੰ ਨਾ ਹਿਲਾਓ ਅਤੇ ਦੂਜੇ ਟ੍ਰੈਫਿਕ ਨੂੰ ਦੁਰਘਟਨਾ ਬਾਰੇ ਚੇਤਾਵਨੀ ਦੇਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+      "ਸੱਟ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਉਸਦੀਆਂ ਲੱਤਾਂ ਚੁੱਕੋ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 198,
+    "question": "ਦੁਰਘਟਨਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ, ਜੇਕਰ ਪੀੜਤ ਹੈਲਮੇਟ ਦੇ ਹੇਠਾਂ ਤੋਂ ਖੂਨ ਵਗ ਰਿਹਾ ਹੈ, ਤਾਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ।",
+    "options": [
+      "ਹੈਲਮੇਟ ਹਟਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਨਾ ਕਰੋ ਪਰ ਐਂਬੂਲੈਂਸ ਨੂੰ ਬੁਲਾਓ",
+      "ਸੱਟ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਹੈਲਮੇਟ ਹਟਾਓ",
+      "ਹੈਲਮੇਟ ਹਟਾਓ ਅਤੇ ਐਂਬੂਲੈਂਸ ਨੂੰ ਬੁਲਾਓ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 199,
+    "question": "ਮੁੱਢਲੀ ਸਹਾਇਤਾ ਵਿੱਚ ABC ਦਾ ਮਤਲਬ ਹੈ।",
+    "options": [
+      "ਧਿਆਨ ਨਾਲ, ਸਾਹ, ਸੰਪਰਕ",
+      "ਹਵਾ ਦਾ ਰਸਤਾ, ਸਾਹ ਲੈਣਾ, ਸੰਚਾਰ",
+      "ਐਕਸੀਲਰੇਟਰ, ਬ੍ਰੇਕ, ਕਲੱਚ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 200,
+    "question": "ਦੁਰਘਟਨਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਬੇਹੋਸ਼ ਵਿਅਕਤੀ ਦੀ ਮਦਦ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੈ,",
+    "options": [
+      "ਉਸਦੇ ਕੱਪੜੇ ਢਿੱਲੇ ਕਰੋ",
+      "ਲੋਕਾਂ ਨੂੰ ਨੇੜੇ ਨਾ ਖੜ੍ਹੇ ਹੋਣ ਦਿਓ, ਹਵਾ ਦੀ ਮੁਫਤ ਸਪਲਾਈ ਯਕੀਨੀ ਬਣਾਓ ਅਤੇ ਸਰਦੀਆਂ ਵਿੱਚ ਸਰੀਰ ਦੇ ਦੁਆਲੇ ਕੰਬਲ ਲਪੇਟੋ",
+      "ਦੋਵੇਂ ਕਰੋ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 201,
+    "question": "ਇੱਕ ਬਾਲਗ ਦੀ ਔਸਤ ਨਬਜ਼ ਦਰ ਹੈ।",
+    "options": [
+      "50 ਪ੍ਰਤੀ ਮਿੰਟ",
+      "70 ਪ੍ਰਤੀ ਮਿੰਟ",
+      "100 ਪ੍ਰਤੀ ਮਿੰਟ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 202,
+    "question": "ਤੁਹਾਨੂੰ ਮੋਬਾਈਲ ਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਦੋਂ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ?",
+    "options": [
+      "ਜਦੋਂ ਵਾਹਨ ਬਹੁਤ ਹੌਲੀ ਗਤੀ 'ਤੇ ਚੱਲ ਰਿਹਾ ਹੋਵੇ",
+      "ਜਦੋਂ ਵਾਹਨ ਐਕਸਪ੍ਰੈਸ ਹਾਈਵੇਅ 'ਤੇ ਮੱਧਮ ਗਤੀ 'ਤੇ ਚੱਲ ਰਿਹਾ ਹੋਵੇ",
+      "ਜਦੋਂ ਵਾਹਨ ਇੱਕ ਪਾਸੇ ਖੜ੍ਹਾ ਹੋਵੇ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 203,
+    "question": "ਸ਼ਰਾਬ ਪੀ ਕੇ ਗੱਡੀ ਚਲਾਉਣਾ ਸੱਦਾ ਦਿੰਦਾ ਹੈ",
+    "options": [
+      "ਡਰਾਈਵਰ ਦੁਆਰਾ ਗਲਤ ਫੈਸਲਾ",
+      "ਡਰਾਈਵਰ ਦੀ ਘੱਟ ਦ੍ਰਿਸ਼ਟੀ",
+      "ਦੋਵੇਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 204,
+    "question": "ਤੁਸੀਂ ਇਨ੍ਹਾਂ ਦੁਆਰਾ ਈਂਧਨ ਬਚਾ ਸਕਦੇ ਹੋ..",
+    "options": [
+      "ਵਾਹਨ ਦੀ ਸਹੀ ਟਿਊਨਿੰਗ",
+      "ਵਾਹਨ ਦੀ ਸਹੀ ਸਫਾਈ",
+      "ਗੱਡੀ ਚਲਾਉਂਦੇ ਸਮੇਂ ਕਲੱਚ ਦੀ ਬਹੁਤ ਜ਼ਿਆਦਾ ਵਰਤੋਂ ਕਰਨਾ"
+    ],
+    "correct_answer": 1,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 205,
+    "question": "ਗਲਤ ਗੀਅਰ ਬਦਲਣ ਨਾਲ ਇਹ ਹੋ ਸਕਦਾ ਹੈ।",
+    "options": [
+      "ਗੀਅਰ ਬਾਕਸ ਨੂੰ ਨੁਕਸਾਨ",
+      "ਜ਼ਿਆਦਾ ਈਂਧਨ ਦੀ ਖਪਤ",
+      "ਦੋਵੇਂ"
+    ],
+    "correct_answer": 3,
+    "is_sign": false,
+    "sign": null
+  },
+  {
+    "question_number": 206,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਅੱਗੇ ਕੋਈ ਸੜਕ ਨਹੀਂ",
+      "ਅੱਗੇ ਬੰਪ",
+      "ਸੜਕ ਦੀ ਮੁਰੰਮਤ ਦਾ ਕੰਮ ਚੱਲ ਰਿਹਾ ਹੈ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "no_through_road.png"
+  },
+  {
+    "question_number": 207,
+    "question": "ਹੇਠਾਂ ਦਿੱਤਾ ਚਿੰਨ੍ਹ ਦਰਸਾਉਂਦਾ ਹੈ",
+    "options": [
+      "ਇੱਕ-ਪਾਸੜ ਚਿੰਨ੍ਹ",
+      "ਦੋਵਾਂ ਦਿਸ਼ਾਵਾਂ ਵਿੱਚ ਵਾਹਨਾਂ ਦੀ ਮਨਾਹੀ",
+      "ਓਵਰਟੇਕਿੰਗ ਮਨ੍ਹਾ"
+    ],
+    "correct_answer": 1,
+    "is_sign": true,
+    "sign": "on_way_sign.png"
+  },
+  {
+    "question_number": 208,
+    "question": "ਸੜਕ ਦੇ ਵਿਚਕਾਰ ਨਿਸ਼ਾਨਬੱਧ ਪੀਲੀ ਲਗਾਤਾਰ ਲਾਈਨ ਦਰਸਾਉਂਦੀ ਹੈ",
+    "options": [
+      "ਓਵਰਟੇਕਿੰਗ ਦੀ ਇਜਾਜ਼ਤ",
+      "ਪੀਲੀ ਲਾਈਨ ਪਾਰ ਕਰਨਾ ਮਨ੍ਹਾ ਹੈ",
+      "ਡਰਾਈਵਰ ਇਸ ਲੇਨ ਦੇ ਦੂਜੇ ਪਾਸੇ ਜਾ ਸਕਦਾ ਹੈ"
+    ],
+    "correct_answer": 2,
+    "is_sign": false,
+    "sign": "crossing_yellow_line_prohibited.png"
+  }
+]

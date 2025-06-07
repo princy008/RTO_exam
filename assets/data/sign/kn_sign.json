@@ -1,0 +1,331 @@
+[
+   {
+    "sign": "ನಿಲುಗಡೆ",
+    "icon": "stop.png"
+   },
+   {
+    "sign": "ಎಡಕ್ಕೆ ಇರಿ",
+    "icon": "Keep_left.png"
+   },
+    {
+    "sign": "ದಾರಿ ಕೊಡಿ",
+    "icon": "give_way.png"
+   },
+    {
+    "sign": "ಪ್ರವೇಶವಿಲ್ಲ",
+    "icon": "no_entry.png"
+   },
+    {
+    "sign": "ಬಲಕ್ಕೆ ತೀಕ್ಷ್ಣ ತಿರುವು",
+    "icon": "sharp_curve_to_the_right.png"
+   },
+   {
+    "sign": "ಪಾದಚಾರಿ ದಾಟುವಿಕೆ",
+    "icon": "Pedestrain_crossing.png"
+   },
+    {
+    "sign": "ಬಲಕ್ಕೆ ನಿಲುಗಡೆಗೆ ಅನುಮತಿ ಇದೆ",
+    "icon": "parking_on_the_right_allowed.png"
+   },
+    {
+    "sign": "ಯು-ಟರ್ನ್ ನಿಷಿದ್ಧ",
+    "icon": "u_turn_prohibited.png"
+   },
+    {
+    "sign": "ಹಾರ್ನ್ ನಿಷಿದ್ಧ",
+    "icon": "horn_prohibited.png"
+   },
+     {
+    "sign": "ಮುಂದೆ ಕಿರಿದಾದ ಸೇತುವೆ",
+    "icon": "narrow_bridge_ahead.png"
+   },
+   {
+    "sign": "ವೇಗ ನಿರ್ಬಂಧದ ಅಂತ್ಯ",
+    "icon": "end_of_speed_restriction.png"
+   },
+    {
+    "sign": "ಮುಂದೆ ಕಿರಿದಾದ ರಸ್ತೆ",
+    "icon": "narrow_road_ahead.png"
+   },
+    {
+    "sign": "ಕಾವಲು ಇರುವ ರೈಲ್ವೆ ಕ್ರಾಸಿಂಗ್",
+    "icon": "level_crossing_guarded.png"
+   },
+   {
+    "sign": "ಓವರ್‌ಟೇಕ್ ನಿಷಿದ್ಧ",
+    "icon": "overtaking_prohibited.png"
+   },
+   {
+    "sign": "ಮುಂದೆ ಅಡ್ಡ ರಸ್ತೆ",
+    "icon": "cross_road_ahead.png"
+   },
+    {
+    "sign": "ಕಡ್ಡಾಯವಾಗಿ ನೇರವಾಗಿ ಹೋಗಿ ಅಥವಾ ಎಡಕ್ಕೆ ತಿರುಗಿ",
+    "icon": "compulsory_go_ahead_or_turn_left.png"
+   },
+   {
+    "sign": "ಹಾರ್ನ್ ಕಡ್ಡಾಯ",
+    "icon": "sound_horn_compulsory.png"
+   },
+    {
+    "sign": "ಮುಂದೆ ಬಲಭಾಗದಲ್ಲಿ ರಸ್ತೆ",
+    "icon": "road_to_the_right_in_front.png"
+   },
+    {
+    "sign": "ನಿಲ್ಲಿಸುವುದು ಅಥವಾ ನಿಲುಗಡೆ ನಿಷಿದ್ಧ",
+    "icon": "no_stopping_or_parking.png"
+   },
+    {
+    "sign": "ಕಡ್ಡಾಯವಾಗಿ ನೇರವಾಗಿ ಮಾತ್ರ",
+    "icon": "compulsory_ahead_only.png"
+   },
+    {
+    "sign": "ಎಲ್ಲಾ ಮೋಟರ್ ವಾಹನಗಳು ನಿಷಿದ್ಧ",
+    "icon": "all_motor_vehicles_prohibited.png"
+   },
+   {
+    "sign": "ಟ್ರಕ್‌ಗಳು ನಿಷಿದ್ಧ",
+    "icon": "trucks_prohibited.png"
+   },
+    {
+    "sign": "ಎತ್ತಿನ ಗಾಡಿ ನಿಷಿದ್ಧ",
+    "icon": "bullock_cart_prohibited.png"
+   },
+    {
+    "sign": "ಪಾದಚಾರಿಗಳು ನಿಷಿದ್ಧ",
+    "icon": "pedestrians_prohibited.png"
+   },
+    {
+    "sign": "ಎಡ ತಿರುವು ನಿಷಿದ್ಧ",
+    "icon": "left_turn_prohibited.png"
+   },
+    {
+    "sign": "ವಾಹನವನ್ನು 0 ಕಿಮೀ/ಗಂ ಮೀರಿ ಓಡಿಸಬೇಡಿ",
+    "icon": "drive_the_vehicle_not_exceeding_50_km.png"
+   },
+    {
+    "sign": "ಕಡ್ಡಾಯವಾಗಿ ನೇರವಾಗಿ ಅಥವಾ ಬಲಕ್ಕೆ ತಿರುಗಿ",
+    "icon": "compulsory_ahead_or_turn_right.png"
+   },
+    {
+    "sign": "ನಿಧಾನಗೊಳಿಸಿ ಮತ್ತು ಎಚ್ಚರಿಕೆಯಿಂದ ಮುಂದುವರಿಯಿರಿ",
+    "icon": "show_down_and_proceed_with_caution.png"
+   },
+    {
+    "sign": "ಎಡಗೈ ತಿರುವು",
+    "icon": "left_hand_curve.png"
+   },
+    {
+    "sign": "ಬಲಕ್ಕೆ ಹೇರ್‌ಪಿನ್ ತಿರುವು",
+    "icon": "right_hair_pin_bend.png"
+   },
+    {
+    "sign": "ಎಡಕ್ಕೆ ಹೇರ್‌ಪಿನ್ ತಿರುವು",
+    "icon": "left_hair_pin_bend.png"
+   },
+    {
+    "sign": "ಬಲಕ್ಕೆ ರಿವರ್ಸ್ ತಿರುವು",
+    "icon": "right_reverse_bend.png"
+   },
+    {
+    "sign": "ಎಡಕ್ಕೆ ರಿವರ್ಸ್ ತಿರುವು",
+    "icon": "left_reverse_bend.png"
+   },
+    {
+    "sign": "ವೈ-ಛೇದಕ",
+    "icon": "y_inter_section.png"
+   },
+    {
+    "sign": "ಆಕ್ಸಲ್ ಲೋಡ್ ಮಿತಿ",
+    "icon": "axle_load_limit.png"
+   },
+   {
+    "sign": "ಕಡ್ಡಾಯವಾಗಿ ಮುಂದೆ ಬಲಕ್ಕೆ ತಿರುಗಿ",
+    "icon": "compulsory_turn_right_ahead.png"
+   },
+    {
+    "sign": "ರೌಂಡ್‌ಅಬೌಟ್",
+    "icon": "road_about.png"
+   },
+    {
+    "sign": "ಅಪಾಯಕಾರಿ ಇಳಿಜಾರು",
+    "icon": "dangerous_dip.png"
+   },
+    {
+    "sign": "ವೈ-ಛೇದಕ ಬಲಕ್ಕೆ",
+    "icon": "y_inter_scetion_right.png"
+   },
+    {
+    "sign": "ವೈ-ಛೇದಕ ಎಡಕ್ಕೆ",
+    "icon": "y_inter_scetion_left.png"
+   },
+	{
+    "sign": "ಜಾರುವ ರಸ್ತೆ",
+    "icon": "slippery_road.png"
+   },
+   
+   {
+    "sign": "ಕಲ್ಲುಮಣ್ಣು",
+    "icon": "loose_gravel.png"
+   },
+   {
+    "sign": "ಸೈಕಲ್ ದಾಟುವಿಕೆ",
+    "icon": "cycle_crossing.png"
+   },
+   {
+    "sign": "ರಸ್ತೆಯಲ್ಲಿ ಪ್ರಾಣಿಗಳ ಸಾಧ್ಯತೆ",
+    "icon": "possibility_animal_on_the_road.png"
+   },
+   {
+    "sign": "ಮುಂದೆ ಶಾಲೆ",
+    "icon": "school_ahead.png"
+   },
+   {
+    "sign": "ಪುರುಷರು ಕೆಲಸದಲ್ಲಿ",
+    "icon": "men_at_work.png"
+   },
+   {
+    "sign": "ಬೀಳುವ ಕಲ್ಲುಗಳು",
+    "icon": "falling_roacks.png"
+   },
+   {
+    "sign": "ಮುಂದೆ ಲಘು ಉಪಹಾರ",
+    "icon": "light_refreshment_ahead.png"
+   },
+   {
+    "sign": "ಕಡಿದಾದ ಆರೋಹಣ",
+    "icon": "steep_ascend.png"
+   },
+   {
+    "sign": "ಕಡಿದಾದ ಇಳಿಜಾರು",
+    "icon": "steep_deascend.png"
+   },
+   {
+    "sign": "ಮುಂದೆ ರಸ್ತೆ ಅಗಲವಾಗುತ್ತದೆ",
+    "icon": "road_widens_ahead.png"
+   },
+    {
+    "sign": "ಮಧ್ಯದಲ್ಲಿ ಅಂತರ",
+    "icon": "gap_in_median.png"
+   },
+   {
+    "sign": "ಗುಡ್ಡ ಅಥವಾ ಒರಟು ರಸ್ತೆ",
+    "icon": "hump_or_rough_road.png"
+   },
+    {
+    "sign": "ಮುಂದೆ ತಡೆಗೋಡೆ",
+    "icon": "barrier_ahead.png"
+   },
+   {
+    "sign": "ಸೈಡ್ ರಸ್ತೆ ಇಲ್ಲ",
+    "icon": "no_through_side_road.png"
+   },
+   {
+    "sign": "ಫೆರ್ರಿ",
+    "icon": "ferry.png"
+   },
+   {
+    "sign": "ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ನಿಲುಗಡೆ",
+    "icon": "parking_both_sides.png"
+   },
+   {
+    "sign": "ನಿಲುಗಡೆ ಸ್ಥಳ - ಸ್ಕೂಟರ್‌ಗಳು ಮತ್ತು ಮೋಟಾರ್‌ಸೈಕಲ್‌ಗಳು",
+    "icon": "parking_lot_scooters_motor_cycle.png"
+   },
+   {
+    "sign": "ನಿಲುಗಡೆ ಸ್ಥಳ - ಆಟೋ ರಿಕ್ಷಾಗಳು",
+    "icon": "parking_lot_auto_rickashwa.png"
+   },
+    {
+    "sign": "ನಿಲುಗಡೆ ಸ್ಥಳ - ಟ್ಯಾಕ್ಸಿಗಳು",
+    "icon": "parking_lot_taxis.png"
+   },
+   {
+    "sign": "ಪೆಟ್ರೋಲ್ ಪಂಪ್",
+    "icon": "petrol_pump.png"
+   },
+   {
+    "sign": "ಎಚ್ಚರಿಕೆಯಿಂದ ಲೇನ್ ಬದಲಿಸಿ",
+    "icon": "change_the_line_with_caution.png"
+   },
+    {
+    "sign": "ಬಲಕ್ಕೆ ತಿರುಗಲು ಉದ್ದೇಶಿಸಿದೆ",
+    "icon": "intends_turn_right.png"
+   },
+    {
+    "sign": "ಎಡಕ್ಕೆ ತಿರುಗಲು ಉದ್ದೇಶಿಸಿದೆ",
+    "icon": "intends_turn_left.png"
+   },
+    {
+    "sign": "ವಾಹನದ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಉದ್ದೇಶಿಸಿದೆ",
+    "icon": "intends_slow_down_the_vehicle.png"
+   },
+    {
+    "sign": "ವಾಹನವನ್ನು ನಿಲ್ಲಿಸಲು ಉದ್ದೇಶಿಸಿದೆ",
+    "icon": "intends_stop_the_vehicle.png"
+   },
+   {
+    "sign": "ಹಿಂದಿನಿಂದ ವಾಹನವನ್ನು ಹಾದುಹೋಗಲು ಅನುಮತಿಸಿ",
+    "icon": "allow__pass_the_vehicle_from_behind.png"
+   },
+   {
+    "sign": "ಅಗತ್ಯವಿದ್ದರೆ ಟ್ರ್ಯಾಕ್ ಬದಲಾಯಿಸಬಹುದು",
+    "icon": "can_change_track_if_required.png"
+   },
+    {
+    "sign": "ನಿಲುಗಡೆ ನಿಷಿದ್ಧ",
+    "icon": "no_parking.png"
+   },
+   {
+    "sign": "ಕಡ್ಡಾಯವಾಗಿ ಎಡಕ್ಕೆ ತಿರುಗಿ",
+    "icon": "compulsory_turn_left.png"
+   },
+    {
+    "sign": "ಆಸ್ಪತ್ರೆ",
+    "icon": "hospital.png"
+   },
+   {
+    "sign": "ಕಡ್ಡಾಯವಾಗಿ ಬಲಕ್ಕೆ ತಿರುಗಿ",
+    "icon": "compulsory_turn_right.png"
+   },
+    {
+    "sign": "ಎರಡೂ ದಿಕ್ಕುಗಳಲ್ಲಿ ನಿಷಿದ್ಧ",
+    "icon": "prohibited_both_direction.png"
+   },
+   {
+    "sign": "ಮುಂದೆ ಪ್ರಮುಖ ರಸ್ತೆ",
+    "icon": "major_road_ahead.png"
+   },
+   {
+    "sign": "ಕಾವಲು ಇರುವ ರೈಲ್ವೆ ಕ್ರಾಸಿಂಗ್",
+    "icon": "guarded_railway_crossing.png"
+   },
+   {
+    "sign": "ವಿಶ್ರಾಂತಿ ಸ್ಥಳ",
+    "icon": "resting_place.png"
+   },
+   {
+    "sign": "ಮೂಲಕ ರಸ್ತೆ ಇಲ್ಲ",
+    "icon": "no_through_road.png"
+   },
+   {
+    "sign": "ಒನ್-ವೇ ಚಿಹ್ನೆ",
+    "icon": "on_way_sign.png"
+   },
+   {
+    "sign": "ಹಳದಿ ಗೆರೆಯನ್ನು ದಾಟುವುದು ನಿಷಿದ್ಧ",
+    "icon": "crossing_yellow_line_prohibited.png"
+   },
+   {
+    "sign": "ಬಲ ತಿರುವು ನಿಷಿದ್ಧ",
+    "icon": "right_turn_prohibited.png"
+   },
+   {
+    "sign": "ಸೈಡ್ ರಸ್ತೆ ಎಡಕ್ಕೆ",
+    "icon": "side_road_left.png"
+   },
+   {
+    "sign": "ಹೆಚ್ಚು ಅಡ್ಡ ರಸ್ತೆಗಳು",
+    "icon": "staggered_intersections.png"
+   }
+]

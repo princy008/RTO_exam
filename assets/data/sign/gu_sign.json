@@ -1,0 +1,331 @@
+[
+  {
+    "sign": "Stop",
+    "icon": "stop.png"
+  },
+  {
+    "sign": "Keep left",
+    "icon": "Keep_left.png"
+  },
+  {
+    "sign": "Give way",
+    "icon": "give_way.png"
+  },
+  {
+    "sign": "NO entry",
+    "icon": "no_entry.png"
+  },
+  {
+    "sign": "Share curve to the right",
+    "icon": "sharp_curve_to_the_right.png"
+  },
+  {
+    "sign": "Pedestrain crossing",
+    "icon": "Pedestrain_crossing.png"
+  },
+  {
+    "sign": "Parking on the right allowed",
+    "icon": "parking_on_the_right_allowed.png"
+  },
+  {
+    "sign": "U-turn prohibited",
+    "icon": "u_turn_prohibited.png"
+  },
+  {
+    "sign": "Horn prohibited",
+    "icon": "horn_prohibited.png"
+  },
+  {
+    "sign": "Narrow bridge ahead",
+    "icon": "narrow_bridge_ahead.png"
+  },
+  {
+    "sign": "End of speed restricton",
+    "icon": "end_of_speed_restriction.png"
+  },
+  {
+    "sign": "Narrow road ahead",
+    "icon": "narrow_road_ahead.png"
+  },
+  {
+    "sign": "Level crossing Guarded",
+    "icon": "level_crossing_guarded.png"
+  },
+  {
+    "sign": "Overtaking prohibited",
+    "icon": "overtaking_prohibited.png"
+  },
+  {
+    "sign": "Cross road ahead",
+    "icon": "cross_road_ahead.png"
+  },
+  {
+    "sign": "Compulsory go ahead or turn left",
+    "icon": "compulsory_go_ahead_or_turn_left.png"
+  },
+  {
+    "sign": "Sound horn compulsory",
+    "icon": "sound_horn_compulsory.png"
+  },
+  {
+    "sign": "Road to the right in front",
+    "icon": "road_to_the_right_in_front.png"
+  },
+  {
+    "sign": "No Stopping or Parking",
+    "icon": "no_stopping_or_parking.png"
+  },
+  {
+    "sign": "Compulsory ahead only",
+    "icon": "compulsory_ahead_only.png"
+  },
+  {
+    "sign": "All Motor Vehicles prohibited",
+    "icon": "all_motor_vehicles_prohibited.png"
+  },
+  {
+    "sign": "Trucks prohibited",
+    "icon": "trucks_prohibited.png"
+  },
+  {
+    "sign": "Bullock car prohibited",
+    "icon": "bullock_cart_prohibited.png"
+  },
+  {
+    "sign": "Pedestrain prohibited",
+    "icon": "pedestrians_prohibited.png"
+  },
+  {
+    "sign": "Left turn prohibited",
+    "icon": "left_turn_prohibited.png"
+  },
+  {
+    "sign": "Drieve the vehicle not exceeding 0 km/hr",
+    "icon": "drive_the_vehicle_not_exceeding_50_km.png"
+  },
+  {
+    "sign": "Compulsory ahead or turn right",
+    "icon": "compulsory_ahead_or_turn_right.png"
+  },
+  {
+    "sign": "Slow down and proceed with caution",
+    "icon": "show_down_and_proceed_with_caution.png"
+  },
+  {
+    "sign": "Left hand curve",
+    "icon": "left_hand_curve.png"
+  },
+  {
+    "sign": "Right hair pin bend",
+    "icon": "right_hair_pin_bend.png"
+  },
+  {
+    "sign": "Left hair pin bend",
+    "icon": "left_hair_pin_bend.png"
+  },
+  {
+    "sign": "Right reverse bend",
+    "icon": "right_reverse_bend.png"
+  },
+  {
+    "sign": "Left reverse bend",
+    "icon": "left_reverse_bend.png"
+  },
+  {
+    "sign": "Y-inter section",
+    "icon": "y_inter_section.png"
+  },
+  {
+    "sign": "Axle load limit",
+    "icon": "axle_load_limit.png"
+  },
+  {
+    "sign": "Compulsory Turn right ahead",
+    "icon": "compulsory_turn_right_ahead.png"
+  },
+  {
+    "sign": "Round about",
+    "icon": "road_about.png"
+  },
+  {
+    "sign": "Dangerous dip",
+    "icon": "dangerous_dip.png"
+  },
+  {
+    "sign": "Y-inter section right",
+    "icon": "y_inter_scetion_right.png"
+  },
+  {
+    "sign": "Y-inter section left",
+    "icon": "y_inter_scetion_left.png"
+  },
+  {
+    "sign": "Slippery road",
+    "icon": "slippery_road.png"
+  },
+  {
+    "sign": "Loose gravel",
+    "icon": "loose_gravel.png"
+  },
+  {
+    "sign": "Cycle crossing",
+    "icon": "cycle_crossing.png"
+  },
+  {
+    "sign": "Possibility of animal on the road",
+    "icon": "possibility_animal_on_the_road.png"
+  },
+  {
+    "sign": "School ahead",
+    "icon": "school_ahead.png"
+  },
+  {
+    "sign": "Men at work",
+    "icon": "men_at_work.png"
+  },
+  {
+    "sign": "Falling rocks",
+    "icon": "falling_roacks.png"
+  },
+  {
+    "sign": "Light Refreshment ahead",
+    "icon": "light_refreshment_ahead.png"
+  },
+  {
+    "sign": "Steep ascend",
+    "icon": "steep_ascend.png"
+  },
+  {
+    "sign": "Steep descend",
+    "icon": "steep_deascend.png"
+  },
+  {
+    "sign": "Road widens ahead",
+    "icon": "road_widens_ahead.png"
+  },
+  {
+    "sign": "Gap in median",
+    "icon": "gap_in_median.png"
+  },
+  {
+    "sign": "Hump or rough road",
+    "icon": "hump_or_rough_road.png"
+  },
+  {
+    "sign": "Barrier ahead",
+    "icon": "barrier_ahead.png"
+  },
+  {
+    "sign": "No through side road",
+    "icon": "no_through_side_road.png"
+  },
+  {
+    "sign": "Ferry",
+    "icon": "ferry.png"
+  },
+  {
+    "sign": "Parking both sides",
+    "icon": "parking_both_sides.png"
+  },
+  {
+    "sign": "Parking lot - scooters and motor cycle",
+    "icon": "parking_lot_scooters_motor_cycle.png"
+  },
+  {
+    "sign": "Parking lot - auto rickshaws",
+    "icon": "parking_lot_auto_rickashwa.png"
+  },
+  {
+    "sign": "Parking lot - Taxis",
+    "icon": "parking_lot_taxis.png"
+  },
+  {
+    "sign": "Petrol pump",
+    "icon": "petrol_pump.png"
+  },
+  {
+    "sign": "Change the line with caution",
+    "icon": "change_the_line_with_caution.png"
+  },
+  {
+    "sign": "Intends to turn right",
+    "icon": "intends_turn_right.png"
+  },
+  {
+    "sign": "Intends to turn left",
+    "icon": "intends_turn_left.png"
+  },
+  {
+    "sign": "Intends to slow down the vehicle",
+    "icon": "intends_slow_down_the_vehicle.png"
+  },
+  {
+    "sign": "Intends to stop the vehicle",
+    "icon": "intends_stop_the_vehicle.png"
+  },
+  {
+    "sign": "Allow to pass the vehicle from behind",
+    "icon": "allow__pass_the_vehicle_from_behind.png"
+  },
+  {
+    "sign": "can change track if required",
+    "icon": "can_change_track_if_required.png"
+  },
+  {
+    "sign": "No Parking",
+    "icon": "no_parking.png"
+  },
+  {
+    "sign": "Compulsory turn left",
+    "icon": "compulsory_turn_left.png"
+  },
+  {
+    "sign": "Hospital",
+    "icon": "hospital.png"
+  },
+  {
+    "sign": "Compulsory turn Right",
+    "icon": "compulsory_turn_right.png"
+  },
+  {
+    "sign": "Prohibited in both direction",
+    "icon": "prohibited_both_direction.png"
+  },
+  {
+    "sign": "Major road ahead",
+    "icon": "major_road_ahead.png"
+  },
+  {
+    "sign": "Guarded railway crossing",
+    "icon": "guarded_railway_crossing.png"
+  },
+  {
+    "sign": "Resting place",
+    "icon": "resting_place.png"
+  },
+  {
+    "sign": "No through road",
+    "icon": "no_through_road.png"
+  },
+  {
+    "sign": "One-way sign",
+    "icon": "on_way_sign.png"
+  },
+  {
+    "sign": "Crossing yellow line is prohibited",
+    "icon": "crossing_yellow_line_prohibited.png"
+  },
+  {
+    "sign": "Right turn prohibited",
+    "icon": "right_turn_prohibited.png"
+  },
+  {
+    "sign": "Side road left",
+    "icon": "side_road_left.png"
+  },
+  {
+    "sign": "Staggered intersections",
+    "icon": "staggered_intersections.png"
+  }
+]
+

@@ -1,0 +1,25 @@
+{
+  "@@locale": "hi",
+  "appTitle": "RTO परीक्षा",
+  "questionBank": "प्रश्न बैंक",
+  "listOfQuestions": "प्रश्नों और उत्तरों की सूची और सड़क संकेतों का अर्थ",
+  "practiceTest": "अभ्यास परीक्षा",
+  "testYourKnowledge": "बिना समय की चिंता किए अपने ज्ञान की जांच करें",
+  "exam": "परीक्षा",
+  "attemptATimedRTO": "समयबद्ध RTO परीक्षा में भाग लें",
+  "drivingSchools": "ड्राइविंग स्कूल",
+  "searchForDrivingSchools": "अपने नजदीकी ड्राइविंग स्कूल खोजें",
+  "settingsHelp": "सेटिंग्स और सहायता",
+  "LicenseApplicationOffice": "लाइसेंस आवेदन और कार्यालय विवरण",
+  "poweredBy": "सकल मीडिया द्वारा संचालित - RTO इंडिया",
+  "welcomeTORTOExam": "RTO परीक्षा में आपका स्वागत है",
+  "pleaseSelectStateLanguage": "कृपया राज्य और भाषा चुनें",
+  "openAreaAllVersingIt": "खुला क्षेत्र, सबको कवर करें",
+  "selectState": "राज्य चुनें",
+  "selectLanguage": "भाषा चुनें",
+  "continueGO": "जारी रखें",
+  "questions": "प्रश्न",
+  "trafficSigns": "ट्रैफिक चिह्न",
+  "answer": "उत्तर"
+
+}

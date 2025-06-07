@@ -1,0 +1,330 @@
+[
+   {
+    "sign": "থামুন",
+    "icon": "stop.png"
+   },
+   {
+    "sign": "বামদিকে থাকুন",
+    "icon": "Keep_left.png"
+   },
+    {
+    "sign": "পথ দিন",
+    "icon": "give_way.png"
+   },
+    {
+    "sign": "প্রবেশ নিষেধ",
+    "icon": "no_entry.png"
+   },
+    {
+    "sign": "ডানদিকে তীক্ষ্ণ মোড়",
+    "icon": "sharp_curve_to_the_right.png"
+   },
+  {
+    "sign": "পথচারী পারাপার",
+    "icon": "Pedestrain_crossing.png"
+   },
+    {
+    "sign": "ডানদিকে পার্কিং অনুমোদিত",
+    "icon": "parking_on_the_right_allowed.png"
+   },
+    {
+    "sign": "ইউ-টার্ন নিষিদ্ধ",
+    "icon": "u_turn_prohibited.png"
+   },
+    {
+    "sign": "হর্ন বাজানো নিষিদ্ধ",
+    "icon": "horn_prohibited.png"
+   },
+    {
+    "sign": "সামনে সরু সেতু",
+    "icon": "narrow_bridge_ahead.png"
+   },
+  {
+    "sign": "গতিসীমার শেষ",
+    "icon": "end_of_speed_restriction.png"
+   },
+    {
+    "sign": "সামনে সরু রাস্তা",
+    "icon": "narrow_road_ahead.png"
+   },
+    {
+    "sign": "সংরক্ষিত লেভেল ক্রসিং",
+    "icon": "level_crossing_guarded.png"
+   },
+  {
+    "sign": "ওভারটেকিং নিষিদ্ধ",
+    "icon": "overtaking_prohibited.png"
+   },
+  {
+    "sign": "সামনে ক্রস রোড",
+    "icon": "cross_road_ahead.png"
+   },
+    {
+    "sign": "সরাসরি যান অথবা বামদিকে ঘুরুন (বাধ্যতামূলক)",
+    "icon": "compulsory_go_ahead_or_turn_left.png"
+   },
+  {
+    "sign": "হর্ন বাজানো বাধ্যতামূলক",
+    "icon": "sound_horn_compulsory.png"
+   },
+    {
+    "sign": "সামনে ডানদিকে রাস্তা",
+    "icon": "road_to_the_right_in_front.png"
+   },
+    {
+    "sign": "থামা বা পার্কিং নিষেধ",
+    "icon": "no_stopping_or_parking.png"
+   },
+    {
+    "sign": "শুধুমাত্র সামনে যান (বাধ্যতামূলক)",
+    "icon": "compulsory_ahead_only.png"
+   },
+    {
+    "sign": "সমস্ত মোটর গাড়ি নিষিদ্ধ",
+    "icon": "all_motor_vehicles_prohibited.png"
+   },
+  {
+    "sign": "ট্রাক নিষিদ্ধ",
+    "icon": "trucks_prohibited.png"
+   },
+    {
+    "sign": "গরুর গাড়ি নিষিদ্ধ",
+    "icon": "bullock_cart_prohibited.png"
+   },
+    {
+    "sign": "পথচারী নিষিদ্ধ",
+    "icon": "pedestrians_prohibited.png"
+   },
+    {
+    "sign": "বামদিকে মোড় নিষিদ্ধ",
+    "icon": "left_turn_prohibited.png"
+   },
+    {
+    "sign": "গাড়ি 0 কিমি/ঘণ্টার বেশি চালাবেন না",
+    "icon": "drive_the_vehicle_not_exceeding_50_km.png"
+   },
+    {
+    "sign": "সরাসরি যান অথবা ডানদিকে ঘুরুন (বাধ্যতামূলক)",
+    "icon": "compulsory_ahead_or_turn_right.png"
+   },
+    {
+    "sign": "ধীরে চলুন এবং সাবধানে এগিয়ে যান",
+    "icon": "show_down_and_proceed_with_caution.png"
+   },
+    {
+    "sign": "বাম হাতের বাঁক",
+    "icon": "left_hand_curve.png"
+   },
+    {
+    "sign": "ডান হেয়ার পিন বাঁক",
+    "icon": "right_hair_pin_bend.png"
+   },
+    {
+    "sign": "বাম হেয়ার পিন বাঁক",
+    "icon": "left_hair_pin_bend.韧png"
+   },
+    {
+    "sign": "ডান রিভার্স বাঁক",
+    "icon": "right_reverse_bend.png"
+   },
+    {
+    "sign": "বাম রিভার্স বাঁক",
+    "icon": "left_reverse_bend.png"
+   },
+    {
+    "sign": "Y-ছেদ",
+    "icon": "y_inter_section.png"
+   },
+    {
+    "sign": "অ্যাক্সেল লোড সীমা",
+    "icon": "axle_load_limit.png"
+   },
+  {
+    "sign": "সামনে ডানদিকে বাধ্যতামূলক মোড়",
+    "icon": "compulsory_turn_right_ahead.png"
+   },
+    {
+    "sign": "গোলাকার রাস্তা",
+    "icon": "road_about.png"
+   },
+    {
+    "sign": "বিপজ্জনক নিম্নাংশ",
+    "icon": "dangerous_dip.png"
+   },
+    {
+    "sign": "Y-ছেদ ডান",
+    "icon": "y_inter_scetion_right.png"
+   },
+    {
+    "sign": "Y-ছেদ বাম",
+    "icon": "y_inter_scetion_left.png"
+   },
+	{
+    "sign": "পিচ্ছিল রাস্তা",
+    "icon": "slippery_road.png"
+   },
+   {
+    "sign": "আলগা নুড়ি",
+    "icon": "loose_gravel.png"
+   },
+   {
+    "sign": "সাইকেল পারাপার",
+    "icon": "cycle_crossing.png"
+   },
+   {
+    "sign": "রাস্তায় পশুর সম্ভাবনা",
+    "icon": "possibility_animal_on_the_road.png"
+   },
+   {
+    "sign": "সামনে স্কুল",
+    "icon": "school_ahead.png"
+   },
+   {
+    "sign": "কর্মরত পুরুষ",
+    "icon": "men_at_work.png"
+   },
+  {
+    "sign": "পাথর পড়ছে",
+    "icon": "falling_roacks.png"
+   },
+  {
+    "sign": "সামনে হালকা জলখাবার",
+    "icon": "light_refreshment_ahead.png"
+   },
+  {
+    "sign": "খাড়া আরোহণ",
+    "icon": "steep_ascend.png"
+   },
+  {
+    "sign": "খাড়া অবতরণ",
+    "icon": "steep_deascend.png"
+   },
+  {
+    "sign": "সামনে রাস্তা প্রশস্ত হচ্ছে",
+    "icon": "road_widens_ahead.png"
+   },
+   {
+    "sign": "মাঝখানে ফাঁক",
+    "icon": "gap_in_median.png"
+   },
+  {
+    "sign": "হাম্প বা রুক্ষ রাস্তা",
+    "icon": "hump_or_rough_road.png"
+   },
+   {
+    "sign": "সামনে ব্যারিয়ার",
+    "icon": "barrier_ahead.png"
+   },
+  {
+    "sign": "কোনো পাশের রাস্তা নেই",
+    "icon": "no_through_side_road.png"
+   },
+  {
+    "sign": "ফেরি",
+    "icon": "ferry.png"
+   },
+  {
+    "sign": "উভয় পাশে পার্কিং",
+    "icon": "parking_both_sides.png"
+   },
+  {
+    "sign": "পার্কিং লট - স্কুটার এবং মোটরসাইকেল",
+    "icon": "parking_lot_scooters_motor_cycle.png"
+   },
+  {
+    "sign": "পার্কিং লট - অটো রিকশা",
+    "icon": "parking_lot_auto_rickashwa.png"
+   },
+   {
+    "sign": "পার্কিং লট - ট্যাক্সি",
+    "icon": "parking_lot_taxis.png"
+   },
+  {
+    "sign": "পেট্রোল পাম্প",
+    "icon": "petrol_pump.png"
+   },
+  {
+    "sign": "সাবধানে লেন পরিবর্তন করুন",
+    "icon": "change_the_line_with_caution.png"
+   },
+   {
+    "sign": "ডানদিকে মোড় ঘোরানোর ইচ্ছা",
+    "icon": "intends_turn_right.png"
+   },
+   {
+    "sign": "বামদিকে মোড় ঘোরানোর ইচ্ছা",
+    "icon": "intends_turn_left.png"
+   },
+   {
+    "sign": "গাড়ির গতি কমানোর ইচ্ছা",
+    "icon": "intends_slow_down_the_vehicle.png"
+   },
+   {
+    "sign": "গাড়ি থামানোর ইচ্ছা",
+    "icon": "intends_stop_the_vehicle.png"
+   },
+  {
+    "sign": "পিছন থেকে গাড়িকে যেতে দিন",
+    "icon": "allow__pass_the_vehicle_from_behind.png"
+   },
+  {
+    "sign": "প্রয়োজন হলে ট্র্যাক পরিবর্তন করতে পারেন",
+    "icon": "can_change_track_if_required.png"
+   },
+   {
+    "sign": "পার্কিং নিষেধ",
+    "icon": "no_parking.png"
+   },
+  {
+    "sign": "বামদিকে বাধ্যতামূলক মোড়",
+    "icon": "compulsory_turn_left.png"
+   },
+   {
+    "sign": "হাসপাতাল",
+    "icon": "hospital.png"
+   },
+  {
+    "sign": "ডানদিকে বাধ্যতামূলক মোড়",
+    "icon": "compulsory_turn_right.png"
+   },
+   {
+    "sign": "উভয় দিকেই নিষিদ্ধ",
+    "icon": "prohibited_both_direction.png"
+   },
+  {
+    "sign": "সামনে প্রধান রাস্তা",
+    "icon": "major_road_ahead.png"
+   },
+  {
+    "sign": "সংরক্ষিত রেলওয়ে ক্রসিং",
+    "icon": "guarded_railway_crossing.png"
+   },
+  {
+    "sign": "বিশ্রামের স্থান",
+    "icon": "resting_place.png"
+   },
+  {
+    "sign": "কোনো থ্রু রোড নেই",
+    "icon": "no_through_road.png"
+   },
+  {
+    "sign": "একমুখী চিহ্ন",
+    "icon": "on_way_sign.png"
+   },
+  {
+    "sign": "হলুদ রেখা অতিক্রম করা নিষিদ্ধ",
+    "icon": "crossing_yellow_line_prohibited.png"
+   },
+  {
+    "sign": "ডানদিকে মোড় নিষিদ্ধ",
+    "icon": "right_turn_prohibited.png"
+  },
+  {
+    "sign": "পাশের রাস্তা বাম",
+    "icon": "side_road_left.png"
+  },
+  {
+    "sign": "স্ট্যাগার্ড ইন্টারসেকশন",
+    "icon": "staggered_intersections.png"
+  }
+]
