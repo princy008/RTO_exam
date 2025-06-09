@@ -10,7 +10,9 @@ import 'package:rto_exam/data/app_data.dart';
 import 'package:rto_exam/model/question_data.dart';
 import 'package:rto_exam/model/sign_data.dart';
 import 'package:rto_exam/screens/exam/exam_screen.dart';
+import 'package:rto_exam/screens/score/score_card_screen.dart';
 import 'package:rto_exam/screens/settings/settings_screen.dart';
+import 'package:rto_exam/widgets/failed_widget.dart';
 import '../../data/language_data.dart';
 import '../../data/state_data.dart';
 import '../../generated/l10n.dart';
@@ -64,9 +66,35 @@ class HomeController extends GetxController {
         icon: Icons.settings,
         color: AppColors.settingsGrey,
         onTap: () {
-          Get.to(() => SettingsScreen());
+          Get.to(() => SettingsScreen())
+          !.then((value) {
+            generateData();
+          },
+          );
         },
       ),
+      // HomeCardModel(
+      //   title: "ScoreCard",
+      //   subtitle: l10n.listOfQuestions,
+      //   icon: Icons.settings,
+      //   color: AppColors.settingsGrey,
+      //   onTap: () {
+      //     Get.to(() => ScoreCardScreen())
+      //     !.then((value) {
+      //       generateData();
+      //     },
+      //     );
+      //   },
+      // ),
+      // HomeCardModel(
+      //   title: "Failed",
+      //   subtitle: l10n.listOfQuestions,
+      //   icon: Icons.settings,
+      //   color: AppColors.settingsGrey,
+      //   onTap: () {
+      //     Get.to(() => FailedWidget(isFailed: false,));
+      //   },
+      // ),
     ];
     return menuItems;
   }

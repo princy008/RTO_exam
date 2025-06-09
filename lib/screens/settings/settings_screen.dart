@@ -20,7 +20,7 @@ import '../../widgets/state_selection_dialog .dart';
 class SettingsScreen extends StatelessWidget {
   SettingsScreen({super.key});
 
-  final SettingsController examController = Get.put(SettingsController());
+  final SettingsController settingsController = Get.put(SettingsController());
   final LanguageController controller = Get.put(LanguageController());
   ThemeController themeController = Get.find();
 
@@ -28,212 +28,172 @@ class SettingsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final l10n = S.of(context);
 
-    return Scaffold(
-      backgroundColor: AppTheme().getQuizBackgroundColor(context),
-      appBar: CommonAppBar(
-        backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
-        title: l10n.settingsHelp,
-        textColor: AppColors.backGroundColor,
-        leading: InkWell(
-          onTap: () {
-            Get.back();
-          },
-          child: Icon(Icons.arrow_back, color: AppColors.backGroundColor),
+    return WillPopScope(
+      onWillPop: () async {
+        controller.onBack();
+        return false;
+      },
+      child: Scaffold(
+        backgroundColor: AppTheme().getQuizBackgroundColor(context),
+        appBar: CommonAppBar(
+            backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
+            title: l10n.settings,
+            textColor: AppColors.backGroundColor,
+            leading: InkWell(
+              onTap: () {
+                controller.onBack();
+              },
+              child: Icon(Icons.arrow_back, color: AppColors.blackColor),
+            ),
+            actions: [
+              // Center(
+              //     child: Padding(
+              //         padding: AppDimensions.paddingRightMedium,
+              //         child: CommonText(
+              //           text: l10n.getVersion,
+              //           fontSize: AppDimensions.fontMedium,
+              //           color: AppColors.backGroundColor,
+              //           fontWeight: AppFontWeights.normal,
+              //         )))
+            ]),
+        body: SingleChildScrollView(
+          child: GetBuilder<SettingsController>(
+              init: SettingsController(),
+              builder: (sController) {
+                return Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Spacing.height(10),
+                    Padding(
+                      padding: EdgeInsets.symmetric(
+                          horizontal: AppDimensions.paddingMedium,
+                          vertical: AppDimensions.paddingSmall),
+                      child: CommonText(
+                        text: l10n.settingsHelp.toString().toUpperCase(),
+                        fontSize: AppDimensions.fontSmall,
+                        color: AppTheme().getSubFontColor(context),
+                        fontWeight: AppFontWeights.medium,
+                      ),
+                    ),
+                    Spacing.height(3),
+                    Container(
+                      decoration: BoxDecoration(
+                        // borderRadius: BorderRadius.circular(5.r),
+                        color: Theme.of(context).cardColor,
+                        boxShadow: [
+                          BoxShadow(
+                            color: Theme.of(context).shadowColor.withOpacity(0.1),
+                            blurRadius: 8.r,
+                            offset: Offset(0, 2.5),
+                          ),
+                        ],
+                      ),
+                      padding: EdgeInsets.symmetric(
+                          vertical: AppDimensions.paddingSmall - 4),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          settingRow(
+                            context,
+                            Icons.location_on,
+                            l10n.changeState,
+                            settingsController.selectedState.value,
+                            onTap: () {
+                              settingsController.clearList();
+                              showDialog(
+                                context: context,
+                                builder: (_) => StateSelectionDialog(),
+                              );
+                            },
+                          ),
+                          dividerLine(context),
+                          Obx(() => settingRow(
+                                context,
+                                Icons.language,
+                                l10n.changeLanguage,
+                                (controller.selectedLanguage.value?.name ??
+                                        l10n.selectLanguage)
+                                    .capitalizeFirstLetter(),
+                                onTap: () {
+                                  showDialog(
+                                    context: context,
+                                    builder: (_) {
+                                      return LanguageSelectionDialog(
+                                        languages: sController.languageList,
+                                        title: l10n.selectLanguage,
+                                        onLanguageSelected: (lang) {
+                                          controller.setSelectedLanguage(lang);
+                                        },
+                                      );
+                                    },
+                                  );
+                                },
+                              )),
+                          dividerLine(context),
+                          settingRow(
+                            context,
+                            Icons.dark_mode,
+                            l10n.darkMode,
+                            themeController.isDarkMode.value ? l10n.on:l10n.off,
+                            onTap: () {
+                              showDialog(
+                                context: context,
+                                builder: (_) => DarkModeDialog(
+                                    themeController: themeController),
+                              );
+                            },
+                          ),
+                          dividerLine(context),
+                          settingRow(context, Icons.email, l10n.contactUs, "",
+                              showArrow: false),
+                        ],
+                      ),
+                    ),
+                    SizedBox(height: 10),
+                    Padding(
+                      padding: EdgeInsets.symmetric(
+                          horizontal: AppDimensions.paddingMedium,
+                          vertical: AppDimensions.paddingSmall),
+                      child: CommonText(
+                        text: "Other".toUpperCase(),
+                        fontSize: AppDimensions.fontSmall,
+                        color: AppTheme().getSubFontColor(context),
+                        fontWeight: AppFontWeights.medium,
+                      ),
+                    ),
+                    Spacing.height(3),
+                    Container(
+                      decoration: BoxDecoration(
+                        // borderRadius: BorderRadius.circular(5.r),
+                        color: Theme.of(context).cardColor,
+                        boxShadow: [
+                          BoxShadow(
+                            color: Theme.of(context).shadowColor.withOpacity(0.1),
+                            blurRadius: 8.r,
+                            offset: Offset(0, 2.5),
+                          ),
+                        ],
+                      ),
+                      padding: EdgeInsets.symmetric(
+                          vertical: AppDimensions.paddingSmall - 4),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          settingRow(context, Icons.share, l10n.shareApp, "",
+                              showArrow: false,onTap: () {
+                              settingsController.shareContent('Check out this cool app!', subject: 'Awesome App');
+
+                            },),
+                          dividerLine(context),
+                          settingRow(context, Icons.star, l10n.rateApp, "",
+                              showArrow: false),
+                        ],
+                      ),
+                    ),
+                  ],
+                );
+              }),
         ),
-        actions: [
-          Center(
-              child: Padding(
-                  padding: AppDimensions.paddingRightMedium,
-                  child: CommonText(
-                    text: l10n.getVersion,
-                    fontSize: AppDimensions.fontMedium,
-                    color: AppColors.backGroundColor,
-                    fontWeight: AppFontWeights.normal,
-                  )))
-        ]
-      ),
-      body: SingleChildScrollView(
-        child: GetBuilder<SettingsController>(
-            init: SettingsController(),
-            builder: (sController) {
-              return Column(
-                children: [
-                  Spacing.height(10),
-                  Container(
-                    decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(5.r),
-                      color: Theme.of(context).cardColor,
-                      boxShadow: [
-                        BoxShadow(
-                          color: Theme.of(context).shadowColor.withOpacity(0.1),
-                          blurRadius: 8.r,
-                          offset: Offset(0, 2.5),
-                        ),
-                      ],
-                    ),
-                    padding: EdgeInsets.symmetric(
-                        vertical: AppDimensions.paddingSmall - 4),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Padding(
-                          padding: EdgeInsets.symmetric(
-                              horizontal: AppDimensions.paddingMedium,
-                              vertical: AppDimensions.paddingSmall),
-                          child: CommonText(
-                            text: l10n.settingsHelp,
-                            fontSize: AppDimensions.fontXMedium,
-                            color: AppTheme().getFontColor(context),
-                            fontWeight: AppFontWeights.medium,
-                          ),
-                        ),
-                        settingRow(
-                          context,
-                          Icons.location_on,
-                          l10n.changeState,
-                          examController.selectedState.value,
-                          onTap: () {
-                            examController.clearList();
-                            showDialog(
-                              context: context,
-                              builder: (_) => StateSelectionDialog(),
-                            );
-                          },
-                        ),
-                        dividerLine(context),
-                        Obx(() => settingRow(
-                              context,
-                              Icons.language,
-                              l10n.changeLanguage,
-                              controller.selectedLanguage.value?.name ??
-                                  l10n.selectLanguage,
-                              onTap: () {
-                                showDialog(
-                                  context: context,
-                                  builder: (_) {
-                                    final screenHeight =
-                                        MediaQuery.of(context).size.height;
-                                    final screenWidth =
-                                        MediaQuery.of(context).size.width;
-
-                                    final languages =
-                                        controller.languagesForState;
-
-                                    return Dialog(
-                                      shape: RoundedRectangleBorder(
-                                        borderRadius: BorderRadius.circular(12),
-                                      ),
-                                      child: Container(
-                                        height: screenHeight * 0.6,
-                                        width: screenWidth * 0.9,
-                                        padding: EdgeInsets.all(16),
-                                        child: Column(
-                                          crossAxisAlignment:
-                                              CrossAxisAlignment.start,
-                                          children: [
-                                            Text(
-                                              l10n.selectLanguage,
-                                              style: TextStyle(
-                                                  fontSize: 20,
-                                                  fontWeight: FontWeight.bold),
-                                            ),
-                                            SizedBox(height: 16),
-                                            Expanded(
-                                              child: ListView.builder(
-                                                itemCount: languages.length,
-                                                itemBuilder: (context, index) {
-                                                  final lang = languages[index];
-                                                  return InkWell(
-                                                    onTap: () {
-                                                      controller
-                                                          .setSelectedLanguage(
-                                                              lang);
-                                                      Navigator.of(context)
-                                                          .pop();
-                                                    },
-                                                    child: Padding(
-                                                      padding:
-                                                          EdgeInsets.symmetric(
-                                                              vertical: 12,
-                                                              horizontal: 8),
-                                                      child: Text(
-                                                        lang.name,
-                                                        style: TextStyle(
-                                                            fontSize: 16),
-                                                      ),
-                                                    ),
-                                                  );
-                                                },
-                                              ),
-                                            ),
-                                          ],
-                                        ),
-                                      ),
-                                    );
-                                  },
-                                );
-                              },
-                            )),
-                        dividerLine(context),
-                        settingRow(
-                          context,
-                          Icons.dark_mode,
-                          l10n.darkMode,
-                          "",
-                          onTap: () {
-                            showDialog(
-                              context: context,
-                              builder: (_) => DarkModeDialog(
-                                  themeController: themeController),
-                            );
-                          },
-                        ),
-                        dividerLine(context),
-                        settingRow(context, Icons.email, l10n.contactUs, "",
-                            showArrow: false),
-                      ],
-                    ),
-                  ),
-                  SizedBox(height: 10),
-                  Container(
-                    decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(5.r),
-                      color: Theme.of(context).cardColor,
-                      boxShadow: [
-                        BoxShadow(
-                          color: Theme.of(context).shadowColor.withOpacity(0.1),
-                          blurRadius: 8.r,
-                          offset: Offset(0, 2.5),
-                        ),
-                      ],
-                    ),
-                    padding: EdgeInsets.symmetric(
-                        vertical: AppDimensions.paddingSmall - 4),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Padding(
-                          padding: EdgeInsets.symmetric(
-                              horizontal: AppDimensions.paddingMedium,
-                              vertical: AppDimensions.paddingSmall),
-                          child: CommonText(
-                            text: l10n.shareAndApp,
-                            fontSize: AppDimensions.fontXMedium,
-                            color: AppTheme().getFontColor(context),
-                            fontWeight: AppFontWeights.medium,
-                          ),
-                        ),
-                        settingRow(context, Icons.share, l10n.shareApp, "",
-                            showArrow: false),
-                        dividerLine(context),
-                        settingRow(context, Icons.star, l10n.rateApp, "",
-                            showArrow: false),
-                      ],
-                    ),
-                  ),
-                ],
-              );
-            }),
       ),
     );
   }
@@ -260,7 +220,9 @@ class SettingsScreen extends StatelessWidget {
     return InkWell(
       onTap: onTap,
       child: Padding(
-        padding: EdgeInsets.symmetric(horizontal: AppDimensions.paddingMedium, vertical: AppDimensions.paddingMedium),
+        padding: EdgeInsets.symmetric(
+            horizontal: AppDimensions.paddingMedium,
+            vertical: AppDimensions.paddingMedium),
         child: Row(
           children: [
             Icon(icon, size: 24.sp),
@@ -280,7 +242,9 @@ class SettingsScreen extends StatelessWidget {
                 color: AppTheme().getSubFontColor(context),
                 fontWeight: AppFontWeights.normal,
               ),
-            if (showArrow)Icon(Icons.arrow_drop_down, color: AppTheme().getSubFontColor(context)),
+            if (showArrow)
+              Icon(Icons.arrow_drop_down,
+                  color: AppTheme().getSubFontColor(context)),
           ],
         ),
       ),

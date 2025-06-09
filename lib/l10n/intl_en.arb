@@ -48,8 +48,21 @@
   "shareApp": "Share App",
   "rateApp": "Rate App",
   "searchState": "Search state...",
+  "scorecard": "SCORECARD",
   "noStatesFound": "No states found",
+  "settings": "Settings",
+  "home": "HOME",
+  "tryAgain": "TRY AGAIN",
+  "yourAnswer": "Your answer",
+  "rightAnswer": "Right answer",
   "next": "NEXT",
   "previous": "PREVIOUS",
-  "areYouSureYouWant": "Are you sure you want to stop this exam?"
+  "failed": "Failed!",
+  "congratulations": "Congratulations!",
+  "RTOExam": "RTO Exam",
+  "sorryYouHaveFailedTheDriving": "Sorry, you have failed the driving licence test. We would suggest you to refer question bank and try again.",
+  "youHaveSuccessfullyPassed": "You have successfully passed the mock driving licence test. Practice more to increase your chances of success in the actual exam.\n\n",
+  "areYouSureYouWant": "Are you sure you want to stop this exam?",
+  "nextExam": "Next Question",
+  "finish": "Finish"
 }

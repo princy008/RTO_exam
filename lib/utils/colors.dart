@@ -6,7 +6,7 @@ class AppColors {
 
   // static const Color primaryBlue = Color(0xFF46A0AE);
   static const Color deepNavy = Color(0xFF0E173A);
-  static const Color primaryBlue  = Color(0xFF356EA8);
+  static const Color primaryBlue  = Color(0xFFFEE039);
   static const Color questionBankBlue = Color(0xFF356EA8);
   static const Color practiceTestOrange = Color(0xFFFE9946);
   static const Color examBlue = Color(0xFF376EA8);

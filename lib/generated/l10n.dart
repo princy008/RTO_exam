@@ -28,10 +28,9 @@ class S {
   static const AppLocalizationDelegate delegate = AppLocalizationDelegate();
 
   static Future<S> load(Locale locale) {
-    final name =
-        (locale.countryCode?.isEmpty ?? false)
-            ? locale.languageCode
-            : locale.toString();
+    final name = (locale.countryCode?.isEmpty ?? false)
+        ? locale.languageCode
+        : locale.toString();
     final localeName = Intl.canonicalizedLocale(name);
     return initializeMessages(localeName).then((_) {
       Intl.defaultLocale = localeName;
@@ -440,11 +439,46 @@ class S {
     );
   }
 
+  /// `SCORECARD`
+  String get scorecard {
+    return Intl.message('SCORECARD', name: 'scorecard', desc: '', args: []);
+  }
+
   /// `No states found`
   String get noStatesFound {
     return Intl.message(
       'No states found',
       name: 'noStatesFound',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Settings`
+  String get settings {
+    return Intl.message('Settings', name: 'settings', desc: '', args: []);
+  }
+
+  /// `HOME`
+  String get home {
+    return Intl.message('HOME', name: 'home', desc: '', args: []);
+  }
+
+  /// `TRY AGAIN`
+  String get tryAgain {
+    return Intl.message('TRY AGAIN', name: 'tryAgain', desc: '', args: []);
+  }
+
+  /// `Your answer`
+  String get yourAnswer {
+    return Intl.message('Your answer', name: 'yourAnswer', desc: '', args: []);
+  }
+
+  /// `Right answer`
+  String get rightAnswer {
+    return Intl.message(
+      'Right answer',
+      name: 'rightAnswer',
       desc: '',
       args: [],
     );
@@ -460,6 +494,46 @@ class S {
     return Intl.message('PREVIOUS', name: 'previous', desc: '', args: []);
   }
 
+  /// `Failed!`
+  String get failed {
+    return Intl.message('Failed!', name: 'failed', desc: '', args: []);
+  }
+
+  /// `Congratulations!`
+  String get congratulations {
+    return Intl.message(
+      'Congratulations!',
+      name: 'congratulations',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `RTO Exam`
+  String get RTOExam {
+    return Intl.message('RTO Exam', name: 'RTOExam', desc: '', args: []);
+  }
+
+  /// `Sorry, you have failed the driving licence test. We would suggest you to refer question bank and try again.`
+  String get sorryYouHaveFailedTheDriving {
+    return Intl.message(
+      'Sorry, you have failed the driving licence test. We would suggest you to refer question bank and try again.',
+      name: 'sorryYouHaveFailedTheDriving',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `You have successfully passed the mock driving licence test. Practice more to increase your chances of success in the actual exam.\n\n`
+  String get youHaveSuccessfullyPassed {
+    return Intl.message(
+      'You have successfully passed the mock driving licence test. Practice more to increase your chances of success in the actual exam.\n\n',
+      name: 'youHaveSuccessfullyPassed',
+      desc: '',
+      args: [],
+    );
+  }
+
   /// `Are you sure you want to stop this exam?`
   String get areYouSureYouWant {
     return Intl.message(
@@ -468,6 +542,16 @@ class S {
       desc: '',
       args: [],
     );
+  }
+
+  /// `Next Question`
+  String get nextExam {
+    return Intl.message('Next Question', name: 'nextExam', desc: '', args: []);
+  }
+
+  /// `Finish`
+  String get finish {
+    return Intl.message('Finish', name: 'finish', desc: '', args: []);
   }
 }
 

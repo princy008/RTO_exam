@@ -14,7 +14,7 @@ import 'package:smooth_corner/smooth_corner.dart';
 
 import '../../controller/home/home_controller.dart';
 import '../../generated/l10n.dart';
-import '../../model/menu_model.dart'; // Add this import
+import '../../model/menu_model.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -46,51 +46,54 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       backgroundColor: Theme.of(context).scaffoldBackgroundColor,
       appBar: CommonAppBar(
-        backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
+        backgroundColor: Theme.of(context).scaffoldBackgroundColor,
         title: l10n.appTitle,
         textColor: AppColors.backGroundColor,
-        leading: InkWell(
-            onTap: () {
-              Get.back();
-            },
-            child: Icon(
-              Icons.menu,
-              color: AppColors.backGroundColor,
-            )),
+        // leading: InkWell(
+        //     onTap: () {
+        //       Get.back();
+        //     },
+        //     child: Icon(
+        //       Icons.menu,
+        //       color:  AppColors.blackColor,
+        //     )),
         actions: [
-          IconButton(
-              onPressed: () {
-                themeController.toggleTheme();
-              },
-              icon: Icon(
-                Icons.more_vert,
-                color: AppColors.backGroundColor,
-              )),
+          // IconButton(
+          //     onPressed: () {
+          //       themeController.toggleTheme();
+          //     },
+          //     icon: Icon(
+          //       Icons.more_vert,
+          //       color: AppColors.backGroundColor,
+          //     )),
         ],
       ),
       body: Column(
         children: [
-         Obx(() =>  homeController.isLoading.value
-             ? Center(
-               child: CircularProgressIndicator(
-                          valueColor: AlwaysStoppedAnimation<Color>(
-               Theme.of(context).primaryColor,
-                          ),
+          Obx(
+            () => homeController.isLoading.value
+                ? Expanded(
+                  child: Center(
+                      child: CircularProgressIndicator(
+                        valueColor: AlwaysStoppedAnimation<Color>(
+                          Theme.of(context).primaryColor,
                         ),
-             )
-             : Expanded(
-           child: ListView.builder(
-             padding: AppDimensions.paddingAllMedium,
-             itemCount: menuItems.length,
-             itemBuilder: (context, index) {
-               return Padding(
-                 padding: AppDimensions.paddingBottomMedium,
-                 child: _buildMenuItem(menuItems[index], context),
-               );
-             },
-           ),
-
-         ),)
+                      ),
+                    ),
+                )
+                : Expanded(
+                    child: ListView.builder(
+                      padding: AppDimensions.paddingAllMedium,
+                      itemCount: menuItems.length,
+                      itemBuilder: (context, index) {
+                        return Padding(
+                          padding: AppDimensions.paddingBottomMedium,
+                          child: _buildMenuItem(menuItems[index], context),
+                        );
+                      },
+                    ),
+                  ),
+          )
         ],
       ),
     );
@@ -98,71 +101,72 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Widget _buildMenuItem(HomeCardModel item, BuildContext context) {
     return Container(
-        decoration: BoxDecoration(
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(5.r),
+        color: Theme.of(context).cardColor,
+        boxShadow: [
+          BoxShadow(
+            color: Theme.of(context).shadowColor.withOpacity(0.1),
+            blurRadius: 8.r,
+            offset: Offset(0, 2.5),
+          ),
+        ],
+      ),
+      child: SmoothContainer(
+        smoothness: 0.9,
+        borderRadius: BorderRadius.circular(5.r),
+        color: Colors.transparent,
+        child: InkWell(
+          onTap: item.onTap,
           borderRadius: BorderRadius.circular(5.r),
-          color: Theme.of(context).cardColor,
-          boxShadow: [
-            BoxShadow(
-              color: Theme.of(context).shadowColor.withOpacity(0.1),
-              blurRadius: 8.r,
-              offset: Offset(0, 2.5),
-            ),
-          ],
-        ),
-        child: SmoothContainer(
-          smoothness: 0.9,
-          borderRadius: BorderRadius.circular(5.r),
-          color: Colors.transparent,
-          child: InkWell(
-            onTap: item.onTap,
-            borderRadius: BorderRadius.circular(5.r),
-            child: Padding(
-              padding: AppDimensions.paddingAllMedium,
-              child: Row(
-                children: [
-                  SmoothContainer(
-                    smoothness: 0.6,
-                    borderRadius: BorderRadius.circular(50),
-                    width: 60.w,
-                    height: 60.h,
-                    color: item.color,
-                    alignment: Alignment.center,
-                    child: Icon(
-                      item.icon,
-                      color: Colors.white,
-                      size: Icons.psychology == item.icon ? 40.w : 30.w,
-                    ),
+          child: Padding(
+            padding: AppDimensions.paddingAllMedium,
+            child: Row(
+              children: [
+                SmoothContainer(
+                  smoothness: 0.6,
+                  borderRadius: BorderRadius.circular(50),
+                  width: 60.w,
+                  height: 60.h,
+                  color: item.color,
+                  alignment: Alignment.center,
+                  child: Icon(
+                    item.icon,
+                    color: Colors.white,
+                    size: Icons.psychology == item.icon ? 40.w : 30.w,
                   ),
-                  Spacing.width(16),
-                  Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        CommonText(
-                          text: item.title,
-                          fontSize: AppDimensions.fontXMedium + 2,
-                          color: AppTheme().getFontColor(context),
-                          fontWeight: AppFontWeights.bold,
-                        ),
-                        Container(
-                          width: 22.w,
-                          height: 2.5.h,
-                          color: item.color,
-                        ),
-                        Spacing.height(6),
-                        CommonText(
-                          text: item.subtitle,
-                          fontSize: AppDimensions.fontSmall,
-                          color: AppTheme().getSubFontColor(context),
-                          fontWeight: AppFontWeights.medium,
-                        ),
-                      ],
-                    ),
+                ),
+                Spacing.width(16),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      CommonText(
+                        text: item.title,
+                        fontSize: AppDimensions.fontXMedium + 2,
+                        color: AppTheme().getFontColor(context),
+                        fontWeight: AppFontWeights.bold,
+                      ),
+                      Container(
+                        width: 22.w,
+                        height: 2.5.h,
+                        color: item.color,
+                      ),
+                      Spacing.height(6),
+                      CommonText(
+                        text: item.subtitle,
+                        fontSize: AppDimensions.fontSmall,
+                        color: AppTheme().getSubFontColor(context),
+                        fontWeight: AppFontWeights.medium,
+                      ),
+                    ],
                   ),
-                ],
-              ),
+                ),
+              ],
             ),
           ),
-        ));
+        ),
+      ),
+    );
   }
 }

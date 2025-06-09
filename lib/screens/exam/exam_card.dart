@@ -132,19 +132,13 @@ class ExamCard extends StatelessWidget {
       bool isSelected = i == selectedAnswerIndex;
       bool isCorrect = i == correctAnswerIndex;
 
-      if (isSelected && isCorrect) {
-        bgColor = AppColors.correctColor;
-      } else if (isSelected && !isCorrect) {
-        bgColor = AppColors.incorrectColor;
-      } else if (!isSelected && isCorrect) {
-        bgColor = AppColors.correctColor;
+      if (isSelected) {
+        bgColor = AppTheme().getSelectedAnswerColor(context);
+        borderColor = AppColors.blackColor;
+        indexTextColor = AppColors.blackColor;
+        circleColor = Colors.transparent;
       }
 
-      if (bgColor != Theme.of(context).cardColor) {
-        circleColor = bgColor;
-        borderColor = AppColors.backGroundColor;
-        indexTextColor = AppColors.backGroundColor;
-      }
     }
 
     return InkWell(

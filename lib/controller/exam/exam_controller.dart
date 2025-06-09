@@ -9,7 +9,9 @@ import 'package:rto_exam/theme/app_theme.dart';
 import 'package:rto_exam/utils/colors.dart';
 import 'package:rto_exam/utils/constant.dart';
 import 'package:rto_exam/widgets/common_text.dart';
+import 'package:rto_exam/widgets/failed_widget.dart';
 import 'package:rto_exam/widgets/spacing_widget.dart';
+import 'package:vibration/vibration.dart';
 import '../../generated/l10n.dart';
 import '../../model/question_data.dart';
 
@@ -105,15 +107,20 @@ class ExamController extends GetxController {
   }
 
   void nextQuestion() {
-    if (index.value < questionList.length - 1) {
-      index.value++;
-      startTimer();
-    } else {
-      back();
+
+    if(answerChecked.value ) {
+      if (index.value < questionList.length - 1) {
+        index.value++;
+        startTimer();
+      } else {
+        back(navigate: true);
+      }
+      selectedAnswerIndex.value = -1;
+      answerChecked.value = false;
+      update();
+    }else{
+      showSnackBar();
     }
-    selectedAnswerIndex.value = -1;
-    answerChecked.value = false;
-    update();
   }
 
   void previousQuestion() {
@@ -133,6 +140,10 @@ class ExamController extends GetxController {
   }
 
   void selectAnswer(int selectedIndex) async {
+    if (await Vibration.hasVibrator() ?? false) {
+      Vibration.vibrate(duration: 100); // vibrate for 100ms
+    }
+
     selectedAnswerIndex.value = selectedIndex;
     answerChecked.value = true;
     QuestionData questionData = questionList[index.value];
@@ -168,12 +179,12 @@ class ExamController extends GetxController {
                     text: l10n.stopExam,
                     fontSize: AppDimensions.fontXMedium +2,
                     color:AppTheme().getFontColor(context),
-                    fontWeight: AppFontWeights.medium,
+                    fontWeight: AppFontWeights.bold,
                   ),
                   Spacing.height(12),
                   CommonText(
                     text: l10n.areYouSureYouWant,
-                    fontSize: AppDimensions.fontXMedium +2,
+                    fontSize: AppDimensions.fontXMedium ,
                     color:AppTheme().getSubFontColor(context),
                     fontWeight: AppFontWeights.normal,
                   ),
@@ -235,11 +246,15 @@ class ExamController extends GetxController {
 
   }
 
-  void back() async{
+  void back({navigate = false}) async{
     if (_timer != null) {
       _timer!.cancel();
     }
     await ScoreData().saveExamList(questionList);
     Get.back();
+
+    if(navigate){
+      Get.to(FailedWidget(isFailed: wrongAnswer.value >= 3));
+    }
   }
 }

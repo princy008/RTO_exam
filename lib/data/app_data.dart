@@ -187,6 +187,10 @@ class AppData {
     final optionIcons = allOptions.map((sign) => sign['icon']).toList();
     final correctAnswerIndex = optionIcons.indexOf(correctSign['icon']);
 
+    print("optionIcons===${optionIcons}");
+    print("correctAnswerIndex===${correctAnswerIndex}");
+    print("data===${data["sign"]}");
+
     return QuestionData.fromJson({
       'question': 'Which sign denotes \"$s\"?',
       'options': optionIcons,
@@ -197,7 +201,7 @@ class AppData {
       "is_option_sign": true,
       "from_sign": true,
       'd_sign': s,
-      'd_icon': correctSign['icon'],
+      'd_icon': optionIcons[correctAnswerIndex],
     });
   }
 }

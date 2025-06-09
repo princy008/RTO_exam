@@ -51,7 +51,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
               textColor: AppColors.backGroundColor,
               leading: InkWell(
                 onTap: () => practiceController.back(context),
-                child: Icon(Icons.arrow_back, color: AppColors.backGroundColor),
+                child: Icon(Icons.arrow_back, color: AppColors.blackColor),
               ),
               actions: [
                 Obx(() {
@@ -98,7 +98,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
                 Spacing.width(12),
               ],
             ),
-            body:  controller.isLoading.value?Center(
+            body:  controller.isLoading.value ? Center(
               child: CircularProgressIndicator(
                 valueColor: AlwaysStoppedAnimation<Color>(
                   Theme.of(context).primaryColor,
@@ -143,6 +143,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
               correctCount: controller.rightAnswer.value,
               incorrectCount: controller.wrongAnswer.value,
               currentIndex: controller.index.value,
+              totalQuestions: controller.questionList.length,
               onNextPressed: () =>  controller.nextQuestion(),
               onPreviousPressed: () =>controller.previousQuestion() ,
             ),
@@ -159,6 +160,8 @@ class CustomBottomBar extends StatelessWidget {
   final VoidCallback onNextPressed;
   final VoidCallback onPreviousPressed;
   final int currentIndex;
+  final int totalQuestions;
+
 
   const CustomBottomBar({
     super.key,
@@ -167,11 +170,15 @@ class CustomBottomBar extends StatelessWidget {
     required this.onNextPressed,
     required this.onPreviousPressed,
     required this.currentIndex,
+    required this.totalQuestions,
+
   });
 
   @override
   Widget build(BuildContext context) {
     final l10n = S.of(context);
+    bool isLastQuestion = currentIndex >= totalQuestions - 1;
+
     return Container(
       padding: EdgeInsets.symmetric(
         horizontal: 2,
@@ -238,6 +245,7 @@ class CustomBottomBar extends StatelessWidget {
             ),
           ),
           Spacer(),
+    if (!isLastQuestion) ...[
           CommonButton(
             text: l10n.next,
             height: 40.h,
@@ -248,7 +256,7 @@ class CustomBottomBar extends StatelessWidget {
           ),
           Spacing.width(10),
         ],
-      ),
+  ]),
     );
   }
 }

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
+import 'package:rto_exam/controller/language/language_selection_controller.dart';
 import 'package:rto_exam/generated/l10n.dart';
 import 'package:rto_exam/theme/app_theme.dart';
 import 'package:rto_exam/utils/colors.dart';
@@ -9,9 +10,11 @@ import 'package:rto_exam/widgets/common_text.dart';
 import 'package:rto_exam/widgets/spacing_widget.dart';
 import '../../data/state_data.dart'; // your states data
 import '../../controller/settings/settings_controller.dart';
+import '../data/language_data.dart';
 
 class StateSelectionDialog extends StatelessWidget {
   final SettingsController sController = Get.find();
+  final LanguageController languageController = Get.find();
 
   final String? title;
   StateSelectionDialog({super.key, this.title });
@@ -72,7 +75,9 @@ class StateSelectionDialog extends StatelessWidget {
                     return InkWell(
                       onTap: () {
                         controller.setSelectedState(stateLang.state);
-                      Get.back();
+                        languageController.selectedLanguage.value = null;
+
+                        Get.back();
                       },
                       child: Padding(
                         padding: EdgeInsets.symmetric(vertical:AppDimensions.paddingSmall+4, horizontal: AppDimensions.paddingSmall-4),

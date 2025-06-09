@@ -22,8 +22,8 @@ class QuestionBankScreen extends StatefulWidget {
 }
 
 class _QuestionBankScreenState extends State<QuestionBankScreen> {
-  final QuestionBankController questionController = Get.put(QuestionBankController());
-
+  final QuestionBankController questionController =
+      Get.put(QuestionBankController());
 
   @override
   void initState() {
@@ -35,120 +35,128 @@ class _QuestionBankScreenState extends State<QuestionBankScreen> {
   Widget build(BuildContext context) {
     final l10n = S.of(context);
 
-    return GetBuilder<QuestionBankController>(init: QuestionBankController(),builder: (controller) => Scaffold(
-      backgroundColor: Theme.of(context).scaffoldBackgroundColor,
-      appBar: CommonAppBar(
-        backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
-        title: l10n.questionBank,
-        textColor: AppColors.backGroundColor,
-        leading: InkWell(
-          onTap: () {
-            Get.back();
-          },
-          child: Icon(Icons.arrow_back_ios, color:AppColors.backGroundColor),
+    return GetBuilder<QuestionBankController>(
+      init: QuestionBankController(),
+      builder: (controller) => Scaffold(
+        backgroundColor: Theme.of(context).scaffoldBackgroundColor,
+        appBar: CommonAppBar(
+          backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
+          title: l10n.questionBank,
+          textColor: AppColors.backGroundColor,
+          leading: InkWell(
+            onTap: () {
+              Get.back();
+            },
+            child: Icon(Icons.arrow_back_ios, color: AppColors.blackColor),
+          ),
+          actions: [
+            Obx(() {
+              return PopupMenuButton<String>(
+                initialValue: questionController.selectedFilter.value,
+                onSelected: (value) {
+                  questionController.selectedFilter.value = value;
+                },
+                itemBuilder: (context) => [
+                  PopupMenuItem(
+                    value: 'All',
+                    child: CommonText(
+                      text: "All",
+                      fontSize: AppDimensions.fontSmall,
+                      color: AppTheme().getFontColor(context),
+                      fontWeight: AppFontWeights.medium,
+                    ),
+                  ),
+                  PopupMenuItem(
+                    value: 'Bookmarks',
+                    child: CommonText(
+                      text: "Bookmarks",
+                      fontSize: AppDimensions.fontSmall,
+                      color: AppTheme().getFontColor(context),
+                      fontWeight: AppFontWeights.medium,
+                    ),
+                  ),
+                ],
+                child: Row(
+                  children: [
+                    CommonText(
+                      text: questionController.selectedFilter.value,
+                      fontSize: AppDimensions.fontSmall,
+                      color: AppColors.backGroundColor,
+                      fontWeight: AppFontWeights.medium,
+                    ),
+                    Icon(Icons.arrow_drop_down,
+                        color: AppColors.backGroundColor),
+                    Spacing.width(12),
+                  ],
+                ),
+              );
+            }),
+          ],
         ),
-        actions: [
-          Obx(() {
-            return PopupMenuButton<String>(
-              initialValue: questionController.selectedFilter.value,
-              onSelected: (value) {
-                questionController.selectedFilter.value = value;
-              },
-              itemBuilder: (context) => [
-                PopupMenuItem(
-                  value: 'All',
-                  child:  CommonText(
-                    text: "All",
-                    fontSize: AppDimensions.fontSmall,
-                    color: AppTheme().getFontColor(context),
-                    fontWeight: AppFontWeights.medium,
-                  ),
+        body: Column(
+          children: [
+            Padding(
+              padding: AppDimensions.paddingAllMedium,
+              child: Container(
+                height: 45.h,
+                decoration: BoxDecoration(
+                  color: AppTheme().getTabColor(context),
+                  borderRadius: BorderRadius.circular(4.r),
                 ),
-                PopupMenuItem(
-                  value: 'Bookmarks',
-                  child: CommonText(
-                    text: "Bookmarks",
-                    fontSize: AppDimensions.fontSmall,
-                    color: AppTheme().getFontColor(context),
-                    fontWeight: AppFontWeights.medium,
-                  ),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceAround,
+                  children: [
+                    _tabButton(l10n.questions, 0),
+                    _tabButton(l10n.trafficSigns, 1),
+                  ],
                 ),
-              ],
-              child: Row(
-                children: [
-                  CommonText(
-                    text: questionController.selectedFilter.value,
-                    fontSize: AppDimensions.fontSmall,
-                    color: AppColors.backGroundColor,
-                    fontWeight: AppFontWeights.medium,
-                  ),
-                  Icon(Icons.arrow_drop_down, color: AppColors.backGroundColor),
-                  Spacing.width(12),
-                ],
-              ),
-            );
-          }),
-        ],
-      ),
-      body: Column(
-        children: [
-          Padding(
-            padding: AppDimensions.paddingAllMedium,
-            child: Container(
-              height: 45.h,
-              decoration: BoxDecoration(
-                color: AppTheme().getTabColor(context),
-                borderRadius: BorderRadius.circular(4.r),
-              ),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceAround,
-                children: [
-                  _tabButton(l10n.questions, 0),
-                  _tabButton(l10n.trafficSigns, 1),
-                ],
               ),
             ),
-          ),
-          Obx(() {
-            final filteredList = questionController.filteredQuestions;
-            return  Expanded(
-              child: questionController.selectedIndex.value == 0
-                  ? ListView.builder(
-                itemCount: filteredList.length,
-                itemBuilder: (context, index) {
-                  final item = filteredList[index];
-                  return QuestionCard(
-                    questionTitle: "${index + 1}. ",
-                    question: item.question,
-                    answer: item.options[item.correctAnswer],
-                    isBookmarked: questionController.isBookmarked(item.id??0),
-                    onBookmarkToggle: () {
-                      questionController.toggleBookmark(item.id??0);
-                    },
-                  );
-                },
-              )
-                  : ListView.builder(
-                itemCount: filteredList.length,
-                itemBuilder: (context, index) {
-                  final item = filteredList[index];
+            Obx(
+              () {
+                final filteredList = questionController.filteredQuestions;
+                return Expanded(
+                  child: questionController.selectedIndex.value == 0
+                      ? ListView.builder(
+                          itemCount: filteredList.length,
+                          itemBuilder: (context, index) {
+                            final item = filteredList[index];
+                            return QuestionCard(
+                              questionTitle: "${index + 1}. ",
+                              question: item.question,
+                              answer: item.options[item.correctAnswer],
+                              isBookmarked:
+                                  questionController.isBookmarked(item.id ?? 0),
+                              onBookmarkToggle: () {
+                                questionController.toggleBookmark(item.id ?? 0);
+                              },
+                            );
+                          },
+                        )
+                      : ListView.builder(
+                          itemCount: filteredList.length,
+                          itemBuilder: (context, index) {
+                            final item = filteredList[index];
 
-                  return SignCard(
-                    signIcon: "${item.displayIcon}",
-                    signTitle: "${item.displaySign}",
-                    signIndex:"${index + 1}. ",
-                    isBookmarked: questionController.isBookmarked(item.id??0),
-                    onBookmarkToggle: () {
-                      questionController.toggleBookmark(item.id??0);
-                    },
-                  );
-                },
-              ),
-            );
-          },)
-        ],
+                            return SignCard(
+                              signIcon: "${item.displayIcon}",
+                              signTitle: "${item.displaySign}",
+                              signIndex: "${index + 1}. ",
+                              isBookmarked:
+                                  questionController.isBookmarked(item.id ?? 0),
+                              onBookmarkToggle: () {
+                                questionController.toggleBookmark(item.id ?? 0);
+                              },
+                            );
+                          },
+                        ),
+                );
+              },
+            )
+          ],
+        ),
       ),
-    ),);
+    );
   }
 
   Widget _tabButton(String label, int index) {

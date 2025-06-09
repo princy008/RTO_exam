@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class LanguageData {
   final String code;
   final String name;
@@ -38,6 +40,19 @@ final List<Map<String, String>> allLanguagesMap = [
   {'code': 'ta', 'name': 'tamil', 'display': 'தமிழ்'},
   {'code': 'pa', 'name': 'punjabi', 'display': 'ਪੰਜਾਬੀ'},
   {'code': 'bn', 'name': 'bengali', 'display': 'বাংলা'},
+];
+final  localList =[
+  Locale('en'), // English
+  Locale('hi'), // Hindi
+  Locale('te'), // Telugu
+  Locale('gu'), // Gujarati
+  Locale('kn'), // Kannada
+  Locale('ml'), // Malayalam
+  Locale('mr'), // Marathi
+  Locale('or'), // Odia
+  Locale('ta'), // Tamil
+  Locale('pa'), // Punjabi
+  Locale('bn'), // Bengali
 ];
 
 final List<LanguageData> allLanguages = allLanguagesMap.map((e) => LanguageData.fromMap(e)).toList();

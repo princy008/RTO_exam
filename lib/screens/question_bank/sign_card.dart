@@ -26,6 +26,7 @@ class SignCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    print("signIcon++$signIcon");
     return Padding(
       padding: AppDimensions.paddingBottomSmall,
       child: Container(

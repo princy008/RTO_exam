@@ -9,11 +9,11 @@ import 'package:rto_exam/utils/colors.dart';
 import 'package:rto_exam/utils/constant.dart';
 import 'package:rto_exam/widgets/common_text.dart';
 import 'package:rto_exam/widgets/spacing_widget.dart';
+import 'package:vibration/vibration.dart';
 import '../../generated/l10n.dart';
 import '../../model/question_data.dart';
 
 class PracticeController extends GetxController {
-
   RxString selectedFilter = '0'.obs;
   RxInt index = 0.obs;
   RxInt selectedAnswerIndex = (-1).obs;
@@ -27,7 +27,6 @@ class PracticeController extends GetxController {
   final rightAnswerKey = 'right_answer';
   final wrongAnswerKey = 'wrong_answer';
   RxBool showResumeDialog = true.obs;
-
 
   var bookMarkList = <int>[].obs;
 
@@ -88,15 +87,15 @@ class PracticeController extends GetxController {
                 children: [
                   CommonText(
                     text: l10n.practice,
-                    fontSize: AppDimensions.fontXMedium +2,
-                    color:AppTheme().getFontColor(context),
-                    fontWeight: AppFontWeights.medium,
+                    fontSize: AppDimensions.fontXMedium + 2,
+                    color: AppTheme().getFontColor(context),
+                    fontWeight: AppFontWeights.bold,
                   ),
                   Spacing.height(12),
                   CommonText(
                     text: l10n.continueFromWhereYouLeft,
-                    fontSize: AppDimensions.fontXMedium +2,
-                    color:AppTheme().getSubFontColor(context),
+                    fontSize: AppDimensions.fontXMedium,
+                    color: AppTheme().getSubFontColor(context),
                     fontWeight: AppFontWeights.normal,
                   ),
                   Spacing.height(15),
@@ -104,9 +103,12 @@ class PracticeController extends GetxController {
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: [
                       Container(
-                        padding: EdgeInsets.symmetric(horizontal: AppDimensions.paddingMedium, vertical: AppDimensions.paddingSmall),
+                        padding: EdgeInsets.symmetric(
+                            horizontal: AppDimensions.paddingMedium,
+                            vertical: AppDimensions.paddingSmall),
                         decoration: BoxDecoration(
-                          border: Border.all(color: AppColors.subFontColor,width: 0.3),
+                          border: Border.all(
+                              color: AppColors.subFontColor, width: 0.3),
                           borderRadius: BorderRadius.circular(5.r),
                         ),
                         child: InkWell(
@@ -115,17 +117,20 @@ class PracticeController extends GetxController {
                           },
                           child: CommonText(
                             text: l10n.no,
-                            fontSize: AppDimensions.fontMedium ,
-                            color:AppTheme().getFontColor(context),
+                            fontSize: AppDimensions.fontMedium,
+                            color: AppTheme().getFontColor(context),
                             fontWeight: AppFontWeights.medium,
                           ),
                         ),
                       ),
                       Spacing.width(8),
                       Container(
-                        padding: EdgeInsets.symmetric(horizontal: AppDimensions.paddingMedium, vertical: AppDimensions.paddingSmall),
+                        padding: EdgeInsets.symmetric(
+                            horizontal: AppDimensions.paddingMedium,
+                            vertical: AppDimensions.paddingSmall),
                         decoration: BoxDecoration(
-                          border: Border.all(color: AppColors.subFontColor,width: 0.3),
+                          border: Border.all(
+                              color: AppColors.subFontColor, width: 0.3),
                           borderRadius: BorderRadius.circular(5.r),
                         ),
                         child: InkWell(
@@ -133,10 +138,10 @@ class PracticeController extends GetxController {
                             Get.back();
                             continueWithLastQuestion();
                           },
-                          child:  CommonText(
+                          child: CommonText(
                             text: l10n.yes,
                             fontSize: AppDimensions.fontMedium,
-                            color:AppTheme().getFontColor(context),
+                            color: AppTheme().getFontColor(context),
                             fontWeight: AppFontWeights.medium,
                           ),
                         ),
@@ -160,9 +165,9 @@ class PracticeController extends GetxController {
     update();
   }
 
-    List<QuestionData> get filteredQuestions {
-      return questionList.where((q) => isBookmarked(q.id ?? 0)).toList();
-    }
+  List<QuestionData> get filteredQuestions {
+    return questionList.where((q) => isBookmarked(q.id ?? 0)).toList();
+  }
 
   bool isBookmarked(int id) {
     return bookMarkList.contains(id);
@@ -197,13 +202,14 @@ class PracticeController extends GetxController {
   }
 
   void nextQuestion() {
-    if (index.value < questionList.length - 1) {
-      index.value++;
-    } else {
-      index.value = 0;
-    }
-    setAnswer();
-    update();
+      if (index.value < questionList.length - 1) {
+        index.value++;
+      } else {
+        index.value = 0;
+      }
+      setAnswer();
+      update();
+
   }
 
   setAnswer() {
@@ -231,6 +237,9 @@ class PracticeController extends GetxController {
   }
 
   void selectAnswer(int selectedIndex) async {
+    if (await Vibration.hasVibrator() ?? false) {
+      Vibration.vibrate(duration: 100);
+    }
     QuestionData questionData = questionList[index.value];
     questionList[index.value].userAnswer = selectedIndex;
 

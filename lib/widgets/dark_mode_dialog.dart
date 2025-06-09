@@ -26,13 +26,11 @@ class _DarkModeDialogState extends State<DarkModeDialog> {
   @override
   void initState() {
     super.initState();
-    // Initialize selectedOption based on current theme
     if (widget.themeController.isDarkMode.value) {
       selectedOption = ThemeOption.on;
     } else {
       selectedOption = ThemeOption.off;
     }
-    // You can extend logic for Auto mode if needed
   }
 
   void applySelection() {
@@ -57,7 +55,7 @@ class _DarkModeDialogState extends State<DarkModeDialog> {
     final l10n = S.of(context);
 
     return Dialog(
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(4.r )),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(4.r)),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisSize: MainAxisSize.min,
@@ -67,7 +65,7 @@ class _DarkModeDialogState extends State<DarkModeDialog> {
             color: Theme.of(context).cardColor,
             width: double.infinity,
             child: Padding(
-              padding:AppDimensions. paddingLeftMedium,
+              padding: AppDimensions.paddingLeftMedium,
               child: Row(
                 children: [
                   CommonText(
@@ -78,21 +76,20 @@ class _DarkModeDialogState extends State<DarkModeDialog> {
                   ),
                   Spacer(),
                   InkWell(
-                    onTap: () {
-                      Get.back();
-                    },
-                      child: Icon(Icons.close,color: AppTheme().getSubFontColor(context))),
-                  SizedBox(width: 20),
+                      onTap: () {
+                        Get.back();
+                      },
+                      child: Icon(Icons.close,
+                          color: AppTheme().getSubFontColor(context))),
+                  Spacing.width(20),
                 ],
               ),
             ),
           ),
-          Spacing.height(10),
-          buildOptionTile(context, l10n, ThemeOption.auto, 'Auto'),
-          Divider(color: AppTheme().getSubFontColor(context)),
           buildOptionTile(context, l10n, ThemeOption.on, l10n.on),
-          Divider(color:  AppTheme().getSubFontColor(context)),
+          Divider(color: AppTheme().getSubFontColor(context)),
           buildOptionTile(context, l10n, ThemeOption.off, l10n.off),
+          Spacing.height(8),
         ],
       ),
     );
@@ -107,30 +104,28 @@ class _DarkModeDialogState extends State<DarkModeDialog> {
           selectedOption = option;
         });
         applySelection();
-
       },
       child: Container(
         width: double.infinity,
-        padding: EdgeInsets.symmetric(vertical: 12.h, horizontal: 16.w),
-        // color: AppColors.lightGrayMode.withOpacity(0.3),
-        child:
-        Row(
+        padding: EdgeInsets.symmetric(
+          vertical: AppDimensions.paddingMedium - 4,
+          horizontal: AppDimensions.paddingMedium,
+        ),
+        child: Row(
           children: [
-            CommonText(text: label,
+            CommonText(
+              text: label,
               fontSize: AppDimensions.fontMedium,
               color: AppTheme().getFontColor(context),
               fontWeight: AppFontWeights.normal,
             ),
             Spacer(),
             if (isSelected)
-              Icon(Icons.check, color: AppTheme().getFontColor(context), size: 22.sp),
+              Icon(Icons.check,
+                  color: AppTheme().getFontColor(context), size: 22.sp),
           ],
         ),
       ),
     );
   }
-
 }
-
-
-

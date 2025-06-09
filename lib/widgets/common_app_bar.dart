@@ -27,32 +27,37 @@ class CommonAppBar extends StatelessWidget implements PreferredSizeWidget {
     this.actions,
     this.forceMaterialTransparency = false,
     this.iconColor,
-    this.textColor, this.backgroundColor,
-
+    this.textColor,
+    this.backgroundColor,
   });
 
   @override
   Widget build(BuildContext context) {
     return AppBar(
       forceMaterialTransparency: forceMaterialTransparency,
-      backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
-      foregroundColor: Theme.of(context).appBarTheme.foregroundColor,
+      backgroundColor: AppColors.primaryBlue,
+      foregroundColor: AppColors.primaryBlue,
       surfaceTintColor: Theme.of(context).primaryColor,
       elevation: 0,
       leading: leading,
-      // leadingWidth: 60.w,
+
+      leadingWidth: leading==null?0:50.w,
       // centerTitle: true,
+
+
       title: CommonText(
         text: title ?? '',
-        fontSize: AppDimensions.fontLarge-2,
-        color: textColor ?? Theme.of(context).scaffoldBackgroundColor,
+        fontSize: AppDimensions.fontLarge - 2,
+        color:  AppColors.blackColor,
         fontWeight: AppFontWeights.bold,
       ),
       actions: actions ??
           [
-            getSvgImage('bag_image.svg',color: iconColor ?? AppColors.buttonColor),
+            getSvgImage('bag_image.svg',
+                color: AppColors.blackColor),
             Spacing.width(12),
-            getSvgImage('notification.svg',color: iconColor ?? AppColors.buttonColor),
+            getSvgImage('notification.svg',
+                color:  AppColors.blackColor),
             Spacing.width(16),
           ],
     );

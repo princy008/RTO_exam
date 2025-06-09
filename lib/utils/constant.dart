@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:get/get.dart';
+import 'package:rto_exam/utils/colors.dart';
 
 class Constant {
   static String assetImagePath = "assets/images/";
@@ -118,4 +120,38 @@ class AppFontWeights {
   // Alternative Names (Same Values)
   static const FontWeight regular = FontWeight.w400;
   static const FontWeight heavy = FontWeight.w900;
+}
+
+
+showSnackBar(){
+  Get.snackbar(
+    'Error!', // Title
+    'Please select one option', // Message
+    colorText: Colors.white,
+    backgroundColor: AppColors.incorrectColor,
+    snackPosition: SnackPosition.BOTTOM, // or SnackPosition.TOP
+    duration: Duration(seconds: 3),
+    margin: EdgeInsets.all(10),
+    borderRadius: 8,
+  );
+}
+
+
+showLanguageSnackBar(){
+  Get.snackbar(
+    'Error!', // Title
+    'Please select Language', // Message
+    colorText: Colors.white,
+    backgroundColor: AppColors.incorrectColor,
+    snackPosition: SnackPosition.BOTTOM, // or SnackPosition.TOP
+    duration: Duration(seconds: 3),
+    margin: EdgeInsets.all(10),
+    borderRadius: 8,
+  );
+}
+extension StringExtension on String {
+  String capitalizeFirstLetter() {
+    if (isEmpty) return this;
+    return this[0].toUpperCase() + substring(1);
+  }
 }

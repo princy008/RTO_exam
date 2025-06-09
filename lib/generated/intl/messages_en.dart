@@ -25,6 +25,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "LicenseApplicationOffice": MessageLookupByLibrary.simpleMessage(
       "License application and office details",
     ),
+    "RTOExam": MessageLookupByLibrary.simpleMessage("RTO Exam"),
     "all": MessageLookupByLibrary.simpleMessage("All"),
     "answer": MessageLookupByLibrary.simpleMessage("Answer"),
     "appTitle": MessageLookupByLibrary.simpleMessage("RTO Exam : TraffIQ"),
@@ -38,6 +39,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "bookmarks": MessageLookupByLibrary.simpleMessage("Bookmarks"),
     "changeLanguage": MessageLookupByLibrary.simpleMessage("Change Language"),
     "changeState": MessageLookupByLibrary.simpleMessage("Change State"),
+    "congratulations": MessageLookupByLibrary.simpleMessage("Congratulations!"),
     "contactUs": MessageLookupByLibrary.simpleMessage("Contact Us"),
     "continueFromWhereYouLeft": MessageLookupByLibrary.simpleMessage(
       "Continue from where you left?",
@@ -46,12 +48,16 @@ class MessageLookup extends MessageLookupByLibrary {
     "darkMode": MessageLookupByLibrary.simpleMessage("Dark Mode"),
     "drivingSchools": MessageLookupByLibrary.simpleMessage("Driving Schools"),
     "exam": MessageLookupByLibrary.simpleMessage("Exam"),
+    "failed": MessageLookupByLibrary.simpleMessage("Failed!"),
+    "finish": MessageLookupByLibrary.simpleMessage("Finish"),
     "getVersion": MessageLookupByLibrary.simpleMessage("v3.43 (101)"),
+    "home": MessageLookupByLibrary.simpleMessage("HOME"),
     "instructions": MessageLookupByLibrary.simpleMessage("Instructions"),
     "listOfQuestions": MessageLookupByLibrary.simpleMessage(
       "List of questions and answers and meaning of road signs",
     ),
     "next": MessageLookupByLibrary.simpleMessage("NEXT"),
+    "nextExam": MessageLookupByLibrary.simpleMessage("Next Question"),
     "no": MessageLookupByLibrary.simpleMessage("NO"),
     "noStatesFound": MessageLookupByLibrary.simpleMessage("No states found"),
     "off": MessageLookupByLibrary.simpleMessage("Off"),
@@ -70,11 +76,13 @@ class MessageLookup extends MessageLookupByLibrary {
     "practiceTest": MessageLookupByLibrary.simpleMessage("Practice Test"),
     "previous": MessageLookupByLibrary.simpleMessage("PREVIOUS"),
     "questionBank": MessageLookupByLibrary.simpleMessage("Question Bank"),
-    "questions": MessageLookupByLibrary.simpleMessage("Question"),
+    "questions": MessageLookupByLibrary.simpleMessage("Questions"),
     "questionsAreAskedInTheTest": MessageLookupByLibrary.simpleMessage(
       "questions are asked in the test at random. Out of these, 11 questions must be answered correctly to pass the test.",
     ),
     "rateApp": MessageLookupByLibrary.simpleMessage("Rate App"),
+    "rightAnswer": MessageLookupByLibrary.simpleMessage("Right answer"),
+    "scorecard": MessageLookupByLibrary.simpleMessage("SCORECARD"),
     "searchForDrivingSchools": MessageLookupByLibrary.simpleMessage(
       "Search for driving schools near you",
     ),
@@ -87,9 +95,13 @@ class MessageLookup extends MessageLookupByLibrary {
     "selectedLanguage": MessageLookupByLibrary.simpleMessage(
       "selected_language",
     ),
+    "settings": MessageLookupByLibrary.simpleMessage("Settings"),
     "settingsHelp": MessageLookupByLibrary.simpleMessage("Settings & Help"),
     "shareAndApp": MessageLookupByLibrary.simpleMessage("Share & App"),
     "shareApp": MessageLookupByLibrary.simpleMessage("Share App"),
+    "sorryYouHaveFailedTheDriving": MessageLookupByLibrary.simpleMessage(
+      "Sorry, you have failed the driving licence test. We would suggest you to refer question bank and try again.",
+    ),
     "startExam": MessageLookupByLibrary.simpleMessage("START EXAM"),
     "stopExam": MessageLookupByLibrary.simpleMessage("Stop Exam"),
     "subjectLikeRulesAndRegulations": MessageLookupByLibrary.simpleMessage(
@@ -102,9 +114,14 @@ class MessageLookup extends MessageLookupByLibrary {
       "This sign represents...",
     ),
     "trafficSigns": MessageLookupByLibrary.simpleMessage("Traffic Signs"),
+    "tryAgain": MessageLookupByLibrary.simpleMessage("TRY AGAIN"),
     "welcomeTORTOExam": MessageLookupByLibrary.simpleMessage(
       "Welcome to RTO Exam",
     ),
     "yes": MessageLookupByLibrary.simpleMessage("YES"),
+    "youHaveSuccessfullyPassed": MessageLookupByLibrary.simpleMessage(
+      "You have successfully passed the mock driving licence test. Practice more to increase your chances of success in the actual exam.\n\n",
+    ),
+    "yourAnswer": MessageLookupByLibrary.simpleMessage("Your answer"),
   };
 }
